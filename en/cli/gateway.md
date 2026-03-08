@@ -1,0 +1,198 @@
+
+
+  CLI commands
+
+  
+# gateway
+
+The Gateway is OpenClaw’s WebSocket server (channels, nodes, sessions, hooks). Subcommands in this page live under `openclaw gateway …`. Related docs:
+
+-   [/gateway/bonjour](../gateway/bonjour.md)
+-   [/gateway/discovery](../gateway/discovery.md)
+-   [/gateway/configuration](../gateway/configuration.md)
+
+## Run the Gateway
+
+Run a local Gateway process:
+
+```bash
+openclaw gateway
+```
+
+Foreground alias:
+
+```bash
+openclaw gateway run
+```
+
+Notes:
+
+-   By default, the Gateway refuses to start unless `gateway.mode=local` is set in `~/.openclaw/openclaw.json`. Use `--allow-unconfigured` for ad-hoc/dev runs.
+-   Binding beyond loopback without auth is blocked (safety guardrail).
+-   `SIGUSR1` triggers an in-process restart when authorized (`commands.restart` is enabled by default; set `commands.restart: false` to block manual restart, while gateway tool/config apply/update remain allowed).
+-   `SIGINT`/`SIGTERM` handlers stop the gateway process, but they don’t restore any custom terminal state. If you wrap the CLI with a TUI or raw-mode input, restore the terminal before exit.
+
+### Options
+
+-   `--port `: WebSocket port (default comes from config/env; usually `18789`).
+-   `--bind <loopback|lan|tailnet|auto|custom>`: listener bind mode.
+-   `--auth <token|password>`: auth mode override.
+-   `--token `: token override (also sets `OPENCLAW_GATEWAY_TOKEN` for the process).
+-   `--password `: password override (also sets `OPENCLAW_GATEWAY_PASSWORD` for the process).
+-   `--tailscale <off|serve|funnel>`: expose the Gateway via Tailscale.
+-   `--tailscale-reset-on-exit`: reset Tailscale serve/funnel config on shutdown.
+-   `--allow-unconfigured`: allow gateway start without `gateway.mode=local` in config.
+-   `--dev`: create a dev config + workspace if missing (skips BOOTSTRAP.md).
+-   `--reset`: reset dev config + credentials + sessions + workspace (requires `--dev`).
+-   `--force`: kill any existing listener on the selected port before starting.
+-   `--verbose`: verbose logs.
+-   `--claude-cli-logs`: only show claude-cli logs in the console (and enable its stdout/stderr).
+-   `--ws-log <auto|full|compact>`: websocket log style (default `auto`).
+-   `--compact`: alias for `--ws-log compact`.
+-   `--raw-stream`: log raw model stream events to jsonl.
+-   `--raw-stream-path `: raw stream jsonl path.
+
+## Query a running Gateway
+
+All query commands use WebSocket RPC. Output modes:
+
+-   Default: human-readable (colored in TTY).
+-   `--json`: machine-readable JSON (no styling/spinner).
+-   `--no-color` (or `NO_COLOR=1`): disable ANSI while keeping human layout.
+
+Shared options (where supported):
+
+-   `--url `: Gateway WebSocket URL.
+-   `--token `: Gateway token.
+-   `--password `: Gateway password.
+-   `--timeout `: timeout/budget (varies per command).
+-   `--expect-final`: wait for a “final” response (agent calls).
+
+Note: when you set `--url`, the CLI does not fall back to config or environment credentials. Pass `--token` or `--password` explicitly. Missing explicit credentials is an error.
+
+### gateway health
+
+```bash
+openclaw gateway health --url ws://127.0.0.1:18789
+```
+
+### gateway status
+
+`gateway status` shows the Gateway service (launchd/systemd/schtasks) plus an optional RPC probe.
+
+```bash
+openclaw gateway status
+openclaw gateway status --json
+```
+
+Options:
+
+-   `--url `: override the probe URL.
+-   `--token `: token auth for the probe.
+-   `--password `: password auth for the probe.
+-   `--timeout `: probe timeout (default `10000`).
+-   `--no-probe`: skip the RPC probe (service-only view).
+-   `--deep`: scan system-level services too.
+
+Notes:
+
+-   `gateway status` resolves configured auth SecretRefs for probe auth when possible.
+-   If a required auth SecretRef is unresolved in this command path, probe auth can fail; pass `--token`/`--password` explicitly or resolve the secret source first.
+
+### gateway probe
+
+`gateway probe` is the “debug everything” command. It always probes:
+
+-   your configured remote gateway (if set), and
+-   localhost (loopback) **even if remote is configured**.
+
+If multiple gateways are reachable, it prints all of them. Multiple gateways are supported when you use isolated profiles/ports (e.g., a rescue bot), but most installs still run a single gateway.
+
+```bash
+openclaw gateway probe
+openclaw gateway probe --json
+```
+
+#### Remote over SSH (Mac app parity)
+
+The macOS app “Remote over SSH” mode uses a local port-forward so the remote gateway (which may be bound to loopback only) becomes reachable at `ws://127.0.0.1:`. CLI equivalent:
+
+```bash
+openclaw gateway probe --ssh user@gateway-host
+```
+
+Options:
+
+-   `--ssh `: `user@host` or `user@host:port` (port defaults to `22`).
+-   `--ssh-identity `: identity file.
+-   `--ssh-auto`: pick the first discovered gateway host as SSH target (LAN/WAB only).
+
+Config (optional, used as defaults):
+
+-   `gateway.remote.sshTarget`
+-   `gateway.remote.sshIdentity`
+
+### gateway call &lt;method&gt;
+
+Low-level RPC helper.
+
+```bash
+openclaw gateway call status
+openclaw gateway call logs.tail --params '{"sinceMs": 60000}'
+```
+
+## Manage the Gateway service
+
+```bash
+openclaw gateway install
+openclaw gateway start
+openclaw gateway stop
+openclaw gateway restart
+openclaw gateway uninstall
+```
+
+Notes:
+
+-   `gateway install` supports `--port`, `--runtime`, `--token`, `--force`, `--json`.
+-   When token auth requires a token and `gateway.auth.token` is SecretRef-managed, `gateway install` validates that the SecretRef is resolvable but does not persist the resolved token into service environment metadata.
+-   If token auth requires a token and the configured token SecretRef is unresolved, install fails closed instead of persisting fallback plaintext.
+-   In inferred auth mode, shell-only `OPENCLAW_GATEWAY_PASSWORD`/`CLAWDBOT_GATEWAY_PASSWORD` does not relax install token requirements; use durable config (`gateway.auth.password` or config `env`) when installing a managed service.
+-   If both `gateway.auth.token` and `gateway.auth.password` are configured and `gateway.auth.mode` is unset, install is blocked until mode is set explicitly.
+-   Lifecycle commands accept `--json` for scripting.
+
+## Discover gateways (Bonjour)
+
+`gateway discover` scans for Gateway beacons (`_openclaw-gw._tcp`).
+
+-   Multicast DNS-SD: `local.`
+-   Unicast DNS-SD (Wide-Area Bonjour): choose a domain (example: `openclaw.internal.`) and set up split DNS + a DNS server; see [/gateway/bonjour](../gateway/bonjour.md)
+
+Only gateways with Bonjour discovery enabled (default) advertise the beacon. Wide-Area discovery records include (TXT):
+
+-   `role` (gateway role hint)
+-   `transport` (transport hint, e.g. `gateway`)
+-   `gatewayPort` (WebSocket port, usually `18789`)
+-   `sshPort` (SSH port; defaults to `22` if not present)
+-   `tailnetDns` (MagicDNS hostname, when available)
+-   `gatewayTls` / `gatewayTlsSha256` (TLS enabled + cert fingerprint)
+-   `cliPath` (optional hint for remote installs)
+
+### gateway discover
+
+```bash
+openclaw gateway discover
+```
+
+Options:
+
+-   `--timeout `: per-command timeout (browse/resolve); default `2000`.
+-   `--json`: machine-readable output (also disables styling/spinner).
+
+Examples:
+
+```bash
+openclaw gateway discover --timeout 4000
+openclaw gateway discover --json | jq '.beacons[].wsUrl'
+```
+
+[doctor](./doctor.md)[health](./health.md)

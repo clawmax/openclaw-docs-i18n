@@ -1,0 +1,1324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1370" height="581.04">
+  <rect width="1370" height="581.04" rx="5" ry="5" class="a"/>
+  <svg y="0%" x="0%">
+    <circle cx="20" cy="20" r="6" fill="#ff5f58"/>
+    <circle cx="40" cy="20" r="6" fill="#ffbd2e"/>
+    <circle cx="60" cy="20" r="6" fill="#18c132"/>
+  </svg>
+  <svg height="521.04" viewBox="0 0 133 52.104" width="1330" x="15" y="50">
+    <style>@keyframes C{0%{transform:translateX(0)}.01%{transform:translateX(-133px)}1.53%{transform:translateX(-266px)}5.39%{transform:translateX(-399px)}6.71%{transform:translateX(-532px)}6.73%{transform:translateX(-798px)}6.76%{transform:translateX(-931px)}6.79%{transform:translateX(-1064px)}6.81%{transform:translateX(-1197px)}6.82%{transform:translateX(-1330px)}6.9%{transform:translateX(-1596px)}6.92%{transform:translateX(-1729px)}7%{transform:translateX(-1862px)}7.01%{transform:translateX(-1995px)}7.08%{transform:translateX(-2128px)}7.1%{transform:translateX(-2261px)}7.12%{transform:translateX(-2394px)}7.13%{transform:translateX(-2527px)}7.15%{transform:translateX(-2660px)}7.17%{transform:translateX(-3192px)}7.18%{transform:translateX(-3458px)}7.2%{transform:translateX(-3857px)}7.82%{transform:translateX(-3990px)}7.85%{transform:translateX(-4123px)}7.89%{transform:translateX(-4256px)}8.09%{transform:translateX(-4389px)}8.29%{transform:translateX(-4522px)}8.48%{transform:translateX(-4655px)}8.68%{transform:translateX(-4788px)}8.88%{transform:translateX(-4921px)}9.08%{transform:translateX(-5054px)}9.28%{transform:translateX(-5187px)}9.48%{transform:translateX(-5320px)}9.68%{transform:translateX(-5453px)}9.87%{transform:translateX(-5586px)}10.07%{transform:translateX(-5719px)}10.27%{transform:translateX(-5852px)}10.47%{transform:translateX(-5985px)}10.67%{transform:translateX(-6118px)}10.87%{transform:translateX(-6251px)}11.07%{transform:translateX(-6384px)}11.26%{transform:translateX(-6517px)}11.46%{transform:translateX(-6650px)}11.66%{transform:translateX(-6783px)}11.86%{transform:translateX(-6916px)}12.06%{transform:translateX(-7049px)}12.29%{transform:translateX(-7182px)}12.49%{transform:translateX(-7315px)}12.69%{transform:translateX(-7448px)}12.89%{transform:translateX(-7581px)}13.09%{transform:translateX(-7714px)}13.28%{transform:translateX(-7847px)}13.48%{transform:translateX(-7980px)}13.68%{transform:translateX(-8113px)}13.88%{transform:translateX(-8246px)}14.08%{transform:translateX(-8379px)}14.28%{transform:translateX(-8512px)}14.48%{transform:translateX(-8645px)}14.67%{transform:translateX(-8778px)}14.87%{transform:translateX(-8911px)}15.07%{transform:translateX(-9044px)}15.31%{transform:translateX(-9177px)}15.47%{transform:translateX(-9310px)}15.7%{transform:translateX(-9443px)}15.9%{transform:translateX(-9576px)}16.1%{transform:translateX(-9709px)}16.3%{transform:translateX(-9842px)}16.5%{transform:translateX(-9975px)}16.69%{transform:translateX(-10108px)}16.89%{transform:translateX(-10241px)}17.09%{transform:translateX(-10374px)}17.29%{transform:translateX(-10507px)}17.49%{transform:translateX(-10640px)}17.69%{transform:translateX(-10773px)}17.76%{transform:translateX(-11039px)}17.77%{transform:translateX(-11172px)}17.79%{transform:translateX(-11438px)}17.83%{transform:translateX(-11571px)}18.03%{transform:translateX(-11704px)}18.23%{transform:translateX(-11837px)}18.42%{transform:translateX(-11970px)}18.62%{transform:translateX(-12103px)}18.82%{transform:translateX(-12236px)}19.02%{transform:translateX(-12369px)}19.22%{transform:translateX(-12502px)}19.42%{transform:translateX(-12635px)}19.61%{transform:translateX(-12768px)}19.81%{transform:translateX(-12901px)}20.01%{transform:translateX(-13034px)}20.21%{transform:translateX(-13167px)}20.41%{transform:translateX(-13300px)}20.61%{transform:translateX(-13433px)}20.84%{transform:translateX(-13566px)}21.04%{transform:translateX(-13699px)}21.24%{transform:translateX(-13832px)}21.43%{transform:translateX(-13965px)}21.63%{transform:translateX(-14098px)}21.83%{transform:translateX(-14231px)}22.03%{transform:translateX(-14364px)}22.23%{transform:translateX(-14497px)}22.43%{transform:translateX(-14630px)}22.62%{transform:translateX(-14763px)}22.82%{transform:translateX(-14896px)}23.02%{transform:translateX(-15029px)}23.22%{transform:translateX(-15162px)}23.42%{transform:translateX(-15295px)}23.62%{transform:translateX(-15428px)}23.82%{transform:translateX(-15561px)}24.02%{transform:translateX(-15694px)}24.25%{transform:translateX(-15827px)}24.45%{transform:translateX(-15960px)}24.65%{transform:translateX(-16093px)}24.84%{transform:translateX(-16226px)}25.04%{transform:translateX(-16359px)}25.24%{transform:translateX(-16492px)}25.44%{transform:translateX(-16625px)}25.64%{transform:translateX(-16758px)}25.84%{transform:translateX(-16891px)}26.03%{transform:translateX(-17024px)}26.23%{transform:translateX(-17157px)}26.43%{transform:translateX(-17290px)}26.63%{transform:translateX(-17423px)}26.83%{transform:translateX(-17556px)}27.03%{transform:translateX(-17689px)}27.23%{transform:translateX(-17822px)}27.42%{transform:translateX(-17955px)}27.66%{transform:translateX(-18088px)}27.82%{transform:translateX(-18221px)}28.02%{transform:translateX(-18354px)}28.25%{transform:translateX(-18487px)}28.45%{transform:translateX(-18620px)}28.65%{transform:translateX(-18753px)}28.85%{transform:translateX(-18886px)}29.05%{transform:translateX(-19019px)}29.21%{transform:translateX(-19152px)}29.24%{transform:translateX(-19285px)}29.26%{transform:translateX(-19418px)}29.27%{transform:translateX(-19551px)}29.29%{transform:translateX(-19684px)}29.31%{transform:translateX(-20083px)}29.33%{transform:translateX(-20216px)}29.35%{transform:translateX(-20349px)}29.39%{transform:translateX(-20482px)}29.58%{transform:translateX(-20615px)}29.78%{transform:translateX(-20748px)}29.95%{transform:translateX(-20881px)}30.18%{transform:translateX(-21014px)}30.37%{transform:translateX(-21147px)}30.58%{transform:translateX(-21280px)}30.77%{transform:translateX(-21413px)}30.97%{transform:translateX(-21546px)}31%{transform:translateX(-21679px)}31.02%{transform:translateX(-21812px)}31.04%{transform:translateX(-21945px)}31.07%{transform:translateX(-22078px)}31.24%{transform:translateX(-22211px)}31.44%{transform:translateX(-22344px)}31.67%{transform:translateX(-22477px)}31.87%{transform:translateX(-22610px)}32.07%{transform:translateX(-22743px)}32.27%{transform:translateX(-22876px)}32.46%{transform:translateX(-23009px)}32.66%{transform:translateX(-23142px)}32.86%{transform:translateX(-23275px)}33.06%{transform:translateX(-23408px)}33.26%{transform:translateX(-23541px)}33.46%{transform:translateX(-23674px)}33.66%{transform:translateX(-23807px)}33.85%{transform:translateX(-23940px)}34.05%{transform:translateX(-24073px)}34.25%{transform:translateX(-24206px)}34.48%{transform:translateX(-24339px)}34.68%{transform:translateX(-24472px)}34.88%{transform:translateX(-24605px)}35.08%{transform:translateX(-24738px)}35.28%{transform:translateX(-24871px)}35.47%{transform:translateX(-25004px)}35.67%{transform:translateX(-25137px)}35.87%{transform:translateX(-25270px)}36.07%{transform:translateX(-25403px)}36.27%{transform:translateX(-25536px)}36.47%{transform:translateX(-25669px)}36.67%{transform:translateX(-25802px)}36.86%{transform:translateX(-25935px)}37.06%{transform:translateX(-26068px)}37.26%{transform:translateX(-26201px)}37.46%{transform:translateX(-26334px)}37.66%{transform:translateX(-26467px)}37.86%{transform:translateX(-26600px)}38.01%{transform:translateX(-26866px)}38.04%{transform:translateX(-26999px)}38.14%{transform:translateX(-27132px)}38.16%{transform:translateX(-27531px)}38.33%{transform:translateX(-27664px)}38.38%{transform:translateX(-27797px)}38.67%{transform:translateX(-27930px)}38.69%{transform:translateX(-28329px)}38.7%{transform:translateX(-28462px)}38.72%{transform:translateX(-28595px)}38.76%{transform:translateX(-28728px)}38.96%{transform:translateX(-28861px)}39.15%{transform:translateX(-28994px)}39.35%{transform:translateX(-29127px)}39.52%{transform:translateX(-29260px)}39.75%{transform:translateX(-29393px)}39.95%{transform:translateX(-29526px)}40.15%{transform:translateX(-29659px)}40.34%{transform:translateX(-29792px)}40.54%{transform:translateX(-29925px)}40.74%{transform:translateX(-30058px)}40.94%{transform:translateX(-30191px)}41.14%{transform:translateX(-30324px)}41.34%{transform:translateX(-30457px)}41.54%{transform:translateX(-30590px)}41.73%{transform:translateX(-30723px)}41.93%{transform:translateX(-30856px)}42.13%{transform:translateX(-30989px)}42.33%{transform:translateX(-31122px)}42.53%{transform:translateX(-31255px)}42.73%{transform:translateX(-31388px)}42.92%{transform:translateX(-31521px)}43.12%{transform:translateX(-31654px)}43.36%{transform:translateX(-31787px)}43.55%{transform:translateX(-31920px)}43.75%{transform:translateX(-32053px)}43.95%{transform:translateX(-32186px)}44.15%{transform:translateX(-32319px)}44.35%{transform:translateX(-32452px)}44.55%{transform:translateX(-32585px)}44.75%{transform:translateX(-32718px)}44.95%{transform:translateX(-32851px)}45.14%{transform:translateX(-32984px)}45.34%{transform:translateX(-33117px)}45.54%{transform:translateX(-33250px)}45.74%{transform:translateX(-33383px)}45.94%{transform:translateX(-33516px)}46.14%{transform:translateX(-33649px)}46.33%{transform:translateX(-33782px)}46.53%{transform:translateX(-33915px)}46.73%{transform:translateX(-34048px)}46.93%{transform:translateX(-34181px)}47.13%{transform:translateX(-34314px)}47.33%{transform:translateX(-34447px)}47.53%{transform:translateX(-34580px)}47.76%{transform:translateX(-34713px)}47.96%{transform:translateX(-34846px)}48.16%{transform:translateX(-34979px)}48.35%{transform:translateX(-35112px)}48.55%{transform:translateX(-35245px)}48.75%{transform:translateX(-35378px)}48.95%{transform:translateX(-35511px)}49.15%{transform:translateX(-35644px)}49.35%{transform:translateX(-35777px)}49.55%{transform:translateX(-35910px)}49.74%{transform:translateX(-36043px)}49.94%{transform:translateX(-36176px)}50.14%{transform:translateX(-36309px)}50.34%{transform:translateX(-36442px)}50.57%{transform:translateX(-36575px)}50.77%{transform:translateX(-36708px)}50.97%{transform:translateX(-36841px)}51.17%{transform:translateX(-36974px)}51.37%{transform:translateX(-37107px)}51.57%{transform:translateX(-37240px)}51.76%{transform:translateX(-37373px)}51.96%{transform:translateX(-37506px)}52.16%{transform:translateX(-37639px)}52.36%{transform:translateX(-37772px)}52.56%{transform:translateX(-37905px)}52.76%{transform:translateX(-38038px)}52.95%{transform:translateX(-38171px)}53.15%{transform:translateX(-38304px)}53.35%{transform:translateX(-38437px)}53.55%{transform:translateX(-38570px)}53.75%{transform:translateX(-38703px)}53.95%{transform:translateX(-38836px)}54.18%{transform:translateX(-38969px)}54.38%{transform:translateX(-39102px)}54.58%{transform:translateX(-39235px)}54.77%{transform:translateX(-39368px)}54.97%{transform:translateX(-39501px)}55.17%{transform:translateX(-39634px)}55.37%{transform:translateX(-39767px)}55.57%{transform:translateX(-39900px)}55.77%{transform:translateX(-40033px)}55.97%{transform:translateX(-40166px)}56.16%{transform:translateX(-40299px)}56.36%{transform:translateX(-40432px)}56.56%{transform:translateX(-40565px)}56.76%{transform:translateX(-40698px)}56.96%{transform:translateX(-40831px)}57.16%{transform:translateX(-40964px)}57.36%{transform:translateX(-41097px)}57.56%{transform:translateX(-41230px)}57.75%{transform:translateX(-41363px)}57.95%{transform:translateX(-41496px)}58.15%{transform:translateX(-41629px)}58.35%{transform:translateX(-41762px)}58.55%{transform:translateX(-41895px)}58.75%{transform:translateX(-42028px)}58.94%{transform:translateX(-42161px)}59.14%{transform:translateX(-42294px)}59.37%{transform:translateX(-42427px)}59.57%{transform:translateX(-42560px)}59.77%{transform:translateX(-42693px)}59.97%{transform:translateX(-42826px)}60.17%{transform:translateX(-42959px)}60.37%{transform:translateX(-43092px)}60.57%{transform:translateX(-43225px)}60.76%{transform:translateX(-43358px)}60.96%{transform:translateX(-43491px)}61.16%{transform:translateX(-43624px)}61.36%{transform:translateX(-43757px)}61.56%{transform:translateX(-43890px)}61.76%{transform:translateX(-44023px)}61.96%{transform:translateX(-44156px)}62.11%{transform:translateX(-44289px)}62.14%{transform:translateX(-44422px)}62.3%{transform:translateX(-44555px)}62.31%{transform:translateX(-44688px)}62.33%{transform:translateX(-44821px)}62.39%{transform:translateX(-44954px)}62.4%{transform:translateX(-45087px)}62.42%{transform:translateX(-45752px)}63.91%{transform:translateX(-45885px)}63.92%{transform:translateX(-46151px)}63.94%{transform:translateX(-46550px)}63.96%{transform:translateX(-46683px)}63.97%{transform:translateX(-46816px)}63.98%{transform:translateX(-47215px)}77.61%{transform:translateX(-47348px)}77.63%{transform:translateX(-48279px)}84.25%{transform:translateX(-48678px)}86.28%{transform:translateX(-48811px)}91.18%{transform:translateX(-48944px)}91.45%{transform:translateX(-49077px)}91.75%{transform:translateX(-49210px)}91.92%{transform:translateX(-49343px)}92.19%{transform:translateX(-49476px)}92.55%{transform:translateX(-49609px)}92.94%{transform:translateX(-49742px)}93.9%{transform:translateX(-49875px)}94.11%{transform:translateX(-50008px)}94.31%{transform:translateX(-50141px)}95.05%{transform:translateX(-50274px)}95.52%{transform:translateX(-50407px)}95.86%{transform:translateX(-50540px)}96.16%{transform:translateX(-50673px)}96.42%{transform:translateX(-50806px)}96.63%{transform:translateX(-50939px)}96.81%{transform:translateX(-51072px)}97.98%{transform:translateX(-51205px)}98.21%{transform:translateX(-51338px)}98.36%{transform:translateX(-51471px)}98.58%{transform:translateX(-51604px)}98.92%{transform:translateX(-51737px)}99.07%{transform:translateX(-51870px)}99.25%{transform:translateX(-52003px)}99.46%{transform:translateX(-52136px)}99.88%{transform:translateX(-52269px)}to{transform:translateX(-52402px)}}.a{fill:#282d35}.f,.g,.h{white-space:pre}.f{fill:#a8cc8c;font-weight:700}.g,.h{fill:#b9c0cb}.h{fill:#71bef2;font-weight:700}.i{fill:#ff4d4d}.i,.j,.k,.l{white-space:pre}.j{fill:#ff4d4d;font-weight:700}.k,.l{fill:#8892b0}.l{fill:#596480}.m,.n{font-weight:700}.m{fill:#00e5cc;white-space:pre}.n{fill:#b9c0cb}.n,.o,.p,.r,.s{white-space:pre}.o{fill:#5fffd7;font-weight:700}.p,.r,.s{fill:#ff87d7}.r,.s{fill:#5a6480}.s{fill:#ff5a2d;font-weight:700}.u,.v,.w,.x,.y,.z{fill:#8b7f77;white-space:pre}.v,.w,.x,.y,.z{fill:#d14a22}.w,.x,.y,.z{fill:#6f7783}.x,.y,.z{fill:#a8cc8c}.y,.z{fill:#66c2cd}.z{fill:#ff5a2d}</style>
+    <g font-family="Monaco,Consolas,Menlo,&apos;Bitstream Vera Sans Mono&apos;,&apos;Powerline Symbols&apos;,monospace" font-size="1.67">
+      <defs>
+        <symbol id="1">
+          <text y="1.67" class="f">seb@ubuntu</text>
+          <text x="10.02" y="1.67" class="g">:</text>
+          <text x="11.022" y="1.67" class="h">~</text>
+          <text x="12.024" y="1.67" class="g">$</text>
+          <text x="14.028" y="1.67" class="g">curl</text>
+          <text x="19.038" y="1.67" class="g">-fsSL</text>
+          <text x="25.05" y="1.67" class="g">https://openclaw.ai/install.sh</text>
+          <text x="56.112" y="1.67" class="g">|</text>
+          <text x="58.116" y="1.67" class="g">bash</text>
+        </symbol>
+        <symbol id="2">
+          <text y="1.67" class="i">╭─────────────────────────────────────────╮</text>
+        </symbol>
+        <symbol id="3">
+          <text y="1.67" class="i">│</text>
+          <text x="42.084" y="1.67" class="i">│</text>
+        </symbol>
+        <symbol id="4">
+          <text y="1.67" class="i">│</text>
+          <text x="3.006" y="1.67" class="j">🦞</text>
+          <text x="6.012" y="1.67" class="j">OpenClaw</text>
+          <text x="15.03" y="1.67" class="j">Installer</text>
+          <text x="42.084" y="1.67" class="i">│</text>
+        </symbol>
+        <symbol id="5">
+          <text y="1.67" class="i">│</text>
+          <text x="3.006" y="1.67" class="k">Because</text>
+          <text x="11.022" y="1.67" class="k">Siri</text>
+          <text x="16.032" y="1.67" class="k">wasn't</text>
+          <text x="23.046" y="1.67" class="k">answering</text>
+          <text x="33.066" y="1.67" class="k">at</text>
+          <text x="36.072" y="1.67" class="k">3AM.</text>
+          <text x="42.084" y="1.67" class="i">│</text>
+        </symbol>
+        <symbol id="6">
+          <text y="1.67" class="i">│</text>
+          <text x="3.006" y="1.67" class="l">modern</text>
+          <text x="10.02" y="1.67" class="l">installer</text>
+          <text x="20.04" y="1.67" class="l">mode</text>
+          <text x="42.084" y="1.67" class="i">│</text>
+        </symbol>
+        <symbol id="7">
+          <text y="1.67" class="i">╰─────────────────────────────────────────╯</text>
+        </symbol>
+        <symbol id="8">
+          <text y="1.67" class="m">✓</text>
+          <text x="2.004" y="1.67" class="g">gum</text>
+          <text x="6.012" y="1.67" class="g">bootstrapped</text>
+          <text x="19.038" y="1.67" class="g">(temp,</text>
+          <text x="26.052" y="1.67" class="g">verified,</text>
+          <text x="36.072" y="1.67" class="g">v0.17.0)</text>
+        </symbol>
+        <symbol id="9">
+          <text y="1.67" class="m">✓</text>
+          <text x="2.004" y="1.67" class="g">Detected:</text>
+          <text x="12.024" y="1.67" class="g">linux</text>
+        </symbol>
+        <symbol id="10">
+          <text y="1.67" class="j">Install</text>
+          <text x="8.016" y="1.67" class="j">plan</text>
+        </symbol>
+        <symbol id="11">
+          <text y="1.67" class="l">OS</text>
+          <text x="20.04" y="1.67" class="n">linux</text>
+        </symbol>
+        <symbol id="12">
+          <text y="1.67" class="l">Install</text>
+          <text x="8.016" y="1.67" class="l">method</text>
+          <text x="20.04" y="1.67" class="n">npm</text>
+        </symbol>
+        <symbol id="13">
+          <text y="1.67" class="l">Requested</text>
+          <text x="10.02" y="1.67" class="l">version</text>
+          <text x="20.04" y="1.67" class="n">latest</text>
+        </symbol>
+        <symbol id="14">
+          <text y="1.67" class="j">[1/3]</text>
+          <text x="6.012" y="1.67" class="j">Preparing</text>
+          <text x="16.032" y="1.67" class="j">environment</text>
+        </symbol>
+        <symbol id="15">
+          <text y="1.67" class="o">INFO</text>
+          <text x="5.01" y="1.67" class="g">Node.js</text>
+          <text x="13.026" y="1.67" class="g">not</text>
+          <text x="17.034" y="1.67" class="g">found,</text>
+          <text x="24.048" y="1.67" class="g">installing</text>
+          <text x="35.07" y="1.67" class="g">it</text>
+          <text x="38.076" y="1.67" class="g">now</text>
+        </symbol>
+        <symbol id="16">
+          <text y="1.67" class="o">INFO</text>
+          <text x="5.01" y="1.67" class="g">Installing</text>
+          <text x="16.032" y="1.67" class="g">Node.js</text>
+          <text x="24.048" y="1.67" class="g">via</text>
+          <text x="28.056" y="1.67" class="g">NodeSource</text>
+        </symbol>
+        <symbol id="17">
+          <text y="1.67" class="p">⣽</text>
+          <text x="3.006" y="1.67" class="g">Configuring</text>
+          <text x="15.03" y="1.67" class="g">NodeSource</text>
+          <text x="26.052" y="1.67" class="g">repository</text>
+        </symbol>
+        <symbol id="18">
+          <text y="1.67" class="p">⣻</text>
+          <text x="3.006" y="1.67" class="g">Configuring</text>
+          <text x="15.03" y="1.67" class="g">NodeSource</text>
+          <text x="26.052" y="1.67" class="g">repository</text>
+        </symbol>
+        <symbol id="19">
+          <text y="1.67" class="p">⢿</text>
+          <text x="3.006" y="1.67" class="g">Configuring</text>
+          <text x="15.03" y="1.67" class="g">NodeSource</text>
+          <text x="26.052" y="1.67" class="g">repository</text>
+        </symbol>
+        <symbol id="20">
+          <text y="1.67" class="p">⡿</text>
+          <text x="3.006" y="1.67" class="g">Configuring</text>
+          <text x="15.03" y="1.67" class="g">NodeSource</text>
+          <text x="26.052" y="1.67" class="g">repository</text>
+        </symbol>
+        <symbol id="21">
+          <text y="1.67" class="p">⣟</text>
+          <text x="3.006" y="1.67" class="g">Configuring</text>
+          <text x="15.03" y="1.67" class="g">NodeSource</text>
+          <text x="26.052" y="1.67" class="g">repository</text>
+        </symbol>
+        <symbol id="22">
+          <text y="1.67" class="p">⣯</text>
+          <text x="3.006" y="1.67" class="g">Configuring</text>
+          <text x="15.03" y="1.67" class="g">NodeSource</text>
+          <text x="26.052" y="1.67" class="g">repository</text>
+        </symbol>
+        <symbol id="23">
+          <text y="1.67" class="p">⣷</text>
+          <text x="3.006" y="1.67" class="g">Configuring</text>
+          <text x="15.03" y="1.67" class="g">NodeSource</text>
+          <text x="26.052" y="1.67" class="g">repository</text>
+        </symbol>
+        <symbol id="24">
+          <text y="1.67" class="p">⣾</text>
+          <text x="3.006" y="1.67" class="g">Configuring</text>
+          <text x="15.03" y="1.67" class="g">NodeSource</text>
+          <text x="26.052" y="1.67" class="g">repository</text>
+        </symbol>
+        <symbol id="25">
+          <text y="1.67" class="p">⣽</text>
+          <text x="3.006" y="1.67" class="g">Installing</text>
+          <text x="14.028" y="1.67" class="g">Node.js</text>
+        </symbol>
+        <symbol id="26">
+          <text y="1.67" class="p">⣻</text>
+          <text x="3.006" y="1.67" class="g">Installing</text>
+          <text x="14.028" y="1.67" class="g">Node.js</text>
+        </symbol>
+        <symbol id="27">
+          <text y="1.67" class="p">⢿</text>
+          <text x="3.006" y="1.67" class="g">Installing</text>
+          <text x="14.028" y="1.67" class="g">Node.js</text>
+        </symbol>
+        <symbol id="28">
+          <text y="1.67" class="p">⡿</text>
+          <text x="3.006" y="1.67" class="g">Installing</text>
+          <text x="14.028" y="1.67" class="g">Node.js</text>
+        </symbol>
+        <symbol id="29">
+          <text y="1.67" class="p">⣟</text>
+          <text x="3.006" y="1.67" class="g">Installing</text>
+          <text x="14.028" y="1.67" class="g">Node.js</text>
+        </symbol>
+        <symbol id="30">
+          <text y="1.67" class="p">⣯</text>
+          <text x="3.006" y="1.67" class="g">Installing</text>
+          <text x="14.028" y="1.67" class="g">Node.js</text>
+        </symbol>
+        <symbol id="31">
+          <text y="1.67" class="p">⣷</text>
+          <text x="3.006" y="1.67" class="g">Installing</text>
+          <text x="14.028" y="1.67" class="g">Node.js</text>
+        </symbol>
+        <symbol id="32">
+          <text y="1.67" class="p">⣾</text>
+          <text x="3.006" y="1.67" class="g">Installing</text>
+          <text x="14.028" y="1.67" class="g">Node.js</text>
+        </symbol>
+        <symbol id="33">
+          <text y="1.67" class="m">✓</text>
+          <text x="2.004" y="1.67" class="g">Node.js</text>
+          <text x="10.02" y="1.67" class="g">v22</text>
+          <text x="14.028" y="1.67" class="g">installed</text>
+        </symbol>
+        <symbol id="34">
+          <text y="1.67" class="j">[2/3]</text>
+          <text x="6.012" y="1.67" class="j">Installing</text>
+          <text x="17.034" y="1.67" class="j">OpenClaw</text>
+        </symbol>
+        <symbol id="35">
+          <text y="1.67" class="o">INFO</text>
+          <text x="5.01" y="1.67" class="g">Git</text>
+          <text x="9.018" y="1.67" class="g">not</text>
+          <text x="13.026" y="1.67" class="g">found,</text>
+          <text x="20.04" y="1.67" class="g">installing</text>
+          <text x="31.062" y="1.67" class="g">it</text>
+          <text x="34.068" y="1.67" class="g">now</text>
+        </symbol>
+        <symbol id="36">
+          <text y="1.67" class="p">⣽</text>
+          <text x="3.006" y="1.67" class="g">Updating</text>
+          <text x="12.024" y="1.67" class="g">package</text>
+          <text x="20.04" y="1.67" class="g">index</text>
+        </symbol>
+        <symbol id="37">
+          <text y="1.67" class="p">⣽</text>
+          <text x="3.006" y="1.67" class="g">Installing</text>
+          <text x="14.028" y="1.67" class="g">Git</text>
+        </symbol>
+        <symbol id="38">
+          <text y="1.67" class="p">⣻</text>
+          <text x="3.006" y="1.67" class="g">Installing</text>
+          <text x="14.028" y="1.67" class="g">Git</text>
+        </symbol>
+        <symbol id="39">
+          <text y="1.67" class="p">⢿</text>
+          <text x="3.006" y="1.67" class="g">Installing</text>
+          <text x="14.028" y="1.67" class="g">Git</text>
+        </symbol>
+        <symbol id="40">
+          <text y="1.67" class="p">⡿</text>
+          <text x="3.006" y="1.67" class="g">Installing</text>
+          <text x="14.028" y="1.67" class="g">Git</text>
+        </symbol>
+        <symbol id="41">
+          <text y="1.67" class="p">⣟</text>
+          <text x="3.006" y="1.67" class="g">Installing</text>
+          <text x="14.028" y="1.67" class="g">Git</text>
+        </symbol>
+        <symbol id="42">
+          <text y="1.67" class="p">⣯</text>
+          <text x="3.006" y="1.67" class="g">Installing</text>
+          <text x="14.028" y="1.67" class="g">Git</text>
+        </symbol>
+        <symbol id="43">
+          <text y="1.67" class="p">⣷</text>
+          <text x="3.006" y="1.67" class="g">Installing</text>
+          <text x="14.028" y="1.67" class="g">Git</text>
+        </symbol>
+        <symbol id="44">
+          <text y="1.67" class="p">⣾</text>
+          <text x="3.006" y="1.67" class="g">Installing</text>
+          <text x="14.028" y="1.67" class="g">Git</text>
+        </symbol>
+        <symbol id="45">
+          <text y="1.67" class="m">✓</text>
+          <text x="2.004" y="1.67" class="g">Git</text>
+          <text x="6.012" y="1.67" class="g">installed</text>
+        </symbol>
+        <symbol id="46">
+          <text y="1.67" class="o">INFO</text>
+          <text x="5.01" y="1.67" class="g">Configuring</text>
+          <text x="17.034" y="1.67" class="g">npm</text>
+          <text x="21.042" y="1.67" class="g">for</text>
+          <text x="25.05" y="1.67" class="g">user-local</text>
+          <text x="36.072" y="1.67" class="g">installs</text>
+        </symbol>
+        <symbol id="47">
+          <text y="1.67" class="m">✓</text>
+          <text x="2.004" y="1.67" class="g">npm</text>
+          <text x="6.012" y="1.67" class="g">configured</text>
+          <text x="17.034" y="1.67" class="g">for</text>
+          <text x="21.042" y="1.67" class="g">user</text>
+          <text x="26.052" y="1.67" class="g">installs</text>
+        </symbol>
+        <symbol id="48">
+          <text y="1.67" class="o">INFO</text>
+          <text x="5.01" y="1.67" class="g">Installing</text>
+          <text x="16.032" y="1.67" class="g">OpenClaw</text>
+          <text x="25.05" y="1.67" class="g">v2026.2.9</text>
+        </symbol>
+        <symbol id="49">
+          <text y="1.67" class="p">⣽</text>
+          <text x="3.006" y="1.67" class="g">Installing</text>
+          <text x="14.028" y="1.67" class="g">OpenClaw</text>
+          <text x="23.046" y="1.67" class="g">package</text>
+        </symbol>
+        <symbol id="50">
+          <text y="1.67" class="p">⣻</text>
+          <text x="3.006" y="1.67" class="g">Installing</text>
+          <text x="14.028" y="1.67" class="g">OpenClaw</text>
+          <text x="23.046" y="1.67" class="g">package</text>
+        </symbol>
+        <symbol id="51">
+          <text y="1.67" class="p">⢿</text>
+          <text x="3.006" y="1.67" class="g">Installing</text>
+          <text x="14.028" y="1.67" class="g">OpenClaw</text>
+          <text x="23.046" y="1.67" class="g">package</text>
+        </symbol>
+        <symbol id="52">
+          <text y="1.67" class="p">⡿</text>
+          <text x="3.006" y="1.67" class="g">Installing</text>
+          <text x="14.028" y="1.67" class="g">OpenClaw</text>
+          <text x="23.046" y="1.67" class="g">package</text>
+        </symbol>
+        <symbol id="53">
+          <text y="1.67" class="p">⣟</text>
+          <text x="3.006" y="1.67" class="g">Installing</text>
+          <text x="14.028" y="1.67" class="g">OpenClaw</text>
+          <text x="23.046" y="1.67" class="g">package</text>
+        </symbol>
+        <symbol id="54">
+          <text y="1.67" class="p">⣯</text>
+          <text x="3.006" y="1.67" class="g">Installing</text>
+          <text x="14.028" y="1.67" class="g">OpenClaw</text>
+          <text x="23.046" y="1.67" class="g">package</text>
+        </symbol>
+        <symbol id="55">
+          <text y="1.67" class="p">⣷</text>
+          <text x="3.006" y="1.67" class="g">Installing</text>
+          <text x="14.028" y="1.67" class="g">OpenClaw</text>
+          <text x="23.046" y="1.67" class="g">package</text>
+        </symbol>
+        <symbol id="56">
+          <text y="1.67" class="p">⣾</text>
+          <text x="3.006" y="1.67" class="g">Installing</text>
+          <text x="14.028" y="1.67" class="g">OpenClaw</text>
+          <text x="23.046" y="1.67" class="g">package</text>
+        </symbol>
+        <symbol id="57">
+          <text y="1.67" class="m">✓</text>
+          <text x="2.004" y="1.67" class="g">OpenClaw</text>
+          <text x="11.022" y="1.67" class="g">npm</text>
+          <text x="15.03" y="1.67" class="g">package</text>
+          <text x="23.046" y="1.67" class="g">installed</text>
+        </symbol>
+        <symbol id="58">
+          <text y="1.67" class="m">✓</text>
+          <text x="2.004" y="1.67" class="g">OpenClaw</text>
+          <text x="11.022" y="1.67" class="g">installed</text>
+        </symbol>
+        <symbol id="59">
+          <text y="1.67" class="j">[3/3]</text>
+          <text x="6.012" y="1.67" class="j">Finalizing</text>
+          <text x="17.034" y="1.67" class="j">setup</text>
+        </symbol>
+        <symbol id="60">
+          <text y="1.67" style="white-space:pre" fill="#d7ff87" font-weight="700">WARN</text>
+          <text x="5.01" y="1.67" class="g">PATH</text>
+          <text x="10.02" y="1.67" class="g">missing</text>
+          <text x="18.036" y="1.67" class="g">npm</text>
+          <text x="22.044" y="1.67" class="g">global</text>
+          <text x="29.058" y="1.67" class="g">bin</text>
+          <text x="33.066" y="1.67" class="g">dir:</text>
+          <text x="38.076" y="1.67" class="g">/home/seb/.npm-global/bin</text>
+        </symbol>
+        <symbol id="61">
+          <text x="2.004" y="1.67" class="g">This</text>
+          <text x="7.014" y="1.67" class="g">can</text>
+          <text x="11.022" y="1.67" class="g">make</text>
+          <text x="16.032" y="1.67" class="g">openclaw</text>
+          <text x="25.05" y="1.67" class="g">show</text>
+          <text x="30.06" y="1.67" class="g">as</text>
+          <text x="33.066" y="1.67" class="g">"command</text>
+          <text x="42.084" y="1.67" class="g">not</text>
+          <text x="46.092" y="1.67" class="g">found"</text>
+          <text x="53.106" y="1.67" class="g">in</text>
+          <text x="56.112" y="1.67" class="g">new</text>
+          <text x="60.12" y="1.67" class="g">terminals.</text>
+        </symbol>
+        <symbol id="62">
+          <text x="2.004" y="1.67" class="g">Fix</text>
+          <text x="6.012" y="1.67" class="g">(zsh:</text>
+          <text x="12.024" y="1.67" class="g">~/.zshrc,</text>
+          <text x="22.044" y="1.67" class="g">bash:</text>
+          <text x="28.056" y="1.67" class="g">~/.bashrc):</text>
+        </symbol>
+        <symbol id="63">
+          <text x="4.008" y="1.67" class="g">export</text>
+          <text x="11.022" y="1.67" class="g">PATH="/home/seb/.npm-global/bin:$PATH"</text>
+        </symbol>
+        <symbol id="64">
+          <text y="1.67" class="m">🦞</text>
+          <text x="3.006" y="1.67" class="m">OpenClaw</text>
+          <text x="12.024" y="1.67" class="m">installed</text>
+          <text x="22.044" y="1.67" class="m">successfully</text>
+          <text x="35.07" y="1.67" class="m">(2026.2.9)!</text>
+        </symbol>
+        <symbol id="65">
+          <text y="1.67" class="r">Finally</text>
+          <text x="8.016" y="1.67" class="r">unpacked.</text>
+          <text x="18.036" y="1.67" class="r">Now</text>
+          <text x="22.044" y="1.67" class="r">point</text>
+          <text x="28.056" y="1.67" class="r">me</text>
+          <text x="31.062" y="1.67" class="r">at</text>
+          <text x="34.068" y="1.67" class="r">your</text>
+          <text x="39.078" y="1.67" class="r">problems.</text>
+        </symbol>
+        <symbol id="66">
+          <text y="1.67" class="o">INFO</text>
+          <text x="5.01" y="1.67" class="g">Starting</text>
+          <text x="14.028" y="1.67" class="g">setup</text>
+        </symbol>
+        <symbol id="67">
+          <text y="1.67" class="s">🦞</text>
+          <text x="3.006" y="1.67" class="s">OpenClaw</text>
+          <text x="12.024" y="1.67" style="white-space:pre" fill="#ff8a5b">2026.2.9</text>
+          <text x="21.042" y="1.67" class="u">(33c75cb)</text>
+          <text x="31.062" y="1.67" class="u">—</text>
+          <text x="33.066" y="1.67" class="v">Think</text>
+          <text x="39.078" y="1.67" class="v">different.</text>
+          <text x="50.1" y="1.67" class="v">Actually</text>
+          <text x="59.118" y="1.67" class="v">think.</text>
+        </symbol>
+        <symbol id="68">
+          <text y="1.67" class="g">▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄</text>
+        </symbol>
+        <symbol id="69">
+          <text y="1.67" class="g">██░▄▄▄░██░▄▄░██░▄▄▄██░▀██░██░▄▄▀██░████░▄▄▀██░███░██</text>
+        </symbol>
+        <symbol id="70">
+          <text y="1.67" class="g">██░███░██░▀▀░██░▄▄▄██░█░█░██░█████░████░▀▀░██░█░█░██</text>
+        </symbol>
+        <symbol id="71">
+          <text y="1.67" class="g">██░▀▀▀░██░█████░▀▀▀██░██▄░██░▀▀▄██░▀▀░█░██░██▄▀▄▀▄██</text>
+        </symbol>
+        <symbol id="72">
+          <text y="1.67" class="g">▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀</text>
+        </symbol>
+        <symbol id="73">
+          <text x="18.036" y="1.67" class="g">🦞</text>
+          <text x="21.042" y="1.67" class="g">OPENCLAW</text>
+          <text x="30.06" y="1.67" class="g">🦞</text>
+        </symbol>
+        <symbol id="74">
+          <text y="1.67" class="w">┌</text>
+          <text x="3.006" y="1.67" class="s">OpenClaw</text>
+          <text x="12.024" y="1.67" class="s">onboarding</text>
+        </symbol>
+        <symbol id="75">
+          <text y="1.67" class="w">│</text>
+        </symbol>
+        <symbol id="76">
+          <text y="1.67" class="x">◇</text>
+          <text x="3.006" y="1.67" class="s">Security</text>
+          <text x="12.024" y="1.67" class="w">──────────────────────────────────────────────────────────────────────────────╮</text>
+        </symbol>
+        <symbol id="77">
+          <text y="1.67" class="w">│</text>
+          <text x="90.18" y="1.67" class="w">│</text>
+        </symbol>
+        <symbol id="78">
+          <text y="1.67" class="w">│</text>
+          <text x="3.006" y="1.67" class="g">Security</text>
+          <text x="12.024" y="1.67" class="g">warning</text>
+          <text x="20.04" y="1.67" class="g">—</text>
+          <text x="22.044" y="1.67" class="g">please</text>
+          <text x="29.058" y="1.67" class="g">read.</text>
+          <text x="90.18" y="1.67" class="w">│</text>
+        </symbol>
+        <symbol id="79">
+          <text y="1.67" class="w">│</text>
+          <text x="3.006" y="1.67" class="g">OpenClaw</text>
+          <text x="12.024" y="1.67" class="g">is</text>
+          <text x="15.03" y="1.67" class="g">a</text>
+          <text x="17.034" y="1.67" class="g">hobby</text>
+          <text x="23.046" y="1.67" class="g">project</text>
+          <text x="31.062" y="1.67" class="g">and</text>
+          <text x="35.07" y="1.67" class="g">still</text>
+          <text x="41.082" y="1.67" class="g">in</text>
+          <text x="44.088" y="1.67" class="g">beta.</text>
+          <text x="50.1" y="1.67" class="g">Expect</text>
+          <text x="57.114" y="1.67" class="g">sharp</text>
+          <text x="63.126" y="1.67" class="g">edges.</text>
+          <text x="90.18" y="1.67" class="w">│</text>
+        </symbol>
+        <symbol id="80">
+          <text y="1.67" class="w">│</text>
+          <text x="3.006" y="1.67" class="g">This</text>
+          <text x="8.016" y="1.67" class="g">bot</text>
+          <text x="12.024" y="1.67" class="g">can</text>
+          <text x="16.032" y="1.67" class="g">read</text>
+          <text x="21.042" y="1.67" class="g">files</text>
+          <text x="27.054" y="1.67" class="g">and</text>
+          <text x="31.062" y="1.67" class="g">run</text>
+          <text x="35.07" y="1.67" class="g">actions</text>
+          <text x="43.086" y="1.67" class="g">if</text>
+          <text x="46.092" y="1.67" class="g">tools</text>
+          <text x="52.104" y="1.67" class="g">are</text>
+          <text x="56.112" y="1.67" class="g">enabled.</text>
+          <text x="90.18" y="1.67" class="w">│</text>
+        </symbol>
+        <symbol id="81">
+          <text y="1.67" class="w">│</text>
+          <text x="3.006" y="1.67" class="g">A</text>
+          <text x="5.01" y="1.67" class="g">bad</text>
+          <text x="9.018" y="1.67" class="g">prompt</text>
+          <text x="16.032" y="1.67" class="g">can</text>
+          <text x="20.04" y="1.67" class="g">trick</text>
+          <text x="26.052" y="1.67" class="g">it</text>
+          <text x="29.058" y="1.67" class="g">into</text>
+          <text x="34.068" y="1.67" class="g">doing</text>
+          <text x="40.08" y="1.67" class="g">unsafe</text>
+          <text x="47.094" y="1.67" class="g">things.</text>
+          <text x="90.18" y="1.67" class="w">│</text>
+        </symbol>
+        <symbol id="82">
+          <text y="1.67" class="w">│</text>
+          <text x="3.006" y="1.67" class="g">If</text>
+          <text x="6.012" y="1.67" class="g">you’re</text>
+          <text x="13.026" y="1.67" class="g">not</text>
+          <text x="17.034" y="1.67" class="g">comfortable</text>
+          <text x="29.058" y="1.67" class="g">with</text>
+          <text x="34.068" y="1.67" class="g">basic</text>
+          <text x="40.08" y="1.67" class="g">security</text>
+          <text x="49.098" y="1.67" class="g">and</text>
+          <text x="53.106" y="1.67" class="g">access</text>
+          <text x="60.12" y="1.67" class="g">control,</text>
+          <text x="69.138" y="1.67" class="g">don’t</text>
+          <text x="75.15" y="1.67" class="g">run</text>
+          <text x="79.158" y="1.67" class="g">OpenClaw.</text>
+          <text x="90.18" y="1.67" class="w">│</text>
+        </symbol>
+        <symbol id="83">
+          <text y="1.67" class="w">│</text>
+          <text x="3.006" y="1.67" class="g">Ask</text>
+          <text x="7.014" y="1.67" class="g">someone</text>
+          <text x="15.03" y="1.67" class="g">experienced</text>
+          <text x="27.054" y="1.67" class="g">to</text>
+          <text x="30.06" y="1.67" class="g">help</text>
+          <text x="35.07" y="1.67" class="g">before</text>
+          <text x="42.084" y="1.67" class="g">enabling</text>
+          <text x="51.102" y="1.67" class="g">tools</text>
+          <text x="57.114" y="1.67" class="g">or</text>
+          <text x="60.12" y="1.67" class="g">exposing</text>
+          <text x="69.138" y="1.67" class="g">it</text>
+          <text x="72.144" y="1.67" class="g">to</text>
+          <text x="75.15" y="1.67" class="g">the</text>
+          <text x="79.158" y="1.67" class="g">internet.</text>
+          <text x="90.18" y="1.67" class="w">│</text>
+        </symbol>
+        <symbol id="84">
+          <text y="1.67" class="w">│</text>
+          <text x="3.006" y="1.67" class="g">Recommended</text>
+          <text x="15.03" y="1.67" class="g">baseline:</text>
+          <text x="90.18" y="1.67" class="w">│</text>
+        </symbol>
+        <symbol id="85">
+          <text y="1.67" class="w">│</text>
+          <text x="3.006" y="1.67" class="g">-</text>
+          <text x="5.01" y="1.67" class="g">Pairing/allowlists</text>
+          <text x="24.048" y="1.67" class="g">+</text>
+          <text x="26.052" y="1.67" class="g">mention</text>
+          <text x="34.068" y="1.67" class="g">gating.</text>
+          <text x="90.18" y="1.67" class="w">│</text>
+        </symbol>
+        <symbol id="86">
+          <text y="1.67" class="w">│</text>
+          <text x="3.006" y="1.67" class="g">-</text>
+          <text x="5.01" y="1.67" class="g">Sandbox</text>
+          <text x="13.026" y="1.67" class="g">+</text>
+          <text x="15.03" y="1.67" class="g">least-privilege</text>
+          <text x="31.062" y="1.67" class="g">tools.</text>
+          <text x="90.18" y="1.67" class="w">│</text>
+        </symbol>
+        <symbol id="87">
+          <text y="1.67" class="w">│</text>
+          <text x="3.006" y="1.67" class="g">-</text>
+          <text x="5.01" y="1.67" class="g">Keep</text>
+          <text x="10.02" y="1.67" class="g">secrets</text>
+          <text x="18.036" y="1.67" class="g">out</text>
+          <text x="22.044" y="1.67" class="g">of</text>
+          <text x="25.05" y="1.67" class="g">the</text>
+          <text x="29.058" y="1.67" class="g">agent’s</text>
+          <text x="37.074" y="1.67" class="g">reachable</text>
+          <text x="47.094" y="1.67" class="g">filesystem.</text>
+          <text x="90.18" y="1.67" class="w">│</text>
+        </symbol>
+        <symbol id="88">
+          <text y="1.67" class="w">│</text>
+          <text x="3.006" y="1.67" class="g">-</text>
+          <text x="5.01" y="1.67" class="g">Use</text>
+          <text x="9.018" y="1.67" class="g">the</text>
+          <text x="13.026" y="1.67" class="g">strongest</text>
+          <text x="23.046" y="1.67" class="g">available</text>
+          <text x="33.066" y="1.67" class="g">model</text>
+          <text x="39.078" y="1.67" class="g">for</text>
+          <text x="43.086" y="1.67" class="g">any</text>
+          <text x="47.094" y="1.67" class="g">bot</text>
+          <text x="51.102" y="1.67" class="g">with</text>
+          <text x="56.112" y="1.67" class="g">tools</text>
+          <text x="62.124" y="1.67" class="g">or</text>
+          <text x="65.13" y="1.67" class="g">untrusted</text>
+          <text x="75.15" y="1.67" class="g">inboxes.</text>
+          <text x="90.18" y="1.67" class="w">│</text>
+        </symbol>
+        <symbol id="89">
+          <text y="1.67" class="w">│</text>
+          <text x="3.006" y="1.67" class="g">Run</text>
+          <text x="7.014" y="1.67" class="g">regularly:</text>
+          <text x="90.18" y="1.67" class="w">│</text>
+        </symbol>
+        <symbol id="90">
+          <text y="1.67" class="w">│</text>
+          <text x="3.006" y="1.67" class="g">openclaw</text>
+          <text x="12.024" y="1.67" class="g">security</text>
+          <text x="21.042" y="1.67" class="g">audit</text>
+          <text x="27.054" y="1.67" class="g">--deep</text>
+          <text x="90.18" y="1.67" class="w">│</text>
+        </symbol>
+        <symbol id="91">
+          <text y="1.67" class="w">│</text>
+          <text x="3.006" y="1.67" class="g">openclaw</text>
+          <text x="12.024" y="1.67" class="g">security</text>
+          <text x="21.042" y="1.67" class="g">audit</text>
+          <text x="27.054" y="1.67" class="g">--fix</text>
+          <text x="90.18" y="1.67" class="w">│</text>
+        </symbol>
+        <symbol id="92">
+          <text y="1.67" class="w">│</text>
+          <text x="3.006" y="1.67" class="g">Must</text>
+          <text x="8.016" y="1.67" class="g">read:</text>
+          <text x="14.028" y="1.67" class="g">https://docs.openclaw.ai/gateway/security</text>
+          <text x="90.18" y="1.67" class="w">│</text>
+        </symbol>
+        <symbol id="93">
+          <text y="1.67" class="w">├─────────────────────────────────────────────────────────────────────────────────────────╯</text>
+        </symbol>
+        <symbol id="94">
+          <text y="1.67" class="y">◆</text>
+          <text x="3.006" y="1.67" class="z">I</text>
+          <text x="5.01" y="1.67" class="z">understand</text>
+          <text x="16.032" y="1.67" class="z">this</text>
+          <text x="21.042" y="1.67" class="z">is</text>
+          <text x="24.048" y="1.67" class="z">powerful</text>
+          <text x="33.066" y="1.67" class="z">and</text>
+          <text x="37.074" y="1.67" class="z">inherently</text>
+          <text x="48.096" y="1.67" class="z">risky.</text>
+          <text x="55.11" y="1.67" class="z">Continue?</text>
+        </symbol>
+        <symbol id="95">
+          <text y="1.67" class="y">│</text>
+          <text x="3.006" y="1.67" class="g">○</text>
+          <text x="5.01" y="1.67" class="g">Yes</text>
+          <text x="9.018" y="1.67" class="g">/</text>
+          <text x="11.022" y="1.67" class="x">●</text>
+          <text x="13.026" y="1.67" class="g">No</text>
+        </symbol>
+        <symbol id="96">
+          <text y="1.67" class="y">└</text>
+        </symbol>
+        <symbol id="97">
+          <text y="1.67" class="y">│</text>
+          <text x="3.006" y="1.67" class="x">●</text>
+          <text x="5.01" y="1.67" class="g">Yes</text>
+          <text x="9.018" y="1.67" class="g">/</text>
+          <text x="11.022" y="1.67" class="g">○</text>
+          <text x="13.026" y="1.67" class="g">No</text>
+        </symbol>
+        <symbol id="98">
+          <text x="15.03" y="1.67" class="f">seb@ubuntu</text>
+          <text x="25.05" y="1.67" class="g">:</text>
+          <text x="26.052" y="1.67" class="h">~</text>
+          <text x="27.054" y="1.67" class="g">$</text>
+          <text x="29.058" y="1.67" class="g">asciinema</text>
+        </symbol>
+        <symbol id="99">
+          <text x="15.03" y="1.67" class="f">seb@ubuntu</text>
+          <text x="25.05" y="1.67" class="g">:</text>
+          <text x="26.052" y="1.67" class="h">~</text>
+          <text x="27.054" y="1.67" class="g">$</text>
+          <text x="29.058" y="1.67" class="g">asciinema</text>
+          <text x="39.078" y="1.67" class="g">upload</text>
+        </symbol>
+        <symbol id="100">
+          <text x="15.03" y="1.67" class="f">seb@ubuntu</text>
+          <text x="25.05" y="1.67" class="g">:</text>
+          <text x="26.052" y="1.67" class="h">~</text>
+          <text x="27.054" y="1.67" class="g">$</text>
+          <text x="29.058" y="1.67" class="g">asciinema</text>
+          <text x="39.078" y="1.67" class="g">upload</text>
+          <text x="46.092" y="1.67" class="g">demo.cast</text>
+        </symbol>
+        <symbol id="a">
+          <path fill="transparent" d="M0 0h133v25H0z"/>
+        </symbol>
+        <symbol id="b">
+          <path fill="#6f7683" d="M0 0h1.102v2.171H0z"/>
+        </symbol>
+      </defs>
+      <path class="a" d="M0 0h133v52.104H0z"/>
+      <g style="animation-duration:50.358319s;animation-iteration-count:infinite;animation-name:C;animation-timing-function:steps(1,end)">
+        <svg width="52535">
+          <svg/>
+          <svg x="133">
+            <text y="1.67" class="f">seb@ubuntu</text>
+            <text x="10.02" y="1.67" class="g">:</text>
+            <text x="11.022" y="1.67" class="h">~</text>
+            <text x="12.024" y="1.67" class="g">$</text>
+          </svg>
+          <svg x="266">
+            <text y="1.67" class="f">seb@ubuntu</text>
+            <text x="10.02" y="1.67" class="g">:</text>
+            <text x="11.022" y="1.67" class="h">~</text>
+            <text x="12.024" y="1.67" class="g">$</text>
+            <path fill="#b9c0cb" d="M14.028 0h48v2.171h-48z"/>
+            <text x="14.028" y="1.67" style="white-space:pre" fill="#282d35">curl -fsSL https://openclaw.ai/install.sh | bash</text>
+          </svg>
+          <svg x="399"/>
+          <svg x="532"/>
+          <svg x="665"/>
+          <svg x="798"/>
+          <svg x="931"/>
+          <svg x="1064"/>
+          <svg x="1197"/>
+          <svg x="1330"/>
+          <svg x="1463"/>
+          <svg x="1596"/>
+          <svg x="1729"/>
+          <svg x="1862"/>
+          <svg x="1995"/>
+          <svg x="2128"/>
+          <svg x="2261"/>
+          <svg x="2394"/>
+          <svg x="2527"/>
+          <svg x="2660"/>
+          <svg x="2793"/>
+          <svg x="2926"/>
+          <svg x="3059"/>
+          <svg x="3192"/>
+          <svg x="3325"/>
+          <svg x="3458"/>
+          <svg x="3591"/>
+          <svg x="3724"/>
+          <svg x="3857"/>
+          <svg x="3990"/>
+          <svg x="4123"/>
+          <svg x="4256"/>
+          <svg x="4389"/>
+          <svg x="4522"/>
+          <svg x="4655"/>
+          <svg x="4788"/>
+          <svg x="4921"/>
+          <svg x="5054"/>
+          <svg x="5187"/>
+          <svg x="5320"/>
+          <svg x="5453"/>
+          <svg x="5586"/>
+          <svg x="5719"/>
+          <svg x="5852"/>
+          <svg x="5985"/>
+          <svg x="6118"/>
+          <svg x="6251"/>
+          <svg x="6384"/>
+          <svg x="6517"/>
+          <svg x="6650"/>
+          <svg x="6783"/>
+          <svg x="6916"/>
+          <svg x="7049"/>
+          <svg x="7182"/>
+          <svg x="7315"/>
+          <svg x="7448"/>
+          <svg x="7581"/>
+          <svg x="7714"/>
+          <svg x="7847"/>
+          <svg x="7980"/>
+          <svg x="8113"/>
+          <svg x="8246"/>
+          <svg x="8379"/>
+          <svg x="8512"/>
+          <svg x="8645"/>
+          <svg x="8778"/>
+          <svg x="8911"/>
+          <svg x="9044"/>
+          <svg x="9177"/>
+          <svg x="9310"/>
+          <svg x="9443"/>
+          <svg x="9576"/>
+          <svg x="9709"/>
+          <svg x="9842"/>
+          <svg x="9975"/>
+          <svg x="10108"/>
+          <svg x="10241"/>
+          <svg x="10374"/>
+          <svg x="10507"/>
+          <svg x="10640"/>
+          <svg x="10773"/>
+          <svg x="10906"/>
+          <svg x="11039"/>
+          <svg x="11172"/>
+          <svg x="11305"/>
+          <svg x="11438"/>
+          <svg x="11571"/>
+          <svg x="11704"/>
+          <svg x="11837"/>
+          <svg x="11970"/>
+          <svg x="12103"/>
+          <svg x="12236"/>
+          <svg x="12369"/>
+          <svg x="12502"/>
+          <svg x="12635"/>
+          <svg x="12768"/>
+          <svg x="12901"/>
+          <svg x="13034"/>
+          <svg x="13167"/>
+          <svg x="13300"/>
+          <svg x="13433"/>
+          <svg x="13566"/>
+          <svg x="13699"/>
+          <svg x="13832"/>
+          <svg x="13965"/>
+          <svg x="14098"/>
+          <svg x="14231"/>
+          <svg x="14364"/>
+          <svg x="14497"/>
+          <svg x="14630"/>
+          <svg x="14763"/>
+          <svg x="14896"/>
+          <svg x="15029"/>
+          <svg x="15162"/>
+          <svg x="15295"/>
+          <svg x="15428"/>
+          <svg x="15561"/>
+          <svg x="15694"/>
+          <svg x="15827"/>
+          <svg x="15960"/>
+          <svg x="16093"/>
+          <svg x="16226"/>
+          <svg x="16359"/>
+          <svg x="16492"/>
+          <svg x="16625"/>
+          <svg x="16758"/>
+          <svg x="16891"/>
+          <svg x="17024"/>
+          <svg x="17157"/>
+          <svg x="17290"/>
+          <svg x="17423"/>
+          <svg x="17556"/>
+          <svg x="17689"/>
+          <svg x="17822"/>
+          <svg x="17955"/>
+          <svg x="18088"/>
+          <svg x="18221"/>
+          <svg x="18354"/>
+          <svg x="18487"/>
+          <svg x="18620"/>
+          <svg x="18753"/>
+          <svg x="18886"/>
+          <svg x="19019"/>
+          <svg x="19152"/>
+          <svg x="19285"/>
+          <svg x="19418"/>
+          <svg x="19551"/>
+          <svg x="19684"/>
+          <svg x="19817"/>
+          <svg x="19950"/>
+          <svg x="20083"/>
+          <svg x="20216"/>
+          <svg x="20349"/>
+          <svg x="20482"/>
+          <svg x="20615">
+            <text y="53.774" class="p">⣻</text>
+            <text x="3.006" y="53.774" class="g">Updating</text>
+            <text x="12.024" y="53.774" class="g">package</text>
+            <text x="20.04" y="53.774" class="g">index</text>
+          </svg>
+          <svg x="20748">
+            <text y="53.774" class="p">⢿</text>
+            <text x="3.006" y="53.774" class="g">Updating</text>
+            <text x="12.024" y="53.774" class="g">package</text>
+            <text x="20.04" y="53.774" class="g">index</text>
+          </svg>
+          <svg x="20881">
+            <text y="53.774" class="p">⡿</text>
+            <text x="3.006" y="53.774" class="g">Updating</text>
+            <text x="12.024" y="53.774" class="g">package</text>
+            <text x="20.04" y="53.774" class="g">index</text>
+          </svg>
+          <svg x="21014">
+            <text y="53.774" class="p">⣟</text>
+            <text x="3.006" y="53.774" class="g">Updating</text>
+            <text x="12.024" y="53.774" class="g">package</text>
+            <text x="20.04" y="53.774" class="g">index</text>
+          </svg>
+          <svg x="21147">
+            <text y="53.774" class="p">⣯</text>
+            <text x="3.006" y="53.774" class="g">Updating</text>
+            <text x="12.024" y="53.774" class="g">package</text>
+            <text x="20.04" y="53.774" class="g">index</text>
+          </svg>
+          <svg x="21280">
+            <text y="53.774" class="p">⣷</text>
+            <text x="3.006" y="53.774" class="g">Updating</text>
+            <text x="12.024" y="53.774" class="g">package</text>
+            <text x="20.04" y="53.774" class="g">index</text>
+          </svg>
+          <svg x="21413">
+            <text y="53.774" class="p">⣾</text>
+            <text x="3.006" y="53.774" class="g">Updating</text>
+            <text x="12.024" y="53.774" class="g">package</text>
+            <text x="20.04" y="53.774" class="g">index</text>
+          </svg>
+          <svg x="21546"/>
+          <svg x="21679"/>
+          <svg x="21812"/>
+          <svg x="21945"/>
+          <svg x="22078"/>
+          <svg x="22211"/>
+          <svg x="22344"/>
+          <svg x="22477"/>
+          <svg x="22610"/>
+          <svg x="22743"/>
+          <svg x="22876"/>
+          <svg x="23009"/>
+          <svg x="23142"/>
+          <svg x="23275"/>
+          <svg x="23408"/>
+          <svg x="23541"/>
+          <svg x="23674"/>
+          <svg x="23807"/>
+          <svg x="23940"/>
+          <svg x="24073"/>
+          <svg x="24206"/>
+          <svg x="24339"/>
+          <svg x="24472"/>
+          <svg x="24605"/>
+          <svg x="24738"/>
+          <svg x="24871"/>
+          <svg x="25004"/>
+          <svg x="25137"/>
+          <svg x="25270"/>
+          <svg x="25403"/>
+          <svg x="25536"/>
+          <svg x="25669"/>
+          <svg x="25802"/>
+          <svg x="25935"/>
+          <svg x="26068"/>
+          <svg x="26201"/>
+          <svg x="26334"/>
+          <svg x="26467"/>
+          <svg x="26600"/>
+          <svg x="26733"/>
+          <svg x="26866"/>
+          <svg x="26999"/>
+          <svg x="27132"/>
+          <svg x="27265"/>
+          <svg x="27398"/>
+          <svg x="27531"/>
+          <svg x="27664"/>
+          <svg x="27797"/>
+          <svg x="27930"/>
+          <svg x="28063"/>
+          <svg x="28196"/>
+          <svg x="28329"/>
+          <svg x="28462"/>
+          <svg x="28595"/>
+          <svg x="28728"/>
+          <svg x="28861"/>
+          <svg x="28994"/>
+          <svg x="29127"/>
+          <svg x="29260"/>
+          <svg x="29393"/>
+          <svg x="29526"/>
+          <svg x="29659"/>
+          <svg x="29792"/>
+          <svg x="29925"/>
+          <svg x="30058"/>
+          <svg x="30191"/>
+          <svg x="30324"/>
+          <svg x="30457"/>
+          <svg x="30590"/>
+          <svg x="30723"/>
+          <svg x="30856"/>
+          <svg x="30989"/>
+          <svg x="31122"/>
+          <svg x="31255"/>
+          <svg x="31388"/>
+          <svg x="31521"/>
+          <svg x="31654"/>
+          <svg x="31787"/>
+          <svg x="31920"/>
+          <svg x="32053"/>
+          <svg x="32186"/>
+          <svg x="32319"/>
+          <svg x="32452"/>
+          <svg x="32585"/>
+          <svg x="32718"/>
+          <svg x="32851"/>
+          <svg x="32984"/>
+          <svg x="33117"/>
+          <svg x="33250"/>
+          <svg x="33383"/>
+          <svg x="33516"/>
+          <svg x="33649"/>
+          <svg x="33782"/>
+          <svg x="33915"/>
+          <svg x="34048"/>
+          <svg x="34181"/>
+          <svg x="34314"/>
+          <svg x="34447"/>
+          <svg x="34580"/>
+          <svg x="34713"/>
+          <svg x="34846"/>
+          <svg x="34979"/>
+          <svg x="35112"/>
+          <svg x="35245"/>
+          <svg x="35378"/>
+          <svg x="35511"/>
+          <svg x="35644"/>
+          <svg x="35777"/>
+          <svg x="35910"/>
+          <svg x="36043"/>
+          <svg x="36176"/>
+          <svg x="36309"/>
+          <svg x="36442"/>
+          <svg x="36575"/>
+          <svg x="36708"/>
+          <svg x="36841"/>
+          <svg x="36974"/>
+          <svg x="37107"/>
+          <svg x="37240"/>
+          <svg x="37373"/>
+          <svg x="37506"/>
+          <svg x="37639"/>
+          <svg x="37772"/>
+          <svg x="37905"/>
+          <svg x="38038"/>
+          <svg x="38171"/>
+          <svg x="38304"/>
+          <svg x="38437"/>
+          <svg x="38570"/>
+          <svg x="38703"/>
+          <svg x="38836"/>
+          <svg x="38969"/>
+          <svg x="39102"/>
+          <svg x="39235"/>
+          <svg x="39368"/>
+          <svg x="39501"/>
+          <svg x="39634"/>
+          <svg x="39767"/>
+          <svg x="39900"/>
+          <svg x="40033"/>
+          <svg x="40166"/>
+          <svg x="40299"/>
+          <svg x="40432"/>
+          <svg x="40565"/>
+          <svg x="40698"/>
+          <svg x="40831"/>
+          <svg x="40964"/>
+          <svg x="41097"/>
+          <svg x="41230"/>
+          <svg x="41363"/>
+          <svg x="41496"/>
+          <svg x="41629"/>
+          <svg x="41762"/>
+          <svg x="41895"/>
+          <svg x="42028"/>
+          <svg x="42161"/>
+          <svg x="42294"/>
+          <svg x="42427"/>
+          <svg x="42560"/>
+          <svg x="42693"/>
+          <svg x="42826"/>
+          <svg x="42959"/>
+          <svg x="43092"/>
+          <svg x="43225"/>
+          <svg x="43358"/>
+          <svg x="43491"/>
+          <svg x="43624"/>
+          <svg x="43757"/>
+          <svg x="43890"/>
+          <svg x="44023"/>
+          <svg x="44156"/>
+          <svg x="44289"/>
+          <svg x="44422"/>
+          <svg x="44555"/>
+          <svg x="44688"/>
+          <svg x="44821"/>
+          <svg x="44954"/>
+          <svg x="45087"/>
+          <svg x="45220"/>
+          <svg x="45353"/>
+          <svg x="45486"/>
+          <svg x="45619"/>
+          <svg x="45752"/>
+          <svg x="45885"/>
+          <svg x="46018"/>
+          <svg x="46151"/>
+          <svg x="46284"/>
+          <svg x="46417"/>
+          <svg x="46550"/>
+          <svg x="46683"/>
+          <svg x="46816"/>
+          <svg x="46949"/>
+          <svg x="47082"/>
+          <svg x="47215"/>
+          <svg x="47348"/>
+          <svg x="47481"/>
+          <svg x="47614"/>
+          <svg x="47747">
+            <text y="53.774" class="w">│</text>
+            <text x="3.006" y="53.774" class="g">A</text>
+            <text x="5.01" y="53.774" class="g">bad</text>
+            <text x="9.018" y="53.774" class="g">prompt</text>
+            <text x="16.032" y="53.774" class="g">can</text>
+            <text x="20.04" y="53.774" class="g">trick</text>
+            <text x="26.052" y="53.774" class="g">it</text>
+            <text x="29.058" y="53.774" class="g">into</text>
+            <text x="34.068" y="53.774" class="g">doing</text>
+            <text x="40.08" y="53.774" class="g">unsafe</text>
+            <text x="47.094" y="53.774" class="g">things.</text>
+          </svg>
+          <svg x="47880">
+            <text y="53.774" class="w">│</text>
+            <text x="3.006" y="53.774" class="g">-</text>
+            <text x="5.01" y="53.774" class="g">Keep</text>
+            <text x="10.02" y="53.774" class="g">secrets</text>
+            <text x="18.036" y="53.774" class="g">out</text>
+            <text x="22.044" y="53.774" class="g">of</text>
+            <text x="25.05" y="53.774" class="g">the</text>
+            <text x="29.058" y="53.774" class="g">agent’s</text>
+            <text x="37.074" y="53.774" class="g">reachable</text>
+            <text x="47.094" y="53.774" class="g">filesystem.</text>
+          </svg>
+          <svg x="48013"/>
+          <svg x="48146"/>
+          <svg x="48279"/>
+          <svg x="48412"/>
+          <svg x="48545"/>
+          <svg x="48678"/>
+          <svg x="48811">
+            <text x="15.03" y="53.774" class="f">seb@ubuntu</text>
+            <text x="25.05" y="53.774" class="g">:</text>
+            <text x="26.052" y="53.774" class="h">~</text>
+            <text x="27.054" y="53.774" class="g">$</text>
+          </svg>
+          <svg x="48944">
+            <text x="15.03" y="53.774" class="f">seb@ubuntu</text>
+            <text x="25.05" y="53.774" class="g">:</text>
+            <text x="26.052" y="53.774" class="h">~</text>
+            <text x="27.054" y="53.774" class="g">$</text>
+            <text x="29.058" y="53.774" class="g">a</text>
+          </svg>
+          <svg x="49077">
+            <text x="15.03" y="53.774" class="f">seb@ubuntu</text>
+            <text x="25.05" y="53.774" class="g">:</text>
+            <text x="26.052" y="53.774" class="h">~</text>
+            <text x="27.054" y="53.774" class="g">$</text>
+            <text x="29.058" y="53.774" class="g">as</text>
+          </svg>
+          <svg x="49210">
+            <text x="15.03" y="53.774" class="f">seb@ubuntu</text>
+            <text x="25.05" y="53.774" class="g">:</text>
+            <text x="26.052" y="53.774" class="h">~</text>
+            <text x="27.054" y="53.774" class="g">$</text>
+            <text x="29.058" y="53.774" class="g">asc</text>
+          </svg>
+          <svg x="49343">
+            <text x="15.03" y="53.774" class="f">seb@ubuntu</text>
+            <text x="25.05" y="53.774" class="g">:</text>
+            <text x="26.052" y="53.774" class="h">~</text>
+            <text x="27.054" y="53.774" class="g">$</text>
+            <text x="29.058" y="53.774" class="g">asci</text>
+          </svg>
+          <svg x="49476">
+            <text x="15.03" y="53.774" class="f">seb@ubuntu</text>
+            <text x="25.05" y="53.774" class="g">:</text>
+            <text x="26.052" y="53.774" class="h">~</text>
+            <text x="27.054" y="53.774" class="g">$</text>
+            <text x="29.058" y="53.774" class="g">ascii</text>
+          </svg>
+          <svg x="49609">
+            <text x="15.03" y="53.774" class="f">seb@ubuntu</text>
+            <text x="25.05" y="53.774" class="g">:</text>
+            <text x="26.052" y="53.774" class="h">~</text>
+            <text x="27.054" y="53.774" class="g">$</text>
+            <text x="29.058" y="53.774" class="g">asciin</text>
+          </svg>
+          <svg x="49742">
+            <text x="15.03" y="53.774" class="f">seb@ubuntu</text>
+            <text x="25.05" y="53.774" class="g">:</text>
+            <text x="26.052" y="53.774" class="h">~</text>
+            <text x="27.054" y="53.774" class="g">$</text>
+            <text x="29.058" y="53.774" class="g">asciine</text>
+          </svg>
+          <svg x="49875">
+            <text x="15.03" y="53.774" class="f">seb@ubuntu</text>
+            <text x="25.05" y="53.774" class="g">:</text>
+            <text x="26.052" y="53.774" class="h">~</text>
+            <text x="27.054" y="53.774" class="g">$</text>
+            <text x="29.058" y="53.774" class="g">asciinem</text>
+          </svg>
+          <svg x="50008"/>
+          <svg x="50141"/>
+          <svg x="50274">
+            <text x="15.03" y="53.774" class="f">seb@ubuntu</text>
+            <text x="25.05" y="53.774" class="g">:</text>
+            <text x="26.052" y="53.774" class="h">~</text>
+            <text x="27.054" y="53.774" class="g">$</text>
+            <text x="29.058" y="53.774" class="g">asciinema</text>
+            <text x="39.078" y="53.774" class="g">u</text>
+          </svg>
+          <svg x="50407">
+            <text x="15.03" y="53.774" class="f">seb@ubuntu</text>
+            <text x="25.05" y="53.774" class="g">:</text>
+            <text x="26.052" y="53.774" class="h">~</text>
+            <text x="27.054" y="53.774" class="g">$</text>
+            <text x="29.058" y="53.774" class="g">asciinema</text>
+            <text x="39.078" y="53.774" class="g">up</text>
+          </svg>
+          <svg x="50540">
+            <text x="15.03" y="53.774" class="f">seb@ubuntu</text>
+            <text x="25.05" y="53.774" class="g">:</text>
+            <text x="26.052" y="53.774" class="h">~</text>
+            <text x="27.054" y="53.774" class="g">$</text>
+            <text x="29.058" y="53.774" class="g">asciinema</text>
+            <text x="39.078" y="53.774" class="g">upl</text>
+          </svg>
+          <svg x="50673">
+            <text x="15.03" y="53.774" class="f">seb@ubuntu</text>
+            <text x="25.05" y="53.774" class="g">:</text>
+            <text x="26.052" y="53.774" class="h">~</text>
+            <text x="27.054" y="53.774" class="g">$</text>
+            <text x="29.058" y="53.774" class="g">asciinema</text>
+            <text x="39.078" y="53.774" class="g">uplo</text>
+          </svg>
+          <svg x="50806">
+            <text x="15.03" y="53.774" class="f">seb@ubuntu</text>
+            <text x="25.05" y="53.774" class="g">:</text>
+            <text x="26.052" y="53.774" class="h">~</text>
+            <text x="27.054" y="53.774" class="g">$</text>
+            <text x="29.058" y="53.774" class="g">asciinema</text>
+            <text x="39.078" y="53.774" class="g">uploa</text>
+          </svg>
+          <svg x="50939"/>
+          <svg x="51072"/>
+          <svg x="51205">
+            <text x="15.03" y="53.774" class="f">seb@ubuntu</text>
+            <text x="25.05" y="53.774" class="g">:</text>
+            <text x="26.052" y="53.774" class="h">~</text>
+            <text x="27.054" y="53.774" class="g">$</text>
+            <text x="29.058" y="53.774" class="g">asciinema</text>
+            <text x="39.078" y="53.774" class="g">upload</text>
+            <text x="46.092" y="53.774" class="g">d</text>
+          </svg>
+          <svg x="51338">
+            <text x="15.03" y="53.774" class="f">seb@ubuntu</text>
+            <text x="25.05" y="53.774" class="g">:</text>
+            <text x="26.052" y="53.774" class="h">~</text>
+            <text x="27.054" y="53.774" class="g">$</text>
+            <text x="29.058" y="53.774" class="g">asciinema</text>
+            <text x="39.078" y="53.774" class="g">upload</text>
+            <text x="46.092" y="53.774" class="g">de</text>
+          </svg>
+          <svg x="51471">
+            <text x="15.03" y="53.774" class="f">seb@ubuntu</text>
+            <text x="25.05" y="53.774" class="g">:</text>
+            <text x="26.052" y="53.774" class="h">~</text>
+            <text x="27.054" y="53.774" class="g">$</text>
+            <text x="29.058" y="53.774" class="g">asciinema</text>
+            <text x="39.078" y="53.774" class="g">upload</text>
+            <text x="46.092" y="53.774" class="g">dem</text>
+          </svg>
+          <svg x="51604">
+            <text x="15.03" y="53.774" class="f">seb@ubuntu</text>
+            <text x="25.05" y="53.774" class="g">:</text>
+            <text x="26.052" y="53.774" class="h">~</text>
+            <text x="27.054" y="53.774" class="g">$</text>
+            <text x="29.058" y="53.774" class="g">asciinema</text>
+            <text x="39.078" y="53.774" class="g">upload</text>
+            <text x="46.092" y="53.774" class="g">demo</text>
+          </svg>
+          <svg x="51737">
+            <text x="15.03" y="53.774" class="f">seb@ubuntu</text>
+            <text x="25.05" y="53.774" class="g">:</text>
+            <text x="26.052" y="53.774" class="h">~</text>
+            <text x="27.054" y="53.774" class="g">$</text>
+            <text x="29.058" y="53.774" class="g">asciinema</text>
+            <text x="39.078" y="53.774" class="g">upload</text>
+            <text x="46.092" y="53.774" class="g">demo.</text>
+          </svg>
+          <svg x="51870">
+            <text x="15.03" y="53.774" class="f">seb@ubuntu</text>
+            <text x="25.05" y="53.774" class="g">:</text>
+            <text x="26.052" y="53.774" class="h">~</text>
+            <text x="27.054" y="53.774" class="g">$</text>
+            <text x="29.058" y="53.774" class="g">asciinema</text>
+            <text x="39.078" y="53.774" class="g">upload</text>
+            <text x="46.092" y="53.774" class="g">demo.c</text>
+          </svg>
+          <svg x="52003">
+            <text x="15.03" y="53.774" class="f">seb@ubuntu</text>
+            <text x="25.05" y="53.774" class="g">:</text>
+            <text x="26.052" y="53.774" class="h">~</text>
+            <text x="27.054" y="53.774" class="g">$</text>
+            <text x="29.058" y="53.774" class="g">asciinema</text>
+            <text x="39.078" y="53.774" class="g">upload</text>
+            <text x="46.092" y="53.774" class="g">demo.ca</text>
+          </svg>
+          <svg x="52136">
+            <text x="15.03" y="53.774" class="f">seb@ubuntu</text>
+            <text x="25.05" y="53.774" class="g">:</text>
+            <text x="26.052" y="53.774" class="h">~</text>
+            <text x="27.054" y="53.774" class="g">$</text>
+            <text x="29.058" y="53.774" class="g">asciinema</text>
+            <text x="39.078" y="53.774" class="g">upload</text>
+            <text x="46.092" y="53.774" class="g">demo.cas</text>
+          </svg>
+          <svg x="52269"/>
+          <svg x="52402"/>
+        </svg>
+      </g>
+    </g>
+  </svg>
+</svg>
