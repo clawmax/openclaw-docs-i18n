@@ -739,4 +739,26 @@ Discord prend en charge les approbations d'exécution basées sur des boutons da
 -   `channels.discord.execApprovals.enabled`
 -   `channels.discord.execApprovals.approvers`
 -   `channels.discord.execApprovals.target` (`dm` | `channel` | `both`, par défaut : `dm`)
--   `agentFilter`,
+-   `agentFilter`, `sessionFilter`, `cleanupAfterResolve`
+
+Lorsque `target` est `channel` ou `both`, l'invite d'approbation est visible dans le canal. Seuls les approbateurs configurés peuvent utiliser les boutons ; les autres utilisateurs reçoivent un refus éphémère. Les invites d'approbation incluent le texte de la commande, donc n'activez la livraison par canal que dans les canaux de confiance. Si l'ID du canal ne peut pas être dérivé de la clé de session, OpenClaw revient à la livraison par MP.
+
+Si les approbations échouent avec des IDs d'approbation inconnus, vérifiez la liste des approbateurs et l'activation de la fonctionnalité.
+
+Documentation connexe : [Approbations d'exécution](../tools/exec-approvals.md)
+
+## Outils et portes d'action
+
+## Sécurité et opérations
+
+-   Traitez les jetons de bot comme des secrets (`DISCORD_BOT_TOKEN` préféré dans les environnements supervisés).
+-   Accordez les permissions Discord de moindre privilège.
+-   Si le déploiement de commande / l'état est périmé, redémarrez la passerelle et revérifiez avec `openclaw channels status --probe`.
+
+## Connexe
+
+-   [Appariement](./pairing.md)
+-   [Routage des canaux](./channel-routing.md)
+-   [Routage multi-agent](../concepts/multi-agent.md)
+-   [Dépannage](./troubleshooting.md)
+-   [Commandes slash](../tools/slash-commands.md)

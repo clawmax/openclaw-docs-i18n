@@ -610,4 +610,5 @@ Referencia principal:
     -   `channels.telegram.groups..enabled`: deshabilita el grupo cuando es `false`.
     -   `channels.telegram.groups..topics..*`: anulaciones por tema (campos de grupo + `agentId` solo para tema).
     -   `channels.telegram.groups..topics..agentId`: enruta este tema a un agente específico (anula el enrutamiento a nivel de grupo y vinculaciones).
-    -   `channels.telegram.groups.<
+    -   `channels.telegram.groups..topics..groupPolicy`: anulación por tema para groupPolicy (`open | allowlist | disabled`).
+    -   `channels.telegram.groups..topics..requireMention`: anulación por tema para requerimiento de mención.

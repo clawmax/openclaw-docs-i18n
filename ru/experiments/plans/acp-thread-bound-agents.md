@@ -620,4 +620,4 @@ E2e тесты шлюза:
 
 ### Новые команды
 
--   `/acp spawn <agent-id> [--
+-   `/acp spawn <agent-id> [--mode persistent|oneshot] [--thread auto|here|off]`: создает новую ACP сессию с указанным агентом

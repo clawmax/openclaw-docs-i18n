@@ -18,7 +18,7 @@ openclaw devices list
 openclaw devices list --json
 ```
 
-### openclaw devices remove 
+### openclaw devices remove &lt;deviceId&gt;
 
 移除单个已配对的设备。一旦移除，该设备将无法再访问网关。
 
@@ -47,7 +47,7 @@ openclaw devices approve <requestId>
 openclaw devices approve --latest
 ```
 
-### openclaw devices reject 
+### openclaw devices reject &lt;requestId&gt;
 
 拒绝一个待处理的设备配对请求。
 
@@ -55,7 +55,7 @@ openclaw devices approve --latest
 openclaw devices reject <requestId>
 ```
 
-### openclaw devices rotate --device  --role  [--scope <scope...>]
+### openclaw devices rotate --device &lt;id&gt; --role &lt;role&gt; [--scope &lt;scope...&gt;]
 
 为指定设备的某个角色轮换令牌。你也可以顺便更新该令牌的作用域。
 
@@ -63,7 +63,7 @@ openclaw devices reject <requestId>
 openclaw devices rotate --device <deviceId> --role operator --scope operator.read --scope operator.write
 ```
 
-### openclaw devices revoke --device  --role 
+### openclaw devices revoke --device &lt;id&gt; --role &lt;role&gt;
 
 撤销指定设备的某个角色令牌。
 

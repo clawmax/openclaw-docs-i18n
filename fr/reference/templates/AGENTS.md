@@ -158,7 +158,7 @@ Quand vous recevez un sondage heartbeat (message correspondant à l'invite heart
 **Quand prendre contact :**
 
 -   Un email important est arrivé
--   Un événement calendrier approche (<2h)
+-   Un événement calendrier approche (&lt;2h)
 -   Quelque chose d'intéressant que vous avez trouvé
 -   Cela fait >8h que vous n'avez rien dit
 
@@ -167,7 +167,7 @@ Quand vous recevez un sondage heartbeat (message correspondant à l'invite heart
 -   Tard le soir (23:00-08:00) sauf urgence
 -   L'humain est clairement occupé
 -   Rien de nouveau depuis la dernière vérification
--   Vous venez de vérifier il y a <30 minutes
+-   Vous venez de vérifier il y a &lt;30 minutes
 
 **Travail proactif que vous pouvez faire sans demander :**
 

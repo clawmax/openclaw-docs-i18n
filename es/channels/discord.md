@@ -721,4 +721,30 @@ Ejemplo de presencia automática (señal de salud del tiempo de ejecución):
         enabled: true,
         intervalMs: 30000,
         minUpdateIntervalMs: 15000,
-        exhaustedText: "tokens
+        exhaustedText: "tokens agotados",
+      },
+    },
+  },
+}
+```
+
+La presencia automática asigna la disponibilidad del tiempo de ejecución al estado de Discord: salud => en línea, degradado o desconocido => inactivo, agotado o no disponible => no molestar. Anulaciones de texto opcionales:
+
+-   `autoPresence.healthyText`
+-   `autoPresence.degradedText`
+-   `autoPresence.exhaustedText` (soporta el marcador `{reason}`)
+
+Discord admite aprobaciones de ejecución basadas en botones en mensajes directos y puede publicar opcionalmente solicitudes de aprobación en el canal de origen. Ruta de configuración:
+
+-   `channels.discord.execApprovals.enabled`
+-   `channels.discord.execApprovals.approvers`
+-   `channels.discord.execApprovals.target` (`dm` | `channel` | `both`, predeterminado: `dm`)
+-   `agentFilter`, `sessionFilter`, `cleanupAfterResolve`
+
+Cuando `target` es `channel` o `both`, la solicitud de aprobación es visible en el canal. Solo los aprobadores configurados pueden usar los botones; otros usuarios reciben una denegación efímera. Las solicitudes de aprobación incluyen el texto del comando, así que habilita la entrega en el canal solo en canales de confianza. Si el ID del canal no puede derivarse de la clave de sesión, OpenClaw vuelve a la entrega por mensaje directo.
+
+Si las aprobaciones fallan con IDs de aprobación desconocidos, verifica la lista de aprobadores y la habilitación de la función.
+
+Documentos relacionados: [Aprobaciones de ejecución](../tools/exec-approvals.md)
+
+## Herramientas y puertas de acción

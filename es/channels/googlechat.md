@@ -33,7 +33,7 @@ Estado: listo para mensajes directos + espacios mediante webhooks de la API de G
     -   En **Configuración de conexión**, selecciona **URL de endpoint HTTP**.
     -   En **Disparadores**, selecciona **Usar una URL de endpoint HTTP común para todos los disparadores** y configúrala como la URL pública de tu puerta de enlace seguida de `/googlechat`.
         -   *Consejo: Ejecuta `openclaw status` para encontrar la URL pública de tu puerta de enlace.*
-    -   En **Visibilidad**, marca **Hacer que esta aplicación de Chat esté disponible para personas y grupos específicos en **.
+    -   En **Visibilidad**, marca **Hacer que esta aplicación de Chat esté disponible para personas y grupos específicos en `Tu Dominio`**.
     -   Ingresa tu dirección de correo electrónico (ej. `user@example.com`) en el cuadro de texto.
     -   Haz clic en **Guardar** al final.
 6.  **Habilita el estado de la aplicación**:

@@ -158,7 +158,7 @@ Cuando recibas un sondeo de heartbeat (el mensaje coincide con el prompt de hear
 **Cuándo contactar:**
 
 -   Llegó un correo electrónico importante
--   Un evento del calendario se acerca (<2h)
+-   Un evento del calendario se acerca (&lt;2h)
 -   Algo interesante que encontraste
 -   Han pasado >8h desde que dijiste algo
 
@@ -167,7 +167,7 @@ Cuando recibas un sondeo de heartbeat (el mensaje coincide con el prompt de hear
 -   Noche tarde (23:00-08:00) a menos que sea urgente
 -   El humano claramente está ocupado
 -   Nada nuevo desde la última verificación
--   Acabas de verificar <30 minutos atrás
+-   Acabas de verificar &lt;30 minutos atrás
 
 **Trabajo proactivo que puedes hacer sin preguntar:**
 

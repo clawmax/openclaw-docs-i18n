@@ -712,4 +712,26 @@ Incluye tu propio número en `allowFrom` para habilitar el modo self-chat (ignor
 -   `native: "auto"` activa comandos nativos para Discord/Telegram, deja Slack apagado.
 -   Anular por canal: `channels.discord.commands.native` (bool o `"auto"`). `false` borra comandos registrados previamente.
 -   `channels.telegram.customCommands` agrega entradas extra al menú del bot de Telegram.
--   `bash: true` habilita `! ` para shell del host. Requiere `tools.elevated.enabled` y remit
+-   `bash: true` habilita `! ` para shell del host. Requiere `tools.elevated.enabled` y remitente en `tools.elevated.allowFrom.`.
+-   `config: true` habilita `/config` (lee/escribe `openclaw.json`). Para clientes gateway `chat.send`, las escrituras persistentes `/config set|unset` también requieren `operator.admin`; la lectura sola `/config show` permanece disponible para clientes operadores normales.
+-   `channels..configWrites` controla mutaciones de configuración por canal (predeterminado: true).
+-   `allowFrom` es por proveedor. Cuando se establece, es la **única** fuente de autorización (listas de permitidos de canal/appariementos y `useAccessGroups` son ignorados).
+-   `useAccessGroups: false` permite comandos omitir políticas de grupo de acceso cuando `allowFrom` no está establecido.
+
+* * *
+
+## Valores por defecto de agente
+
+### agents.defaults.workspace
+
+Predeterminado: `~/.openclaw/workspace`.
+
+```json
+{
+  agents: { defaults: { workspace: "~/.openclaw/workspace" } },
+}
+```
+
+### agents.defaults.repoRoot
+
+Raíz de repositorio opcional mostrada en la línea Runtime del prompt del sistema. Si no se establece, OpenClaw detecta automáticamente caminando hacia arriba desde el espacio de trabajo.

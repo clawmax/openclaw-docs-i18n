@@ -688,4 +688,77 @@ openclaw message thread create --channel discord --target channel:<forumId> \
 }
 ```
 
-مثال لل
+مثال للبث:
+
+```json
+{
+  channels: {
+    discord: {
+      activity: "Live coding",
+      activityType: 1,
+      activityUrl: "https://twitch.tv/openclaw",
+    },
+  },
+}
+```
+
+خريطة أنواع النشاط:
+
+-   0: يلعب
+-   1: يبث (يتطلب `activityUrl`)
+-   2: يستمع
+-   3: يشاهد
+-   4: مخصص (يستخدم نص النشاط كحالة الحالة؛ الإيموجي اختياري)
+-   5: يتنافس
+
+مثال الحالة التلقائية (إشارة صحة وقت التشغيل):
+
+```json
+{
+  channels: {
+    discord: {
+      autoPresence: {
+        enabled: true,
+        intervalMs: 30000,
+        minUpdateIntervalMs: 15000,
+        exhaustedText: "tokens exhausted",
+      },
+    },
+  },
+}
+```
+
+تربط الحالة التلقائية توفر وقت التشغيل بحالة Discord: صحي => متصل، متدهور أو غير معروف => خاملاً، مستنفد أو غير متاح => لا تزعج. استبدالات النص اختيارية:
+
+-   `autoPresence.healthyText`
+-   `autoPresence.degradedText`
+-   `autoPresence.exhaustedText` (يدعم العنصر النائب `{reason}`)
+
+يدعم Discord موافقات التنفيذ المستندة إلى الأزرار في الرسائل المباشرة ويمكنه نشر مطالبات الموافقة اختيارياً في القناة الأصلية. مسار التكوين:
+
+-   `channels.discord.execApprovals.enabled`
+-   `channels.discord.execApprovals.approvers`
+-   `channels.discord.execApprovals.target` (`dm` | `channel` | `both`, افتراضي: `dm`)
+-   `agentFilter`, `sessionFilter`, `cleanupAfterResolve`
+
+عندما يكون `target` هو `channel` أو `both`، تكون مطالبة الموافقة مرئية في القناة. يمكن للموافقين المكونين فقط استخدام الأزرار؛ المستخدمون الآخرون يتلقون رفضاً مؤقتاً. تتضمن مطالبات الموافقة نص الأمر، لذا قم بتمكين التسليم في القناة فقط في القنوات الموثوقة. إذا تعذر اشتقاق معرف القناة من مفتاح الجلسة، يعود OpenClaw إلى التسليم عبر الرسالة المباشرة.
+
+إذا فشلت الموافقات مع معرفات موافقة غير معروفة، تحقق من قائمة الموافقين وتفعيل الميزة.
+
+المستندات ذات الصلة: [موافقات التنفيذ](../tools/exec-approvals.md)
+
+## أدوات وبوابات الإجراء
+
+## الأمان والعمليات
+
+-   عامل التكامل كمفاتيح سرية (`DISCORD_BOT_TOKEN` المفضل في البيئات الخاضعة للإشراف).
+-   امنح أقل امتيازات Discord.
+-   إذا كان نشر الأمر/الحالة قديماً، أعد تشغيل البوابة وتحقق مرة أخرى باستخدام `openclaw channels status --probe`.
+
+## ذي صلة
+
+-   [الإقران](./pairing.md)
+-   [توجيه القنوات](./channel-routing.md)
+-   [توجيه الوكلاء المتعددين](../concepts/multi-agent.md)
+-   [استكشاف الأخطاء وإصلاحها](./troubleshooting.md)
+-   [أوامر الشرطة المائلة](../tools/slash-commands.md)

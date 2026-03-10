@@ -26,7 +26,7 @@ Formas y tamaños
 Notas de comportamiento
 
 -   No hay interruptor CLI/broker externo para orejas/trabajando; mantenlo interno a las señales propias de la aplicación para evitar activaciones accidentales.
--   Mantén los TTL cortos (<10s) para que el icono vuelva a la línea base rápidamente si un trabajo se cuelga.
+-   Mantén los TTL cortos (&lt;10s) para que el icono vuelva a la línea base rápidamente si un trabajo se cuelga.
 
 [Comprobaciones de Estado](./health.md)[Registro en macOS](./logging.md)
 

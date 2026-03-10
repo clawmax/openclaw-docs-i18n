@@ -99,7 +99,7 @@ ssh -N -L 18789:127.0.0.1:18789 user@host
 
 在生产环境中，建议使用进程监管工具来保证网关的可靠性。
 
-].service\nopenclaw gateway status', lang: 'bash' }, { label: 'Linux (system service)', code: 'sudo systemctl daemon-reload\nsudo systemctl enable --now openclaw-gateway[-].service', lang: 'bash' }] />
+].service\nopenclaw gateway status', lang: 'bash' }, { label: 'Linux (system service)', code: 'sudo systemctl daemon-reload\nsudo systemctl enable --now openclaw-gateway[-].service', lang: 'bash' }]} />
 
 ## 单主机多网关
 

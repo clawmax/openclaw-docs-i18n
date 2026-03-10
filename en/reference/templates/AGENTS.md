@@ -158,7 +158,7 @@ When you receive a heartbeat poll (message matches the configured heartbeat prom
 **When to reach out:**
 
 -   Important email arrived
--   Calendar event coming up (<2h)
+-   Calendar event coming up (&lt;2h)
 -   Something interesting you found
 -   It’s been >8h since you said anything
 
@@ -167,7 +167,7 @@ When you receive a heartbeat poll (message matches the configured heartbeat prom
 -   Late night (23:00-08:00) unless urgent
 -   Human is clearly busy
 -   Nothing new since last check
--   You just checked <30 minutes ago
+-   You just checked &lt;30 minutes ago
 
 **Proactive work you can do without asking:**
 

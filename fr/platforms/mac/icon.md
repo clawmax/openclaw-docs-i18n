@@ -29,6 +29,6 @@ Formes et tailles
 Notes comportementales
 
 -   Pas de bascule CLI/broker externe pour les oreilles/l'activité ; gardez cela interne aux signaux propres de l'application pour éviter un battement accidentel.
--   Gardez les TTL courts (<10s) pour que l'icône revienne rapidement à l'état de base si un travail se bloque.
+-   Gardez les TTL courts (&lt;10s) pour que l'icône revienne rapidement à l'état de base si un travail se bloque.
 
 [Contrôles de santé](./health.md)[Journalisation macOS](./logging.md)

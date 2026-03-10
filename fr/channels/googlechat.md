@@ -33,7 +33,7 @@ Statut : prêt pour les messages privés + espaces via les webhooks de l'API Goo
     -   Sous **Paramètres de connexion**, sélectionnez **URL du point de terminaison HTTP**.
     -   Sous **Déclencheurs**, sélectionnez **Utiliser une URL de point de terminaison HTTP commune pour tous les déclencheurs** et définissez-la sur l'URL publique de votre passerelle suivie de `/googlechat`.
         -   *Astuce : Exécutez `openclaw status` pour trouver l'URL publique de votre passerelle.*
-    -   Sous **Visibilité**, cochez **Rendre cette application Chat disponible à des personnes et groupes spécifiques dans **.
+    -   Sous **Visibilité**, cochez **Rendre cette application Chat disponible à des personnes et groupes spécifiques dans `Votre Domaine`**.
     -   Entrez votre adresse e-mail (par ex. `user@example.com`) dans la zone de texte.
     -   Cliquez sur **Enregistrer** en bas.
 6.  **Activez le statut de l'application** :

@@ -33,7 +33,7 @@
     -   В разделе **Connection settings** выберите **HTTP endpoint URL**.
     -   В разделе **Triggers** выберите **Use a common HTTP endpoint URL for all triggers** и укажите публичный URL вашего шлюза с добавлением `/googlechat`.
         -   *Подсказка: выполните `openclaw status`, чтобы найти публичный URL вашего шлюза.*
-    -   В разделе **Visibility** отметьте **Make this Chat app available to specific people and groups in **.
+    -   В разделе **Visibility** отметьте **Make this Chat app available to specific people and groups in `Your Domain`**.
     -   Введите свой адрес электронной почты (например, `user@example.com`) в текстовое поле.
     -   Нажмите **Save** внизу.
 6.  **Включите статус приложения**:
