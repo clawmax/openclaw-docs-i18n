@@ -21,7 +21,7 @@
 
 | 方法 | 参数说明 |
 |------|----------|
-| `wizard.start` | `{ mode?: "local"|"remote", workspace?: string }` — 启动向导会话 |
+| `wizard.start` | `{ mode?: "local"\|"remote", workspace?: string }` — 启动向导会话 |
 | `wizard.next` | `{ sessionId, answer?: { stepId, value? } }` — 推进到下一步 |
 | `wizard.cancel` | `{ sessionId }` — 取消当前会话 |
 | `wizard.status` | `{ sessionId }` — 查询会话状态 |
