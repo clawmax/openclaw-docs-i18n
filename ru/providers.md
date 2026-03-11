@@ -1,7 +1,4 @@
-title: "Документация и руководство по настройке провайдеров моделей OpenClaw AI"
-description: "Узнайте, как аутентифицироваться и настроить провайдеров LLM, таких как Anthropic, OpenAI и Ollama, в OpenClaw. Установите модель по умолчанию и изучите полный каталог провайдеров."
-keywords: ["openclaw", "провайдеры моделей", "настройка llm", "anthropic claude", "openai api", "ollama", "litellm", "bedrock"]
----
+
 
   Обзор
 

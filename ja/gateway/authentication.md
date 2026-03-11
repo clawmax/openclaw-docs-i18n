@@ -1,7 +1,4 @@
-title: "OpenClawゲートウェイ認証設定：OAuthとAPIキー"
-description: "APIキー、OAuth、セットアップトークンを使用してOpenClawゲートウェイの認証を設定する方法を学びます。セットアップ手順、トラブルシューティング、認証情報管理を含みます。"
-keywords: ["openclaw 認証", "ゲートウェイ api キー", "oauth 設定", "anthropic セットアップトークン", "認証資格情報セマンティクス", "モデルステータスプローブ", "secretref 認証", "api キーローテーション"]
----
+
 
   設定と運用
 

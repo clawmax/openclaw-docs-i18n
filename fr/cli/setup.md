@@ -1,7 +1,4 @@
-title: "Guide et exemples de la commande de configuration d'OpenClaw CLI"
-description: "Apprenez à initialiser la configuration de l'interface CLI OpenClaw et l'espace de travail de l'agent à l'aide de la commande setup, avec des exemples et les options de l'assistant."
-keywords: ["configuration openclaw", "configuration cli", "espace de travail agent", "openclaw.json", "configuration ligne de commande", "assistant d'intégration", "initialisation cli", "configuration espace de travail"]
----
+
 
   Commandes CLI
 

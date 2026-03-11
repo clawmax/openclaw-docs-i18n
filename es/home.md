@@ -1,7 +1,4 @@
-title: "OpenClaw: Puerta de enlace de agentes de IA autoalojada para WhatsApp, Telegram, Discord"
-description: "OpenClaw es una puerta de enlace autoalojada que conecta WhatsApp, Telegram, Discord e iMessage con agentes de IA de programación. Aprende a instalar y configurar tu asistente de IA personal."
-keywords: ["openclaw", "ia autoalojada", "puerta de enlace de agente de ia", "bot de whatsapp", "bot de telegram", "bot de discord", "asistente de ia", "puerta de enlace multicanal"]
----
+
 
   Inicio
 
@@ -13,7 +10,7 @@ keywords: ["openclaw", "ia autoalojada", "puerta de enlace de agente de ia", "bo
 
 > *"¡EXFOLIAR! ¡EXFOLIAR!"* — Una langosta espacial, probablemente
 
-  **Puerta de enlace para cualquier SO para agentes de IA en WhatsApp, Telegram, Discord, iMessage y más.** Envía un mensaje, obtén una respuesta de un agente desde tu bolsillo. Los complementos añaden Mattermost y más.
+**Puerta de enlace para cualquier SO para agentes de IA en WhatsApp, Telegram, Discord, iMessage y más.** Envía un mensaje, obtén una respuesta de un agente desde tu bolsillo. Los complementos añaden Mattermost y más.
 
   
   

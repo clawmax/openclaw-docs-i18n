@@ -1,7 +1,4 @@
-title: "Documentation du protocole Bridge Legacy pour le transport des nœuds OpenClaw"
-description: "Découvrez le protocole Bridge legacy pour le transport des nœuds, y compris son handshake, ses trames et son utilisation, et pourquoi utiliser le nouveau Gateway WebSocket."
-keywords: ["protocole bridge", "transport legacy", "client nœud", "tcp jsonl", "intégration gateway", "appairage de nœud", "tailnet", "openclaw"]
----
+
 
   Protocoles et APIs
 

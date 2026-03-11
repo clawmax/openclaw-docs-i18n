@@ -1,7 +1,4 @@
-title: "Capture par caméra pour les nœuds iOS Android macOS dans OpenClaw"
-description: "Apprenez à capturer des photos et des vidéos en utilisant les nœuds caméra dans OpenClaw. Configurez les paramètres, utilisez les commandes CLI et intégrez la capture caméra dans les flux de travail des agents."
-keywords: ["capture caméra", "nœuds openclaw", "caméra ios", "caméra android", "caméra macos", "node.invoke", "assistant cli", "capture média"]
----
+
 
   Médias et appareils
 

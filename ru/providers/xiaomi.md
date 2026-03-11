@@ -1,7 +1,4 @@
-title: "Настройка и конфигурация провайдера Xiaomi MiMo для OpenClaw AI"
-description: "Узнайте, как настроить и сконфигурировать провайдер Xiaomi MiMo в OpenClaw AI. Используйте модель mimo-v2-flash с API, совместимыми с Anthropic, через аутентификацию по API-ключу."
-keywords: ["xiaomi mimo", "провайдер openclaw", "mimo-v2-flash", "anthropic api", "аутентификация по api-ключу", "конфигурация модели", "настройка openclaw", "xiaomi api"]
----
+
 
   Провайдеры
 

@@ -1,7 +1,4 @@
-title: "Guía de Plantilla BOOT de OpenClaw para Instrucciones de Inicio"
-description: "Aprende a usar la plantilla BOOT para configurar el comportamiento de inicio de OpenClaw, incluyendo la habilitación de hooks internos y el uso de la herramienta de mensajes."
-keywords: ["plantilla de arranque openclaw", "configuración de inicio", "hooks internos", "herramienta de mensajes", "no_reply", "plantillas de agente", "documentación de openclaw", "automatización de tareas"]
----
+
 
   Plantillas
 

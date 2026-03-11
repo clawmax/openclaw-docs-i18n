@@ -1,7 +1,4 @@
-title: "أتمتة Gmail إلى OpenClaw عبر إشعارات الدفع PubSub"
-description: "تعلم كيفية إعداد أتمتة Gmail باستخدام Google PubSub. إعادة توجيه رسائل البريد الإلكتروني إلى OpenClaw عبر webhooks للمعالجة بواسطة الذكاء الاصطناعي والتسليم إلى الدردشة."
-keywords: ["أتمتة gmail", "pubsub", "webhook openclaw", "مراقبة gmail", "أتمتة البريد الإلكتروني", "gogcli", "قناة tailscale", "إشعارات الدفع"]
----
+
 
   الأتمتة
 

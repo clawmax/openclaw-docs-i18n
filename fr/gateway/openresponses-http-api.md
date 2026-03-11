@@ -1,7 +1,4 @@
-title: "API HTTP OpenResponses pour la configuration et l'utilisation de la passerelle OpenClaw"
-description: "Apprenez à activer et utiliser le point de terminaison POST /v1/responses compatible OpenResponses dans la passerelle OpenClaw. Configurez l'authentification, la sécurité, les agents, les outils et la gestion des fichiers."
-keywords: ["api openresponses", "passerelle openclaw", "api http", "intégration d'agent", "authentification api", "outils client", "téléchargement de fichier", "streaming sse"]
----
+
 
   Protocoles et APIs
 

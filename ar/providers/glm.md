@@ -1,7 +1,4 @@
-title: "كيفية استخدام نماذج GLM في OpenClaw عبر موفر Z.AI"
-description: "تعلم كيفية إعداد وتكوين نماذج GLM مثل glm-5 في OpenClaw باستخدام موفر Z.AI. يتضمن أمثلة للإعداد عبر سطر الأوامر والتكوين."
-keywords: ["نماذج glm", "موفر openclaw zai", "إعداد glm-5", "مفتاح api لـ zai", "تكوين openclaw", "عائلة نموذج glm", "منصة zai", "موفرو openclaw"]
----
+
 
   الموفرون
 

@@ -1,7 +1,4 @@
-title: "外部コーディングハーネス向け OpenClaw ACP エージェントガイド"
-description: "OpenClaw ACP エージェントを使用して Claude Code や Codex などの外部コーディングハーネスを実行する方法を学びます。セッションの設定、ランタイムの管理、acpx バックエンドのセットアップについて説明します。"
-keywords: ["acp エージェント", "エージェントクライアントプロトコル", "openclaw acp", "acpx バックエンド", "コーディングハーネス", "claude code", "codex", "エージェント調整"]
----
+
 
   エージェント調整
 

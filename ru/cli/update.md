@@ -1,7 +1,4 @@
-title: "Руководство по использованию команды update в OpenClaw CLI"
-description: "Узнайте, как безопасно обновлять OpenClaw и переключаться между стабильным, бета- и dev-каналами с помощью команды CLI update, её опциями и примерами."
-keywords: ["openclaw update", "команда cli update", "каналы обновления", "стабильный бета dev", "openclaw upgrade", "сервис gateway", "справочник cli", "npm pnpm"]
----
+
 
   Команды CLI
 

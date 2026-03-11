@@ -1,7 +1,4 @@
-title: "Voice Wake ノード設定とプロトコルドキュメント"
-description: "OpenClaw でグローバルウェイクワードの設定方法、ストレージプロトコルの理解、および macOS、iOS、Android ノード間での Voice Wake 設定の管理方法について学びます。"
-keywords: ["ボイスウェイク", "ウェイクワード", "openclaw ゲートウェイ", "voicewake プロトコル", "ノード設定", "macos ボイスウェイク", "ios ボイスウェイク", "android ボイス設定"]
----
+
 
   メディアとデバイス
 

@@ -1,7 +1,4 @@
-title: "دليل إعداد وتكوين موفري النماذج في OpenClaw"
-description: "تعلم كيفية المصادقة وإعداد موفري نماذج اللغة الكبيرة مثل OpenAI و Anthropic و Mistral في OpenClaw. دليل البدء السريع والقائمة الكاملة للموفرين المدعومين."
-keywords: ["نماذج openclaw", "موفرو llm", "تكوين النموذج", "anthropic claude", "openai api", "إعداد النموذج", "openrouter", "bedrock"]
----
+
 
   نظرة عامة
 

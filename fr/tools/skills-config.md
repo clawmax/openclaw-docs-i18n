@@ -1,7 +1,4 @@
-title: "Guide de configuration et référence des paramètres des compétences OpenClaw"
-description: "Apprenez à configurer les compétences d'IA OpenClaw. Définissez des listes autorisées, chargez des répertoires de compétences personnalisés, gérez les paramètres par compétence et configurez les variables d'environnement."
-keywords: ["compétences openclaw", "configuration des compétences", "compétences de l'agent", "paramètres des compétences", "répertoires de compétences", "variables d'environnement des compétences", "surcharges des compétences", "compétences en bac à sable"]
----
+
 
   Compétences
 

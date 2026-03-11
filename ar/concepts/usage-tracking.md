@@ -1,7 +1,4 @@
-title: "تتبع استخدام OpenClaw لحصص وتكاليف موفري الذكاء الاصطناعي"
-description: "تعرف على كيفية تتبع OpenClaw لاستخدام وتكاليف موفري الذكاء الاصطناعي عبر أوامر /status، /usage، وCLI. شاهد الحصص الفعلية من Anthropic وGitHub Copilot والمزيد."
-keywords: ["تتبع الاستخدام", "حصص موفري الذكاء الاصطناعي", "openclaw status", "openclaw usage", "تقدير التكلفة", "رموز Anthropic", "github copilot oauth", "تفصيل استخدام CLI"]
----
+
 
   مفاهيم داخلية
 

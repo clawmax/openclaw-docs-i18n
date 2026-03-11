@@ -1,7 +1,4 @@
-title: "Настройка провайдера Qianfan в OpenClaw и конфигурация API-ключа"
-description: "Узнайте, как настроить и использовать провайдер Qianfan в OpenClaw. Получите свой Baidu Qianfan API-ключ и настройте CLI для доступа к AI-моделям."
-keywords: ["qianfan", "baidu", "openclaw", "api ключ", "maas", "openai совместимый", "провайдер моделей", "настройка cli"]
----
+
 
   Провайдеры
 

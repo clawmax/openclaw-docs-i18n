@@ -1,7 +1,4 @@
-title: "إعداد موفر OpenAI لمفتاح OpenClaw API وCodex"
-description: "تعلم كيفية تكوين مفاتيح OpenAI API أو Codex OAuth في OpenClaw. قم بإعداد نماذج GPT، وإدارة النقل، وتمكين الضغط من جانب الخادم."
-keywords: ["openai", "openclaw", "مفتاح api", "codex", "gpt-5.4", "oauth", "websocket", "responses api"]
----
+
 
   الموفرون
 

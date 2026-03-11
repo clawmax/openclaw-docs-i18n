@@ -1,7 +1,4 @@
-title: "Commandes d'appairage OpenClaw CLI pour l'approbation et l'inspection des canaux"
-description: "Apprenez à utiliser les commandes d'appairage de l'interface CLI OpenClaw pour lister, inspecter et approuver les demandes d'appairage en DM pour les canaux pris en charge comme Telegram."
-keywords: ["appairage openclaw", "commandes cli", "appairage dm", "approbation de canal", "appairage telegram", "liste d'appairage", "approuver l'appairage", "canaux multi-comptes"]
----
+
 
   Commandes CLI
 

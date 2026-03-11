@@ -1,7 +1,4 @@
-title: "Lobster Workflow Shell pour les séquences d'outils multi-étapes d'OpenClaw"
-description: "Apprenez comment Lobster exécute des séquences d'outils multi-étapes déterministes avec des approbations intégrées et un état reprise. Réduisez les appels LLM et orchestrez des workflows en un seul appel."
-keywords: ["lobster", "openclaw", "automatisation de workflow", "pipelines déterministes", "workflows d'approbation", "état reprise", "outils d'IA", "automatisation CLI"]
----
+
 
   Outils intégrés
 

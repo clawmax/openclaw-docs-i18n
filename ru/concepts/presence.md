@@ -1,7 +1,4 @@
-title: "Концепция Presence в OpenClaw для мониторинга мульти-агентных систем"
-description: "Узнайте о presence в OpenClaw — облегчённом представлении о Gateway и подключённых клиентах. Поймите его поля, источники, правила слияния и как он работает на вкладке Instances."
-keywords: ["openclaw presence", "мониторинг мульти-агентных систем", "клиенты шлюза", "instanceid", "system-presence", "websocket connect", "presence ttl", "вкладка instances macos"]
----
+
 
   Мульти-агент
 

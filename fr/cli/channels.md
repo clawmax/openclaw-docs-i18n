@@ -1,7 +1,4 @@
-title: "Guide des commandes CLI OpenClaw Channels pour la gestion des comptes de discussion"
-description: "Apprenez à gérer les comptes de canaux de discussion, ajouter ou supprimer des comptes, résoudre les noms en ID, et dépanner l'état d'exécution en utilisant les commandes CLI OpenClaw."
-keywords: ["openclaw cli", "commandes channels", "comptes de discussion", "état de la passerelle", "ajouter un compte de canal", "dépannage des canaux", "résoudre les ID de canal", "capacités des canaux"]
----
+
 
   Commandes CLI
 

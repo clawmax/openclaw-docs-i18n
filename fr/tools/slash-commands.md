@@ -1,7 +1,4 @@
-title: "Guide des commandes slash OpenClaw pour les compétences et la configuration"
-description: "Apprenez à utiliser les commandes slash et directives OpenClaw pour les compétences, la configuration et la gestion des sessions. Inclut la liste des commandes et options de configuration."
-keywords: ["commandes slash openclaw", "commandes compétences", "directives gateway", "configuration chatbot", "gestion de session", "commandes bash", "commandes discord telegram", "configuration liste d'autorisation"]
----
+
 
   Compétences
 

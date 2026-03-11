@@ -1,7 +1,4 @@
-title: "Monitorizar el estado de salud de la aplicación macOS y los canales vinculados"
-description: "Aprende a comprobar el estado de salud de tus canales vinculados de WhatsApp y Telegram desde la aplicación de la barra de menús de macOS, interpretar los indicadores de estado y ejecutar pruebas manuales."
-keywords: ["comprobación de salud macos", "salud openclaw", "estado barra de menús", "salud baileys", "estado canal vinculado", "prueba whatsapp", "prueba telegram", "aplicación compañera mac"]
----
+
 
   Aplicación compañera de macOS
 

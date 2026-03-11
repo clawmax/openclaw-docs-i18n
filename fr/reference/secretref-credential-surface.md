@@ -1,7 +1,4 @@
-title: "Référence de la surface d'identification SecretRef pour OpenClaw AI"
-description: "Découvrez quels champs de configuration OpenClaw prennent en charge les secrets externes via SecretRef pour une gestion sécurisée des identifiants dans les modèles, agents, canaux et outils."
-keywords: ["secretref", "identifiants openclaw", "gestion des clés api", "secrets de configuration", "secrets externes", "surface d'identification", "audit des secrets", "profils d'authentification"]
----
+
 
   Référence technique
 

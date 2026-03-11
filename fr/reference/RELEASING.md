@@ -1,7 +1,4 @@
-title: "Checklist de publication et guide de versionnement d'OpenClaw"
-description: "Guide étape par étape pour publier et distribuer les versions d'OpenClaw. Apprenez les vérifications préalables, le processus de build, la publication sur npm et la distribution de l'application macOS."
-keywords: ["publication openclaw", "checklist de publication", "publication npm", "versionnement", "flux sparkle appcast", "distribution application macos", "journal des modifications", "publication de plugin"]
----
+
 
   Notes de version
 

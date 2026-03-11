@@ -1,7 +1,4 @@
-title: "مكتبة مخططات TypeBox لبروتوكول Gateway WebSocket"
-description: "تعرف على كيفية تعريف TypeBox لبروتوكول Gateway WebSocket للتحقق في وقت التشغيل، وتصدير مخطط JSON، وإنشاء كود Swift. اتبع دليلًا خطوة بخطوة لإضافة طرق جديدة."
-keywords: ["typebox", "بروتوكول websocket", "التحقق من صحة المخطط", "مخطط typescript", "إنشاء كود swift", "هندسة البوابة", "مخطط json", "التحقق في وقت التشغيل"]
----
+
 
   المفاهيم الداخلية
 

@@ -1,7 +1,4 @@
-title: "Guide d'installation et de configuration du navigateur géré OpenClaw"
-description: "Apprenez à configurer et utiliser le navigateur géré OpenClaw pour une automatisation d'agent sûre et isolée. Inclut les commandes de démarrage rapide, la gestion des profils et les bonnes pratiques de sécurité."
-keywords: ["navigateur openclaw", "navigateur géré", "automatisation navigateur", "configuration cdp", "profils navigateur", "automatisation agent", "intégration browserless", "contrôle navigateur distant"]
----
+
 
   Navigateur
 

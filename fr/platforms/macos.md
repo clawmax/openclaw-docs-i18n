@@ -1,7 +1,4 @@
-title: "Guide de l'application macOS OpenClaw pour le compagnon de barre de menus et la passerelle"
-description: "Apprenez à utiliser l'application macOS OpenClaw dans la barre de menus pour gérer les permissions, vous connecter à la passerelle et exposer les capacités macOS comme Canvas et l'enregistrement d'écran aux agents IA."
-keywords: ["openclaw macos", "application barre de menus macos", "connexion passerelle", "permissions macos tcc", "approbations system.run", "mode distant ssh", "contrôle launchd", "automatisation canvas"]
----
+
 
   Aperçu des plateformes
 

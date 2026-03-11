@@ -1,7 +1,4 @@
-title: "Guide d'installation et de configuration de l'intégration OpenClaw Mattermost"
-description: "Apprenez à installer et configurer le plugin Mattermost pour OpenClaw. Configurez les jetons de bot, les commandes slash, les modes de discussion, le contrôle d'accès et les fonctionnalités interactives."
-keywords: ["mattermost", "openclaw", "intégration chatbot", "installation plugin", "commandes slash", "messagerie d'équipe", "configuration bot", "chat auto-hébergé"]
----
+
 
   Plateformes de messagerie
 

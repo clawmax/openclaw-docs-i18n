@@ -1,7 +1,4 @@
-title: "Répertoire et index de la documentation OpenClaw"
-description: "Trouvez la bonne documentation OpenClaw. Cet index organisé contient des liens vers les guides d'installation, de configuration, de canaux, d'applications et d'opérations pour la plateforme d'assistant IA."
-keywords: ["documentation openclaw", "index de la documentation", "guide d'installation", "configuration", "canaux", "applications compagnon", "opérations", "routage multi-agent"]
----
+
 
   Méta de la documentation
 

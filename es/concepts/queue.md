@@ -1,7 +1,4 @@
-title: "Gestión de Colas para Ejecuciones de Agente de Respuesta Automática en OpenClaw"
-description: "Aprende cómo OpenClaw serializa los mensajes entrantes usando una cola para prevenir colisiones, gestionar la concurrencia y configurar modos y opciones de cola."
-keywords: ["cola de mensajes", "respuesta automática", "concurrencia", "gestión de sesiones", "modos de cola", "mensajes entrantes", "ejecuciones de agente", "serialización"]
----
+
 
   Mensajes y entrega
 

@@ -1,7 +1,4 @@
-title: "Настройка моделей Amazon Bedrock в шлюзе ИИ OpenClaw"
-description: "Узнайте, как настроить и использовать модели Amazon Bedrock с OpenClaw через учетные данные AWS, автоматическое обнаружение моделей и роли экземпляра EC2."
-keywords: ["amazon bedrock", "openclaw", "учетные данные aws", "обнаружение моделей", "bedrock converse", "роль iam ec2", "claude bedrock", "шлюз ии"]
----
+
 
   Провайдеры
 

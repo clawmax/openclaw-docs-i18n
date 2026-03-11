@@ -1,7 +1,4 @@
-title: "Как удалить OpenClaw AI Gateway и CLI"
-description: "Узнайте, как полностью удалить OpenClaw AI. Следуйте пошаговым инструкциям для простого метода через CLI или ручного удаления службы на macOS, Linux и Windows."
-keywords: ["удаление openclaw", "удалить openclaw", "удаление службы gateway", "удалить openclaw cli", "удалить openclaw", "очистка openclaw", "руководство по удалению", "удаление службы"]
----
+
 
   Обслуживание
 

@@ -1,7 +1,4 @@
-title: "Configuración del Proveedor Kilocode de OpenClaw: Clave API y Modelos"
-description: "Aprende a configurar el proveedor Kilocode en OpenClaw, obtener tu clave API y usar la puerta de enlace unificada Kilo para acceder a múltiples modelos de IA."
-keywords: ["kilocode", "kilo gateway", "proveedores openclaw", "api unificada", "enrutamiento de modelos", "configuración clave api", "claude sonnet", "gpt-5.2"]
----
+
 
   Proveedores
 

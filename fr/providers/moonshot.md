@@ -1,7 +1,4 @@
-title: "Configurer le fournisseur Moonshot AI et Kimi Coding pour OpenClaw"
-description: "Apprenez à configurer le fournisseur Moonshot AI et Kimi Coding dans OpenClaw. Configurez les clés API, les points de terminaison et les références de modèles comme moonshot/kimi-k2.5."
-keywords: ["moonshot ai", "api kimi", "fournisseur openclaw", "kimi coding", "kimi k2.5", "api compatible openai", "configuration api", "configuration modèle"]
----
+
 
   Fournisseurs
 

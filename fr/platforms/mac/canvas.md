@@ -1,7 +1,4 @@
-title: "Documentation et guide d'utilisation de l'application OpenClaw Canvas pour macOS"
-description: "Apprenez à utiliser le panneau Canvas d'OpenClaw sur macOS pour les espaces de travail HTML/CSS/JS et A2UI. Ce guide couvre le stockage des fichiers, l'API agent, les commandes CLI et la sécurité."
-keywords: ["openclaw canvas", "panneau canvas macos", "intégration a2ui", "api agent", "wkwebview", "espace de travail canvas", "documentation openclaw", "commandes cli canvas"]
----
+
 
   Application compagnon macOS
 

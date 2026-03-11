@@ -1,7 +1,4 @@
-title: "Guía de configuración e integración de OpenClaw con Mattermost"
-description: "Aprende a instalar y configurar el plugin de Mattermost para OpenClaw. Configura tokens de bot, comandos de barra, modos de chat, control de acceso y funciones interactivas."
-keywords: ["mattermost", "openclaw", "integración de chatbot", "configuración de plugin", "comandos de barra", "mensajería de equipo", "configuración de bot", "chat autoalojado"]
----
+
 
   Plataformas de mensajería
 

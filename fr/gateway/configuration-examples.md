@@ -1,7 +1,4 @@
-title: "Exemples de configuration et guide d'installation de la passerelle OpenClaw"
-description: "Apprenez à configurer la passerelle IA OpenClaw avec des exemples JSON pratiques, du démarrage rapide aux paramètres avancés pour les canaux, outils et agents."
-keywords: ["configuration openclaw", "installation passerelle", "configuration agent IA", "exemples json", "bot whatsapp", "bot discord", "bot multi-canal", "espace de travail agent"]
----
+
 
   Configuration et opérations
 

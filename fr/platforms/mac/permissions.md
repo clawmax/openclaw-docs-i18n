@@ -1,7 +1,4 @@
-title: "Guide des autorisations macOS pour les octrois stables de l'application OpenClaw"
-description: "Apprenez à maintenir des autorisations macOS stables pour OpenClaw. Corrigez les invites qui disparaissent et réinitialisez TCC pour l'Accessibilité, la Capture d'écran et l'accès aux fichiers."
-keywords: ["autorisations macos", "réinitialisation tcc", "octroi accessibilité", "capture d'écran", "identifiant de bundle", "signature de code", "openclaw mac", "confidentialité sécurité"]
----
+
 
   Application compagnon macOS
 

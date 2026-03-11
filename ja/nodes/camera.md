@@ -1,7 +1,4 @@
-title: "iOS Android macOSノードでのカメラキャプチャ（OpenClaw）"
-description: "OpenClawのカメラノードを使用して写真や動画をキャプチャする方法を学びます。設定の構成、CLIコマンドの使用、エージェントワークフローへのカメラキャプチャの統合について説明します。"
-keywords: ["カメラキャプチャ", "openclawノード", "iosカメラ", "androidカメラ", "macosカメラ", "node.invoke", "cliヘルパー", "メディアキャプチャ"]
----
+
 
   メディアとデバイス
 

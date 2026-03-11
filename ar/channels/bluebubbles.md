@@ -1,7 +1,4 @@
-title: "دليل تكامل BlueBubbles لـ iMessage مع OpenClaw AI"
-description: "تعلم كيفية إعداد وتكوين قناة BlueBubbles لتكامل iMessage مع OpenClaw AI، بما في ذلك الميزات المتقدمة مثل التفاعلات والتحرير وإدارة المجموعات."
-keywords: ["bluebubbles", "تكامل imessage", "openclaw", "مراسلة macos", "إعداد bluebubbles", "أتمتة imessage", "webhook bluebubbles", "بوت imessage"]
----
+
 
   منصات المراسلة
 

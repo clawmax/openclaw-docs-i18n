@@ -1,7 +1,4 @@
-title: "Configuration et paramétrage du fournisseur Vercel AI Gateway pour OpenClaw"
-description: "Apprenez à configurer OpenClaw avec la passerelle IA Vercel. Configurez votre clé API, définissez des modèles par défaut comme Claude Opus et utilisez les raccourcis de modèles pour un accès unifié à l'IA."
-keywords: ["passerelle ia vercel", "configuration openclaw", "claude opus", "clé api passerelle ia", "raccourci modèle", "api messages anthropic", "fournisseurs openclaw", "intégration modèle ia"]
----
+
 
   Fournisseurs
 

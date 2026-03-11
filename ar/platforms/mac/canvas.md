@@ -1,7 +1,4 @@
-title: "دليل توثيق واستخدام تطبيق OpenClaw Canvas لنظام macOS"
-description: "تعلم كيفية استخدام لوحة Canvas في OpenClaw على نظام macOS لمساحات عمل HTML/CSS/JS وA2UI. يغطي الدليل تخزين الملفات، واجهة برمجة تطبيقات الوكيل، أوامر CLI، والأمان."
-keywords: ["openclaw canvas", "لوحة canvas لنظام macos", "تكامل a2ui", "واجهة برمجة تطبيقات الوكيل", "wkwebview", "مساحة عمل canvas", "توثيق openclaw", "أوامر cli للـ canvas"]
----
+
 
   التطبيق المصاحب لنظام macOS
 

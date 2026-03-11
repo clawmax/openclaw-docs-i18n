@@ -1,7 +1,4 @@
-title: "إعداد موفر Qianfan في OpenClaw وتكوين مفتاح API"
-description: "تعلّم كيفية إعداد واستخدام موفر Qianfan في OpenClaw. احصل على مفتاح API الخاص بـ Baidu Qianfan و قم بتكوين واجهة سطر الأوامر للوصول إلى نماذج الذكاء الاصطناعي."
-keywords: ["qianfan", "baidu", "openclaw", "مفتاح api", "maas", "متوافق مع openai", "موفر النماذج", "إعداد واجهة سطر الأوامر"]
----
+
 
   الموفرون
 

@@ -1,7 +1,4 @@
-title: "Protocole d'Intégration et de Configuration pour les Expériences (CLI, macOS et Interface Web)"
-description: "Découvrez le protocole partagé d'intégration et de configuration pour les expériences OpenClaw AI sur CLI, application macOS et interface Web, incluant le flux de l'assistant et les points de terminaison RPC."
-keywords: ["protocole d'intégration", "schéma de configuration", "moteur d'assistant", "passerelle rpc", "indications ui", "expériences openclaw", "gestion de configuration", "schéma json"]
----
+
 
   Expériences
 

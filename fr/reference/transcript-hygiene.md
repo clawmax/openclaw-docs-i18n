@@ -1,7 +1,4 @@
-title: "Référence d'hygiène des transcriptions OpenClaw pour les correctifs spécifiques aux fournisseurs"
-description: "Découvrez les règles d'hygiène des transcriptions spécifiques aux fournisseurs et les correctifs en mémoire appliqués au contexte du modèle dans OpenClaw, y compris l'assainissement des appels d'outils et la gestion des charges utiles d'images."
-keywords: ["hygiène des transcriptions", "correctifs spécifiques aux fournisseurs", "assainissement des appels d'outils", "assainissement des images", "historique des sessions", "référence openclaw", "contexte du modèle", "réparation des transcriptions"]
----
+
 
   Référence technique
 

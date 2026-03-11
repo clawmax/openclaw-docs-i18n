@@ -1,7 +1,4 @@
-title: "Руководство по устранению неполадок каналов OpenClaw для WhatsApp, Discord, iMessage"
-description: "Исправьте подключенные каналы с некорректным поведением. Пошаговые решения для проблем с WhatsApp, Discord, iMessage, BlueBubbles, Matrix и Signal."
-keywords: ["устранение неполадок openclaw", "конфигурация канала", "исправление бота whatsapp", "бот discord не отвечает", "imessage bluebubbles", "шифрование matrix", "демон signal-cli", "статус проверки канала"]
----
+
 
   Конфигурация
 

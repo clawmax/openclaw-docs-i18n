@@ -1,7 +1,4 @@
-title: "Запуск OpenClaw Gateway на Oracle Cloud Always Free ARM Tier"
-description: "Узнайте, как развернуть и запустить постоянный OpenClaw Gateway на Always Free ARM-уровне Oracle Cloud, включая шаги настройки, безопасности и устранения неполадок."
-keywords: ["openclaw oracle", "oracle cloud бесплатный тариф", "шлюз openclaw", "развертывание на arm сервере", "tailscale oracle", "установка openclaw", "oci always free", "безопасность openclaw"]
----
+
 
   Обзор платформ
 

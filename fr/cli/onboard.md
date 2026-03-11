@@ -1,7 +1,4 @@
-title: "Guide de configuration et exemples de l'assistant d'intégration OpenClaw CLI"
-description: "Apprenez à utiliser la commande onboard de l'interface CLI OpenClaw pour configurer une passerelle locale ou distante. Inclut l'assistant interactif, l'automatisation non interactive et la configuration de fournisseur personnalisé."
-keywords: ["openclaw cli", "assistant d'intégration", "configuration de passerelle", "automatisation cli", "intégration non interactive", "fournisseur personnalisé", "référence de secret", "openclaw onboard"]
----
+
 
   Commandes CLI
 

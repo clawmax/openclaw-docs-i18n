@@ -1,7 +1,4 @@
-title: "OpenClaw CLI Commande Configure Configuration Identifiants Appareils Agents"
-description: "Apprenez à utiliser la commande CLI configure d'OpenClaw pour configurer les identifiants, les appareils, les paramètres par défaut des agents et les listes autorisées de modèles via un assistant interactif."
-keywords: ["openclaw configure", "configuration cli", "paramètres par défaut des agents", "configuration des identifiants", "liste autorisée de modèles", "mode passerelle", "assistant cli", "config set"]
----
+
 
   Commandes CLI
 

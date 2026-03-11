@@ -1,7 +1,4 @@
-title: "Guía de Pruebas de OpenClaw: Suites de Pruebas Unitarias, E2E y en Vivo"
-description: "Aprende cómo probar OpenClaw con suites de pruebas unitarias, de integración, E2E y en vivo. Ejecuta comandos para depuración, cobertura y validación de proveedores/modelos reales."
-keywords: ["pruebas openclaw", "suites vitest", "pruebas e2e", "pruebas en vivo", "prueba de humo del gateway", "pruebas de nodo android", "integración de modelos", "cobertura de pruebas"]
----
+
 
   Entorno y depuración
 

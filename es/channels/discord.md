@@ -1,7 +1,4 @@
-title: "Cómo Configurar y Conectar Discord para el Agente de IA OpenClaw"
-description: "Aprende a conectar tu agente de IA OpenClaw a Discord. Guía paso a paso para la creación del bot, configuración del token, vinculación del servidor y configuración de canales del gremio."
-keywords: ["configuración de bot de discord", "openclaw discord", "agente de ia discord", "puerta de enlace de discord", "configuración de token de bot", "canales de gremio de discord", "vinculación de discord", "canales de foro de discord"]
----
+
 
   Plataformas de mensajería
 

@@ -1,7 +1,4 @@
-title: "OpenClaw Gateway Chat Completions 向け OpenAI HTTP API"
-description: "OpenClaw Gateway で OpenAI 互換の Chat Completions HTTP API エンドポイントを有効化し使用する方法について学びます。認証、セキュリティ、例を含みます。"
-keywords: ["openai api", "チャット補完", "openclaw gateway", "http api", "ai エージェント", "openai 互換性", "api 統合", "ベアラー認証"]
----
+
 
   プロトコルと API
 

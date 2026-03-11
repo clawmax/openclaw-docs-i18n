@@ -1,7 +1,4 @@
-title: "OpenClaw Syntheticプロバイダーのセットアップとモデル設定"
-description: "OpenClawでSyntheticプロバイダーをセットアップおよび設定する方法を学びます。このガイドでは、APIキーの設定、モデル設定、および利用可能なモデルの完全なカタログについて説明します。"
-keywords: ["syntheticプロバイダー", "openclaw設定", "anthropic互換api", "モデルカタログ", "synthetic apiキー", "openclawプロバイダー", "モデルセットアップ", "syntheticモデル"]
----
+
 
   プロバイダー
 

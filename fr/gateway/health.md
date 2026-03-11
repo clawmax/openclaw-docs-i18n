@@ -1,7 +1,4 @@
-title: "Guide de vérification de l'état et de diagnostic de la passerelle OpenClaw"
-description: "Apprenez à vérifier la connectivité des canaux et à diagnostiquer les problèmes avec la passerelle OpenClaw. Utilisez les commandes rapides de statut, les diagnostics approfondis et la commande de santé dédiée."
-keywords: ["santé openclaw", "diagnostic passerelle", "connectivité canal", "vérification statut", "dépannage whatsapp", "stockage session", "flux de reliaison", "commande santé"]
----
+
 
   Configuration et opérations
 

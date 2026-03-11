@@ -1,7 +1,4 @@
-title: "OpenClaw CLI update コマンドガイドと使用方法"
-description: "CLI update コマンドを使用して、OpenClaw を安全に更新し、安定版、ベータ版、開発版チャンネルを切り替える方法を学びます。オプションと例を紹介します。"
-keywords: ["openclaw update", "cli update コマンド", "更新チャンネル", "安定版 ベータ版 開発版", "openClaw アップグレード", "ゲートウェイサービス", "cli リファレンス", "npm pnpm"]
----
+
 
   CLI コマンド
 

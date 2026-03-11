@@ -1,7 +1,4 @@
-title: "Настройка провайдера Mistral AI для моделей и аудио в OpenClaw"
-description: "Узнайте, как настроить Mistral AI и Voxtral в OpenClaw для генерации текста, транскрипции аудио и эмбеддингов памяти. Включает примеры CLI и конфигурации."
-keywords: ["mistral ai", "openclaw", "voxtral", "транскрипция аудио", "провайдер llm", "эмбеддинги памяти", "настройка api", "mistral api key"]
----
+
 
   Провайдеры
 

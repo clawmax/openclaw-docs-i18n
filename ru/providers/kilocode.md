@@ -1,7 +1,4 @@
-title: "Настройка провайдера Kilocode в OpenClaw: API-ключ и модели"
-description: "Узнайте, как настроить провайдер Kilocode в OpenClaw, получить API-ключ и использовать унифицированный Kilo Gateway для доступа к нескольким AI-моделям."
-keywords: ["kilocode", "kilo gateway", "провайдеры openclaw", "унифицированный api", "маршрутизация моделей", "настройка api-ключа", "claude sonnet", "gpt-5.2"]
----
+
 
   Провайдеры
 

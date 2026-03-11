@@ -1,7 +1,4 @@
-title: "Répertoire de scripts OpenClaw pour les workflows locaux et les opérations"
-description: "Découvrez les scripts d'aide pour le développement local et les tâches opérationnelles. Trouvez les conventions, les directives d'utilisation et les liens vers les scripts de surveillance d'authentification."
-keywords: ["scripts openclaw", "workflows locaux", "tâches opérationnelles", "surveillance d'authentification", "scripts d'aide", "scripts de débogage", "alternative cli", "automatisation du développement"]
----
+
 
   Environnement et débogage
 

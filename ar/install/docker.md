@@ -1,7 +1,4 @@
-title: "دليل تثبيت OpenClaw باستخدام Docker للبوابة المعتمدة على الحاويات"
-description: "تعلم كيفية تثبيت OpenClaw باستخدام Docker. قم بإعداد بوابة معتمدة على الحاويات، وتمكين تجزئة الوكيل (sandboxing)، وتكوين Docker Compose للبيئات المعزولة."
-keywords: ["openclaw docker", "بوابة معتمدة على الحاويات", "docker compose", "تجربة الوكيل (sandbox)", "تثبيت docker", "إعداد openclaw", "تجزئة docker", "بوابة openclaw"]
----
+
 
   طرق تثبيت أخرى
 

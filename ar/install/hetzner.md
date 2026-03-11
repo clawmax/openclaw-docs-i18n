@@ -1,7 +1,4 @@
-title: "نشر بوابة OpenClaw على خادم VPS من Hetzner باستخدام Docker"
-description: "دليل خطوة بخطوة لتشغيل بوابة OpenClaw دائمة على خادم VPS من Hetzner باستخدام Docker. تعلم كيفية تكوين الحالة، ودمج الملفات الثنائية، والوصول عبر نفق SSH."
-keywords: ["خادم vps من hetzner", "بوابة openclaw", "نشر docker", "حالة دائمة", "نفق ssh", "docker compose", "استمرارية الملفات الثنائية", "openclaw ذاتي الاستضافة"]
----
+
 
   الاستضافة والنشر
 

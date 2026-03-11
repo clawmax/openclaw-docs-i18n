@@ -1,7 +1,4 @@
-title: "Настройка веб-поиска Perplexity Sonar в OpenClaw"
-description: "Узнайте, как настроить и использовать Perplexity Sonar для веб-поиска в OpenClaw через прямой API или OpenRouter, включая примеры конфигурации и варианты моделей."
-keywords: ["perplexity sonar", "веб-поиск openclaw", "perplexity api", "openrouter", "инструмент веб-поиска", "sonar-pro", "настройка api", "поисковый провайдер"]
----
+
 
   Встроенные инструменты
 

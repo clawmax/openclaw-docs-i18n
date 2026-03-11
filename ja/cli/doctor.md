@@ -1,7 +1,4 @@
-title: "OpenClaw Doctor CLI コマンドによるヘルスチェックとクイックフィックス"
-description: "openclaw doctor コマンドを使用して、ゲートウェイとチャネルのヘルスチェックを実行し、問題を修復、トラブルシューティングする方法を学びます。例と macOS のヒントを含みます。"
-keywords: ["openclaw doctor", "CLI ヘルスチェック", "ゲートウェイ トラブルシューティング", "CLI 修復", "openclaw トラブルシューティング", "macOS launchctl", "CLI コマンド", "システム診断"]
----
+
 
   CLI コマンド
 

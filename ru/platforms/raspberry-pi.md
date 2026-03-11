@@ -1,7 +1,4 @@
-title: "Руководство по настройке OpenClaw Gateway на Raspberry Pi"
-description: "Узнайте, как установить и запустить постоянного AI-ассистента OpenClaw на Raspberry Pi. Пошаговое руководство по настройке оборудования, ОС и оптимизации производительности."
-keywords: ["raspberry pi openclaw", "шлюз openclaw", "ai-ассистент на raspberry pi", "headless сервер на raspberry pi", "установка openclaw", "недорогой ai шлюз", "умный дом на raspberry pi", "arm64 nodejs"]
----
+
 
   Обзор платформ
 

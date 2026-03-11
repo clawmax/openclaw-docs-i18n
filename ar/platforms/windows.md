@@ -1,7 +1,4 @@
-title: "دليل تثبيت وإعداد OpenClaw على Windows عبر WSL2"
-description: "تعلم كيفية تثبيت وتشغيل OpenClaw على Windows باستخدام WSL2. دليل خطوة بخطوة للإعداد، خدمة البوابة، التشغيل التلقائي، والوصول عبر الشبكة المحلية."
-keywords: ["openclaw windows", "إعداد wsl2", "تثبيت openclaw", "بوابة windows", "توجيه منافذ wsl2", "openclaw wsl2", "أتمتة windows", "نظام systemd لـ wsl2"]
----
+
 
   نظرة عامة على المنصات
 

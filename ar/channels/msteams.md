@@ -1,8 +1,4 @@
-title: "دليل إعداد تكامل Microsoft Teams لـ OpenClaw AI"
-description: "تعلم كيفية تثبيت وتكوين إضافة Microsoft Teams لـ OpenClaw AI. قم بإعداد Azure Bot، وإدارة التحكم في الوصول، وتمكين المراسلة في الرسائل المباشرة والمجموعات والقنوات."
-keywords: ["تكامل microsoft teams", "إضافة openclaw msteams", "إعداد azure bot", "تكوين روبوت الدردشة teams", "قنوات openclaw", "webhook teams", "بوابة مطوري teams", "نفق التطوير المحلي"]
-updated: "2026-01-21"
----
+
 
   منصات المراسلة
 

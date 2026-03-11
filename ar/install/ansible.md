@@ -1,7 +1,4 @@
-title: "دليل نشر OpenClaw باستخدام مثبت Ansible الآلي"
-description: "تعلم كيفية تثبيت OpenClaw بشكل آمن باستخدام المثبت الآلي openclaw-ansible. احصل على إعداد جاهز للإنتاج مع جدار حماية، وشبكة VPN خاصة، وعزل Docker في دقائق."
-keywords: ["openclaw ansible", "مثبت ansible", "نشر openclaw", "tailscale vpn", "عزل docker", "إعداد خادم للإنتاج", "تثبيت بأولوية الأمان", "نشر آلي"]
----
+
 
   طرق تثبيت أخرى
 

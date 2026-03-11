@@ -1,7 +1,4 @@
-title: "Guide de référence et de configuration de la passerelle OpenClaw"
-description: "Référence complète de tous les champs de configuration de la passerelle OpenClaw. Apprenez à configurer les canaux, les politiques de MP, les remplacements de modèles, et à configurer WhatsApp, Telegram et Discord."
-keywords: ["configuration openclaw", "configuration de la passerelle", "configuration des canaux", "politique de mp", "remplacements de modèles", "bot whatsapp", "bot telegram", "bot discord"]
----
+
 
   Configuration et opérations
 

@@ -1,7 +1,4 @@
-title: "HTTP API OpenResponses для настройки и использования OpenClaw Gateway"
-description: "Узнайте, как включить и использовать совместимую с OpenResponses конечную точку POST /v1/responses в OpenClaw Gateway. Настройте аутентификацию, безопасность, агентов, инструменты и работу с файлами."
-keywords: ["api openresponses", "openclaw gateway", "http api", "интеграция агентов", "аутентификация api", "клиентские инструменты", "загрузка файлов", "стриминг sse"]
----
+
 
   Протоколы и API
 

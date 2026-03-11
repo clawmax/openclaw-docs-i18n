@@ -1,7 +1,4 @@
-title: "Commandes de répertoire de l'interface CLI OpenClaw pour les recherches de canaux"
-description: "Apprenez à utiliser la commande de répertoire de l'interface CLI OpenClaw pour trouver les identifiants d'utilisateurs, de groupes et de contacts sur WhatsApp, Slack, Discord et d'autres canaux pour la messagerie."
-keywords: ["répertoire openclaw", "recherche dans le répertoire cli", "contacts des canaux", "trouver l'identifiant utilisateur", "cible de message", "liste des pairs", "liste des groupes", "commandes cli"]
----
+
 
   Commandes CLI
 

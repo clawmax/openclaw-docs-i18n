@@ -33,12 +33,12 @@ requireMention? 是 -> 被提及？否 -> 仅保存为上下文
 
 ![群组消息流程](../images/channels-groups-flow.svg.md) 想实现某种效果？
 
-|| 目标 | 如何配置 |
-|| --- | --- |
-|| 允许所有群组，但只在被 @提及 时回复 | `groups: { "*": { requireMention: true } }` |
-|| 完全禁用群组回复 | `groupPolicy: "disabled"` |
-|| 只允许特定群组 | `groups: { "<group-id>": { ... } }`（不设置 `"*"` 键） |
-|| 只有你能触发群组回复 | `groupPolicy: "allowlist"`，`groupAllowFrom: ["+1555..."]` |
+| 目标 | 如何配置 |
+| --- | --- |
+| 允许所有群组，但只在被 @提及 时回复 | `groups: { "*": { requireMention: true } }` |
+| 完全禁用群组回复 | `groupPolicy: "disabled"` |
+| 只允许特定群组 | `groups: { "<group-id>": { ... } }`（不设置 `"*"` 键） |
+| 只有你能触发群组回复 | `groupPolicy: "allowlist"`，`groupAllowFrom: ["+1555..."]` |
 
 ## 会话密钥
 
@@ -163,11 +163,11 @@ requireMention? 是 -> 被提及？否 -> 仅保存为上下文
 }
 ```
 
-|| 策略值 | 行为说明 |
-|| --- | --- |
-|| `"open"` | 群组绕过白名单检查；提及门控仍然生效 |
-|| `"disabled"` | 完全阻断所有群组消息 |
-|| `"allowlist"` | 只允许匹配白名单的群组/房间 |
+| 策略值 | 行为说明 |
+| --- | --- |
+| `"open"` | 群组绕过白名单检查；提及门控仍然生效 |
+| `"disabled"` | 完全阻断所有群组消息 |
+| `"allowlist"` | 只允许匹配白名单的群组/房间 |
 
 注意事项：
 

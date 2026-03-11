@@ -1,7 +1,4 @@
-title: "Commandes de nœuds CLI OpenClaw Gérer les appareils appairés"
-description: "Apprenez à lister, approuver et invoquer des commandes sur les nœuds (appareils) appairés en utilisant la CLI OpenClaw. Gérez le statut des nœuds et exécutez des commandes shell."
-keywords: ["openclaw cli", "nœuds", "gestion d'appareils", "commandes cli", "invoquer un nœud", "statut du nœud", "appareils appairés", "exécution système"]
----
+
 
   Commandes CLI
 

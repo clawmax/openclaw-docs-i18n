@@ -1,7 +1,4 @@
-title: "Plan de Gateway OpenResponses para Experimentos OpenClaw"
-description: "Conoce el plan para implementar el endpoint de API OpenResponses en OpenClaw Gateway, incluyendo arquitectura, validación y ruta de desuso para Chat Completions."
-keywords: ["openresponses", "gateway", "endpoint api", "compatibilidad openai", "streaming", "experimentos", "flujos de trabajo agenticos", "estándar de inferencia"]
----
+
 
   Experimentos
 

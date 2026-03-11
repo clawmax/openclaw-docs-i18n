@@ -1,7 +1,4 @@
-title: "Guía de Plugins de Habilidades de OpenClaw Instalación Configuración y SDK"
-description: "Aprende a instalar, configurar y desarrollar plugins para OpenClaw. Extiende la funcionalidad con plugins oficiales, rutas HTTP y ayudantes de tiempo de ejecución."
-keywords: ["plugins de openclaw", "plugins de habilidades", "instalación de plugins", "sdk de plugins", "gateway rpc", "herramientas de agente", "manifiesto de plugin", "ayudantes de tiempo de ejecución"]
----
+
 
   Habilidades
 

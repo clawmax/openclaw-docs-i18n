@@ -1,7 +1,4 @@
-title: "Настройка провайдера Together AI и руководство по моделям в OpenClaw"
-description: "Узнайте, как настроить провайдер Together AI в OpenClaw, установить API-ключ и получить доступ к моделям, таким как Llama, DeepSeek и Kimi."
-keywords: ["together ai", "провайдер openclaw", "модель llama", "deepseek", "kimi ai", "openai совместимый api", "настройка модели", "настройка api ключа"]
----
+
 
   Провайдеры
 

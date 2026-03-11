@@ -1,7 +1,4 @@
-title: "Guide de configuration et d'utilisation du canal WhatsApp OpenClaw"
-description: "Apprenez à configurer et paramétrer le canal WhatsApp dans OpenClaw. Inclut la configuration étape par étape, les politiques de contrôle d'accès, la gestion multi-comptes et les détails du comportement d'exécution."
-keywords: ["whatsapp openclaw", "configuration whatsapp openclaw", "configuration canal whatsapp", "baileys whatsapp web", "appairage politique dm", "multi-compte whatsapp", "plateforme de messagerie whatsapp", "canaux openclaw"]
----
+
 
   Plateformes de messagerie
 

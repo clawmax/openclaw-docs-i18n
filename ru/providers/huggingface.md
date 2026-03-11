@@ -1,7 +1,4 @@
-title: "Руководство по настройке и конфигурации провайдера Hugging Face в OpenClaw"
-description: "Узнайте, как настроить и сконфигурировать провайдера Hugging Face Inference в OpenClaw. Подключите свой API-ключ, выберите модели, такие как DeepSeek и Llama, и настройте политики маршрутизации."
-keywords: ["hugging face inference", "провайдер openclaw", "deepseek", "llama", "openai-совместимый api", "конфигурация модели", "router api", "чат-завершения"]
----
+
 
   Провайдеры
 

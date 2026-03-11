@@ -1,7 +1,4 @@
-title: "Настройка провайдера OpenClaw Anthropic: API-ключ и токен Claude"
-description: "Узнайте, как аутентифицировать OpenClaw в Anthropic с помощью API-ключа или setup-token от Claude. Настройте кэширование промптов, 1M контекстное окно и устраните распространённые проблемы."
-keywords: ["anthropic", "claude api", "настройка openclaw", "кэширование промптов", "setup-token", "1m контекстное окно", "claude 4.6", "bedrock claude"]
----
+
 
   Провайдеры
 

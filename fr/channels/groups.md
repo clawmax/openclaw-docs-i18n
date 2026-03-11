@@ -1,7 +1,4 @@
-title: "Groupes de configuration OpenClaw pour WhatsApp Telegram Discord Slack"
-description: "Apprenez à configurer l'accès aux groupes de discussion OpenClaw, le contrôle par mention et les politiques de session sur WhatsApp, Telegram, Discord, Slack et d'autres plateformes de messagerie."
-keywords: ["groupes openclaw", "configuration de politique de groupe", "contrôle par mention", "groupes multi-canaux", "clés de session", "liste autorisée de groupes", "groupes sandbox", "intégration de plateforme de messagerie"]
----
+
 
   Configuration
 

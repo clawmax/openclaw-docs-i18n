@@ -1,7 +1,4 @@
-title: "Configuración y configuración del bot de Telegram para OpenClaw AI"
-description: "Aprende a configurar y configurar un bot de Telegram para OpenClaw AI. Incluye configuración de token, políticas de grupo, comportamiento en tiempo de ejecución y funciones avanzadas como transmisión y comandos."
-keywords: ["bot de telegram", "openclaw", "configuración de bot", "grammy", "plataforma de mensajería", "configuración de canal", "política de grupo", "token de bot"]
----
+
 
   Plataformas de mensajería
 

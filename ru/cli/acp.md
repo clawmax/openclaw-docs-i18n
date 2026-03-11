@@ -1,7 +1,4 @@
-title: "Мост OpenClaw ACP CLI для интеграции по протоколу Agent Client Protocol"
-description: "Узнайте, как использовать мост OpenClaw ACP CLI для подключения IDE через протокол Agent Client Protocol к шлюзу. Настройте сессии, отладку с клиентом и настройку редактора Zed."
-keywords: ["openclaw acp", "протокол agent client protocol", "cli мост", "websocket шлюза", "настройка zed editor", "управление сессиями", "отладка acp клиента", "интеграция ide"]
----
+
 
   Команды CLI
 

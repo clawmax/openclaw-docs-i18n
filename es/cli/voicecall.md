@@ -1,7 +1,4 @@
-title: "Uso y Ejemplos del Comando voicecall de OpenClaw CLI"
-description: "Aprende a usar los comandos CLI de voicecall de OpenClaw para realizar, gestionar y finalizar llamadas de voz con IA, y exponer webhooks de forma segura mediante Tailscale."
-keywords: ["openclaw voicecall", "comandos de voz cli", "llamada de voz con ia", "webhooks tailscale", "plugin voicecall", "comandos cli", "automatización de llamadas de voz", "exposición de webhooks"]
----
+
 
   Comandos CLI
 

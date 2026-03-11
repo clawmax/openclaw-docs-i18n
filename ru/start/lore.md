@@ -1,7 +1,4 @@
-title: "OpenClaw Lore: История происхождения Moltbot, Clawd, Molty"
-description: "Узнайте историю происхождения OpenClaw, от Clawd до Moltbot. Читайте о Великой Линьке, ключевых персонажах, таких как Molty и Peter, и пути сообщества."
-keywords: ["lore openclaw", "molty", "clawd", "moltbot", "происхождение openclaw", "лобстер ai", "история сообщества ai", "великая линька"]
----
+
 
   Сообщество
 

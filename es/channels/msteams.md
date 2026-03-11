@@ -1,8 +1,4 @@
-title: "Guía de configuración de integración de Microsoft Teams para OpenClaw AI"
-description: "Aprende a instalar y configurar el complemento de Microsoft Teams para OpenClaw AI. Configura Azure Bot, gestiona el control de acceso y habilita mensajería en MD, grupos y canales."
-keywords: ["integración de microsoft teams", "complemento openclaw msteams", "configuración de azure bot", "configuración de chatbot de teams", "canales de openclaw", "webhook de teams", "portal de desarrollador de teams", "tunelización para desarrollo local"]
-updated: "2026-01-21"
----
+
 
   Plataformas de mensajería
 

@@ -1,7 +1,4 @@
-title: "Использование команды dashboard в OpenClaw CLI и доступные опции"
-description: "Узнайте, как открыть панель управления OpenClaw Control UI через CLI, управлять безопасностью токенов и использовать флаг --no-open. Включает заметки по работе с SecretRef."
-keywords: ["openclaw dashboard", "cli команда dashboard", "control ui", "gateway auth token", "secretref", "безопасность cli", "openclaw cli"]
----
+
 
   Команды CLI
 

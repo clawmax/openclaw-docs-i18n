@@ -1,7 +1,4 @@
-title: "دليل إعداد موفر Together AI والنماذج في OpenClaw"
-description: "تعلّم كيفية تكوين موفر Together AI في OpenClaw، وتعيين مفتاح API الخاص بك، والوصول إلى نماذج مثل Llama وDeepSeek وKimi."
-keywords: ["together ai", "موفر openclaw", "نموذج llama", "deepseek", "kimi ai", "واجهة برمجة تطبيقات متوافقة مع openai", "تكوين النموذج", "إعداد مفتاح api"]
----
+
 
   الموفرون
 

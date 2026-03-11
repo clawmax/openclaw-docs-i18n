@@ -1,7 +1,4 @@
-title: "Configurer les modèles Amazon Bedrock dans la passerelle OpenClaw AI"
-description: "Apprenez à configurer et utiliser les modèles Amazon Bedrock avec OpenClaw via les identifiants AWS, la découverte automatique de modèles et les rôles d'instance EC2."
-keywords: ["amazon bedrock", "openclaw", "identifiants aws", "découverte de modèles", "bedrock converse", "rôle iam ec2", "claude bedrock", "passerelle ia"]
----
+
 
   Fournisseurs
 

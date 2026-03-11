@@ -142,13 +142,13 @@ Slack 文件附件从 Slack 托管的私有 URL（令牌认证请求流）下载
 
 Slack 操作由 `channels.slack.actions.*` 控制。当前 Slack 工具中可用的操作组：
 
-|| 组 | 默认 |
-|| --- | --- |
-|| messages | 启用 |
-|| reactions | 启用 |
-|| pins | 启用 |
-|| memberInfo | 启用 |
-|| emojiList | 启用 |
+| 组 | 默认 |
+| --- | --- |
+| messages | 启用 |
+| reactions | 启用 |
+| pins | 启用 |
+| memberInfo | 启用 |
+| emojiList | 启用 |
 
 ## 事件与操作行为
 

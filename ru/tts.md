@@ -1,7 +1,4 @@
-title: "Конфигурация OpenClaw Text-to-Speech (TTS) для ElevenLabs, OpenAI и Edge"
-description: "Узнайте, как настроить OpenClaw TTS с ElevenLabs, OpenAI или Edge TTS. Настройте аудиоответы, резервные провайдеры, переопределения моделей и пользовательские предпочтения."
-keywords: ["openclaw tts", "конфигурация text-to-speech", "elevenlabs api", "openai tts", "edge tts", "аудиоответы", "провайдер tts", "синтез речи"]
----
+
 
   Медиа и устройства
 

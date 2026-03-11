@@ -1,7 +1,4 @@
-title: "Guide de signature d'application macOS pour les permissions stables d'OpenClaw"
-description: "Apprenez à signer l'application macOS OpenClaw pour des permissions TCC stables. Configurez les identités de signature, gérez les builds ad-hoc et les identifiants de bundle."
-keywords: ["signature macos", "codesign", "permissions tcc", "identifiant de bundle", "developer id", "signature ad-hoc", "runtime renforcé", "application macos"]
----
+
 
   Application compagnon macOS
 

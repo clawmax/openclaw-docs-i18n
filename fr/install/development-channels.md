@@ -1,7 +1,4 @@
-title: "Guide d'installation des canaux de développement OpenClaw Stable Beta Dev"
-description: "Apprenez à basculer entre les canaux de mise à jour stable, beta et dev d'OpenClaw en utilisant les dist-tags npm ou git. Gérez les sources des plugins et comprenez les bonnes pratiques de tagging."
-keywords: ["openclaw", "canaux de développement", "canaux de mise à jour", "dist-tag npm", "installation beta", "git checkout", "canal stable", "canal dev"]
----
+
 
   Avancé
 

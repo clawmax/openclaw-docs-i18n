@@ -1,7 +1,4 @@
-title: "OpenClaw AI Gateway統合のためのWebChatガイド"
-description: "OpenClaw AI Gateway用のネイティブWebChat UIのセットアップと使用方法を学びます。WebSocket接続の設定、チャット履歴の管理、リモートアクセスの理解について説明します。"
-keywords: ["ウェブチャット", "openclawゲートウェイ", "websocketチャット", "チャットui", "ゲートウェイ設定", "チャット履歴", "コントロールui", "リモートアクセス"]
----
+
 
   ウェブインターフェース
 

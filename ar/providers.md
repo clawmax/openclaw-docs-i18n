@@ -1,7 +1,4 @@
-title: "دليل توثيق وإعداد موفري نماذج OpenClaw AI"
-description: "تعلم كيفية المصادقة وتكوين موفري LLM مثل Anthropic و OpenAI و Ollama في OpenClaw. قم بتعيين نموذجك الافتراضي واستكشف كتالوج المزودين الكامل."
-keywords: ["openclaw", "موفرو النماذج", "تكوين llm", "anthropic claude", "openai api", "ollama", "litellm", "bedrock"]
----
+
 
   نظرة عامة
 

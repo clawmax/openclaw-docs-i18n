@@ -1,7 +1,4 @@
-title: "Guide d'installation Docker d'OpenClaw pour une passerelle conteneurisée"
-description: "Apprenez à installer OpenClaw avec Docker. Configurez une passerelle conteneurisée, activez le bac à sable des agents et configurez Docker Compose pour des environnements isolés."
-keywords: ["openclaw docker", "passerelle conteneurisée", "docker compose", "bac à sable agent", "installation docker", "configuration openclaw", "sandboxing docker", "passerelle openclaw"]
----
+
 
   Autres méthodes d'installation
 

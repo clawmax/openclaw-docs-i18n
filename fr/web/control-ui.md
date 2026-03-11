@@ -1,7 +1,4 @@
-title: "Guide de l'interface utilisateur de contrôle OpenClaw pour l'interface web et le tableau de bord"
-description: "Apprenez à utiliser le tableau de bord web de l'interface utilisateur de contrôle OpenClaw pour gérer les agents IA, configurer les canaux, gérer les tâches cron et vous connecter via Tailscale ou localhost."
-keywords: ["interface utilisateur de contrôle openclaw", "tableau de bord web", "websocket de la passerelle", "intégration tailscale", "appairage d'appareil", "gestion d'agent IA", "tâches cron", "interface de chat"]
----
+
 
   Interfaces web
 

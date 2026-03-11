@@ -1,7 +1,4 @@
-title: "Configuration du traitement audio et des notes vocales pour OpenClaw AI"
-description: "Apprenez à configurer OpenClaw AI pour transcrire l'audio et les notes vocales en utilisant des fournisseurs comme OpenAI, Deepgram ou des CLI locaux. Configurez la détection automatique, les solutions de repli et la détection des mentions pour les groupes."
-keywords: ["transcription audio", "notes vocales", "configuration openclaw", "whisper cli", "deepgram", "audio openai", "détection de mentions", "traitement des médias"]
----
+
 
   Médias et appareils
 

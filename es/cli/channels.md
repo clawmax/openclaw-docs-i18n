@@ -1,7 +1,4 @@
-title: "Guía de Comandos de Canales de OpenClaw CLI para Gestionar Cuentas de Chat"
-description: "Aprende a gestionar cuentas de canales de chat, añadir o eliminar cuentas, resolver nombres a IDs y solucionar problemas de estado en tiempo de ejecución usando comandos de OpenClaw CLI."
-keywords: ["openclaw cli", "comandos de canales", "cuentas de chat", "estado del gateway", "añadir cuenta de canal", "solución de problemas de canales", "resolver ids de canal", "capacidades del canal"]
----
+
 
   Comandos CLI
 

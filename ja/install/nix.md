@@ -1,7 +1,4 @@
-title: "macOSでNixを使用したOpenClawクイックスタートガイド"
-description: "Nixとnix-openclawを使用してOpenClawをインストールし実行する方法を学びます。launchdサービス、プラグイン、決定論的設定を含む完全なセットアップを入手できます。"
-keywords: ["openclaw nix", "nix-openclaw", "macos インストール", "home manager モジュール", "決定論的設定", "launchd サービス", "telegram bot セットアップ", "nix モード"]
----
+
 
   その他のインストール方法
 

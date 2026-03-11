@@ -1,7 +1,4 @@
-title: "Configuration et paramétrage du fournisseur OpenRouter pour OpenClaw AI"
-description: "Apprenez à configurer et paramétrer le fournisseur OpenRouter dans OpenClaw AI. Utilisez une API unifiée pour accéder à de multiples modèles d'IA avec une seule clé API et un point de terminaison compatible OpenAI."
-keywords: ["openrouter", "openclaw ai", "fournisseur api", "api unifiée", "routage de modèles", "compatible openai", "claude sonnet", "configuration ia"]
----
+
 
   Fournisseurs
 

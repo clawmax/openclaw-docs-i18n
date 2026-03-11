@@ -1,7 +1,4 @@
-title: "OpenClaw 网关配置参考与设置指南"
-description: "OpenClaw 网关所有配置字段的完整参考。学习如何设置频道、私信策略、模型覆盖，以及配置 WhatsApp、Telegram 和 Discord。"
-keywords: ["openclaw 配置", "网关设置", "频道配置", "私信策略", "模型覆盖", "whatsapp 机器人", "telegram 机器人", "discord 机器人"]
----
+
 
   配置与操作
 

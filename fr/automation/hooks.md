@@ -1,7 +1,4 @@
-title: "Guide des Hooks d'Automatisation OpenClaw pour les Actions Pilotées par Événements"
-description: "Apprenez à utiliser les hooks d'automatisation OpenClaw pour déclencher des actions personnalisées sur les commandes et événements de l'agent. Activez, gérez et créez des hooks pour la mémoire de session, la journalisation et les flux de travail."
-keywords: ["hooks openclaw", "hooks d'automatisation", "automatisation pilotée par événements", "événements du cycle de vie de l'agent", "gestionnaire de hook", "mémoire de session", "journal des commandes", "intégration webhook"]
----
+
 
   Automatisation
 

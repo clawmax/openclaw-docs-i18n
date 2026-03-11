@@ -1,7 +1,4 @@
-title: "Guide de démarrage rapide et commandes de l'interface web TUI OpenClaw"
-description: "Apprenez à utiliser l'interface web TUI d'OpenClaw. Guide de démarrage rapide, commandes slash, raccourcis clavier et dépannage pour l'interface utilisateur terminal."
-keywords: ["openclaw tui", "interface utilisateur terminal", "interface web", "client de passerelle", "commandes slash", "raccourcis clavier", "gestion de session", "dépannage"]
----
+
 
   Interfaces web
 

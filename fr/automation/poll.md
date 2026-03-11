@@ -1,7 +1,4 @@
-title: "Sondages automatisés pour Telegram, WhatsApp, Discord et MS Teams"
-description: "Apprenez à créer des sondages via CLI, RPC et les outils Agent sur Telegram, WhatsApp, Discord et MS Teams. Inclut des options et exemples spécifiques aux canaux."
-keywords: ["sondages automatisés", "sondage telegram", "sondage whatsapp", "sondage discord", "sondage msteams", "openclaw cli", "api de sondage", "sondages multi-canaux"]
----
+
 
   Automatisation
 

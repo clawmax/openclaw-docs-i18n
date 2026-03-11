@@ -1,7 +1,4 @@
-title: "Configuration de la passerelle OpenClaw sur macOS et gestion du service launchd"
-description: "Apprenez à installer l'interface CLI openclaw et à configurer la passerelle en tant que service launchd macOS pour l'application compagnon OpenClaw. Inclut les vérifications de version et le dépannage."
-keywords: ["macos openclaw", "configuration passerelle", "service launchd", "openclaw cli", "application compagnon macos", "passerelle locale", "node gateway", "gestion de service"]
----
+
 
   Application compagnon macOS
 

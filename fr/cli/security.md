@@ -1,7 +1,4 @@
-title: "Guide des commandes d'audit de sécurité et de correction de l'interface CLI OpenClaw"
-description: "Apprenez à utiliser l'outil d'audit de sécurité de l'interface CLI OpenClaw pour identifier les vulnérabilités et appliquer des corrections automatiques pour une configuration sécurisée."
-keywords: ["sécurité openclaw", "audit de sécurité cli", "outil d'audit de sécurité", "correctifs de sécurité", "durcissement de configuration", "vulnérabilités de sécurité", "paramètres sandbox", "sécurité de la passerelle"]
----
+
 
   Commandes CLI
 

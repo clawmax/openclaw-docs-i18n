@@ -1,7 +1,4 @@
-title: "OpenClaw AI エージェントのための Discord のセットアップと設定方法"
-description: "OpenClaw AI エージェントを Discord に接続する方法を学びましょう。ボット作成、トークン設定、サーバーとのペアリング、ギルドチャンネルの設定に関するステップバイステップガイドです。"
-keywords: ["discord ボット セットアップ", "openclaw discord", "ai エージェント discord", "discord ゲートウェイ", "ボット トークン 設定", "discord ギルド チャンネル", "discord ペアリング", "discord フォーラム チャンネル"]
----
+
 
   メッセージングプラットフォーム
 

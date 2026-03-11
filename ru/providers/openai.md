@@ -1,7 +1,4 @@
-title: "Настройка провайдера OpenAI для API-ключа OpenClaw и Codex"
-description: "Узнайте, как настроить API-ключи OpenAI или OAuth Codex в OpenClaw. Настройте модели GPT, управляйте транспортом и включите серверную компрессию."
-keywords: ["openai", "openclaw", "api ключ", "codex", "gpt-5.4", "oauth", "websocket", "responses api"]
----
+
 
   Провайдеры
 

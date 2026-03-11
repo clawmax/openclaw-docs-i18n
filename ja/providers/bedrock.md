@@ -1,7 +1,4 @@
-title: "OpenClaw AIゲートウェイでAmazon Bedrockモデルを設定する"
-description: "AWS認証情報、自動モデル検出、EC2インスタンスロールを使用して、OpenClawでAmazon Bedrockモデルをセットアップおよび使用する方法を学びます。"
-keywords: ["amazon bedrock", "openclaw", "aws認証情報", "モデル検出", "bedrock converse", "ec2 iamロール", "claude bedrock", "aiゲートウェイ"]
----
+
 
   プロバイダー
 

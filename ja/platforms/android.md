@@ -1,7 +1,4 @@
-title: "OpenClaw Android アプリセットアップガイドとプラットフォーム概要"
-description: "OpenClaw Android コンパニオンノードのセットアップ方法、Gateway への接続方法、チャット、キャンバス、カメラ、音声などの機能の使用方法を学びます。"
-keywords: ["openclaw android", "android ノード セットアップ", "ゲートウェイ ペアリング", "android コンパニオン アプリ", "openclaw ゲートウェイ", "android キャンバス", "android 音声制御", "tailscale android"]
----
+
 
   プラットフォーム概要
 

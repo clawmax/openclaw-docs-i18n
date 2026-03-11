@@ -1,7 +1,4 @@
-title: "Guía de Pruebas de OpenClaw AI: Comandos, Puntos de Referencia y Docker"
-description: "Aprende a ejecutar pruebas de OpenClaw AI, incluyendo unitarias, de integración y en vivo. Obtén comandos para cobertura, puntos de referencia y pruebas E2E basadas en Docker."
-keywords: ["pruebas openclaw", "comandos vitest", "pruebas e2e docker", "cobertura de pruebas", "puntos de referencia cli", "integración de gateway", "pnpm test", "punto de referencia de latencia de modelo"]
----
+
 
   Notas de la versión
 

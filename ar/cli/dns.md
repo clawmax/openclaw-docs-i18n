@@ -1,7 +1,4 @@
-title: "إعداد OpenClaw DNS CLI لاكتشاف Tailscale و CoreDNS"
-description: "تعلم كيفية إعداد مساعدات DNS لاكتشاف النطاق الواسع باستخدام أوامر OpenClaw CLI لـ Tailscale و CoreDNS على نظام macOS."
-keywords: ["openclaw dns", "tailscale dns", "إعداد coredns", "اكتشاف النطاق الواسع", "macos dns", "تكوين dns عبر سطر الأوامر", "اكتشاف الشبكة"]
----
+
 
   أوامر CLI
 

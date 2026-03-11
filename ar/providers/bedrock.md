@@ -1,7 +1,4 @@
-title: "تكوين نماذج Amazon Bedrock في بوابة OpenClaw AI"
-description: "تعلم كيفية إعداد واستخدام نماذج Amazon Bedrock مع OpenClaw عبر بيانات اعتماد AWS، واكتشاف النماذج التلقائي، وأدوار مثيل EC2."
-keywords: ["amazon bedrock", "openclaw", "بيانات اعتماد aws", "اكتشاف النموذج", "bedrock converse", "دور iam لـ ec2", "claude bedrock", "بوابة الذكاء الاصطناعي"]
----
+
 
   المزودون
 

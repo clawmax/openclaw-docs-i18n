@@ -1,7 +1,4 @@
-title: "Guía de Ayuda, Preguntas Frecuentes, Instalación, Configuración y Solución de Problemas de OpenClaw"
-description: "Encuentra respuestas rápidas y solución de problemas profunda para la configuración, instalación, VPS, multi-agente, OAuth, claves API, conmutación por error de modelos y Raspberry Pi de OpenClaw."
-keywords: ["preguntas frecuentes openclaw", "instalación openclaw", "solución de problemas openclaw", "configuración openclaw", "vps openclaw", "raspberry pi openclaw", "configuración openclaw", "autenticación openclaw"]
----
+
 
   Ayuda
 

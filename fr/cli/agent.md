@@ -1,7 +1,4 @@
-title: "Guide des commandes et exemples de l'agent CLI OpenClaw"
-description: "Apprenez à exécuter un tour d'agent via l'interface CLI OpenClaw. Utilisez des exemples pour envoyer des messages, cibler des agents spécifiques et gérer les options de livraison."
-keywords: ["openclaw cli", "commande agent", "agent cli", "exécuter agent", "exemples agent", "envoi agent", "agent gateway", "outils cli"]
----
+
 
   Commandes CLI
 

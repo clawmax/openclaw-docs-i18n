@@ -1,7 +1,4 @@
-title: "Surveillance Automatisée de l'Authentification pour l'Expiration OAuth d'OpenClaw"
-description: "Apprenez à automatiser la surveillance et l'alerte des identifiants OAuth pour OpenClaw en utilisant des vérifications CLI et des scripts optionnels pour les workflows systemd et mobiles."
-keywords: ["openclaw", "surveillance oauth", "automatisation", "expiration auth", "vérification cli", "minuterie systemd", "alerte", "scripts"]
----
+
 
   Automatisation
 

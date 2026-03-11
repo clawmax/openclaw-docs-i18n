@@ -1,7 +1,4 @@
-title: "WhatsApp Discord iMessage向けOpenClawチャネルトラブルシューティングガイド"
-description: "動作がおかしい接続済みチャネルを修正します。WhatsApp、Discord、iMessage、BlueBubbles、Matrix、Signalの問題に対するステップバイステップの解決策。"
-keywords: ["openclaw トラブルシューティング", "チャネル設定", "whatsapp ボット修正", "discord ボット応答なし", "imessage bluebubbles", "matrix 暗号化", "signal-cli デーモン", "チャネルプローブステータス"]
----
+
 
   設定
 

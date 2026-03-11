@@ -1,7 +1,4 @@
-title: "OpenClaw Canvas macOS アプリ ドキュメントと使用ガイド"
-description: "macOS 上の OpenClaw Canvas パネルを HTML/CSS/JS ワークスペースや A2UI で使用する方法を学びます。ファイルストレージ、エージェント API、CLI コマンド、セキュリティについて説明します。"
-keywords: ["openclaw canvas", "macos canvas パネル", "a2ui 統合", "エージェント api", "wkwebview", "canvas ワークスペース", "openclaw ドキュメント", "canvas cli コマンド"]
----
+
 
   macOS コンパニオンアプリ
 

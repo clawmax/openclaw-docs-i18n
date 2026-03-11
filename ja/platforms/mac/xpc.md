@@ -1,7 +1,4 @@
-title: "OpenClaw macOS XPC IPC およびコンパニオンアプリ アーキテクチャ"
-description: "OpenClaw macOS コンパニオンプアプリが、安全な IPC、TCC 権限、および PeekabooBridge を介した UI 自動化のために XPC と Unix ソケットをどのように使用するかを学びます。"
-keywords: ["macos xpc", "openclaw mac", "ipc unix ソケット", "tcc 権限", "peekaboobridge", "macos コンパニオン アプリ", "ノード ホスト サービス", "ui 自動化"]
----
+
 
   macOS コンパニオンアプリ
 

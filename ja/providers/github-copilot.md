@@ -1,7 +1,4 @@
-title: "OpenClawでGitHub Copilotをモデルプロバイダーとして使用する方法"
-description: "GitHub CopilotをOpenClawと統合する2つの方法（組み込みプロバイダーとCopilot Proxyプラグイン）を学びます。セットアップコマンドと設定を含みます。"
-keywords: ["github copilot", "openclaw", "ai コーディングアシスタント", "モデルプロバイダー", "copilot proxy", "cli セットアップ", "auth login", "gpt-4o"]
----
+
 
   プロバイダー
 

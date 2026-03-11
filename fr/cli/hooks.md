@@ -1,7 +1,4 @@
-title: "Gestion des Hooks CLI OpenClaw Automatisations Pilotées par Événements des Agents"
-description: "Apprenez à gérer les hooks des agents OpenClaw : lister, activer, désactiver, installer et mettre à jour les automatisations pilotées par événements pour des commandes comme /new et le démarrage de la passerelle."
-keywords: ["hooks openclaw", "hooks cli", "automatisation agent", "hooks pilotés par événements", "hooks de commande", "démarrage passerelle", "gestion des hooks", "mémoire de session"]
----
+
 
   Commandes CLI
 

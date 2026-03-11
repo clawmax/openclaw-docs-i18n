@@ -1,7 +1,4 @@
-title: "Guide d'installation et de configuration de l'intégration OpenClaw avec LiteLLM"
-description: "Apprenez à router OpenClaw via LiteLLM pour un suivi centralisé des coûts, un routage des modèles et une journalisation. Configurez les fournisseurs et gérez les clés virtuelles."
-keywords: ["litellm", "openclaw", "routage de modèles", "suivi des coûts", "passerelle llm", "clés virtuelles", "openai-compatible", "intégration api"]
----
+
 
   Fournisseurs
 

@@ -1,7 +1,4 @@
-title: "Guide d'automatisation CLI OpenClaw pour l'intégration non interactive"
-description: "Apprenez à automatiser l'assistant d'intrégration OpenClaw en utilisant le drapeau --non-interactive. Obtenez des exemples pour Anthropic, OpenAI, Gemini et des fournisseurs personnalisés."
-keywords: ["openclaw cli", "intégration non interactive", "automatiser openclaw", "automatisation cli", "commande onboard", "configuration clé api", "automatisation agent", "interface en ligne de commande"]
----
+
 
   Guides
 

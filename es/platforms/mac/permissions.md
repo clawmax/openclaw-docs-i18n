@@ -1,7 +1,4 @@
-title: "Guía de Permisos de macOS para Concesiones Estables de la App OpenClaw"
-description: "Aprende cómo mantener permisos estables de macOS para OpenClaw. Soluciona avisos que desaparecen y restablece TCC para Accesibilidad, Captura de Pantalla y acceso a archivos."
-keywords: ["permisos macos", "restablecer tcc", "concesión de accesibilidad", "captura de pantalla", "identificador de paquete", "firma de código", "openclaw mac", "privacidad seguridad"]
----
+
 
   Aplicación complementaria de macOS
 

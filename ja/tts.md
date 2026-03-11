@@ -1,7 +1,4 @@
-title: "OpenClaw Text-to-Speech TTS 設定（ElevenLabs、OpenAI、Edge対応）"
-description: "OpenClaw TTSをElevenLabs、OpenAI、またはEdge TTSで設定する方法を学びます。音声返信、フォールバックプロバイダー、モデルオーバーライド、ユーザーごとの設定をセットアップします。"
-keywords: ["openclaw tts", "text-to-speech 設定", "elevenlabs api", "openai tts", "edge tts", "音声返信", "tts プロバイダー", "音声合成"]
----
+
 
   メディアとデバイス
 

@@ -1,7 +1,4 @@
-title: "نشر OpenClaw على Railway باستخدام قالب النقر الواحد"
-description: "تعلّم كيفية نشر OpenClaw على Railway باستخدام قالب النقر الواحد. اتبع معالج الإعداد، قم بتكوين المتغيرات المطلوبة، واستضف بوابتك دون أوامر طرفية."
-keywords: ["openclaw railway", "نشر openclaw", "نشر railway", "نشر بنقرة واحدة", "معالج إعداد openclaw", "استضافة openclaw", "حجم railway", "بوابة openclaw"]
----
+
 
   الاستضافة والنشر
 

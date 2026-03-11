@@ -1,7 +1,4 @@
-title: "Registre Public de Compétences ClawHub pour les Agents IA OpenClaw"
-description: "Apprenez à utiliser ClawHub pour trouver, installer et publier des compétences publiques pour OpenClaw. Parcourez le registre, utilisez les commandes CLI et améliorez les capacités de votre agent IA."
-keywords: ["clawhub", "compétences openclaw", "registre de compétences", "outils d'agent ia", "clawhub cli", "publier des compétences", "installer des compétences", "découverte de compétences"]
----
+
 
   Compétences
 

@@ -106,11 +106,11 @@ OpenProse 支持多种状态后端：
 
 OpenProse 程序映射到 OpenClaw 原语：
 
-|| OpenProse 概念 | OpenClaw 工具 |
-|| --- | --- |
-|| 生成会话 / 任务工具 | `sessions_spawn` |
-|| 文件读/写 | `read` / `write` |
-|| 网络获取 | `web_fetch` |
+| OpenProse 概念 | OpenClaw 工具 |
+| --- | --- |
+| 生成会话 / 任务工具 | `sessions_spawn` |
+| 文件读/写 | `read` / `write` |
+| 网络获取 | `web_fetch` |
 
 如果你的工具允许列表阻止了这些工具，OpenProse 程序将失败。参见[技能配置](./tools/skills-config.md)。
 

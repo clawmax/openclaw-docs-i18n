@@ -1,7 +1,4 @@
-title: "OpenClaw Gateway向けLM Studioを使用したローカルモデルのセットアップ"
-description: "OpenClaw Gateway向けにMiniMax M2.5などのローカルAIモデルをLM Studioでセットアップおよび設定する方法を学びます。ハイブリッド構成やフォールバック構成も含みます。"
-keywords: ["openclaw ローカルモデル", "lm studio セットアップ", "minimax m2.5", "openai互換ローカルプロキシ", "ゲートウェイ設定", "ローカルaiデプロイ", "ハイブリッドモデルフォールバック", "vllm litellm"]
----
+
 
   プロトコルとAPI
 

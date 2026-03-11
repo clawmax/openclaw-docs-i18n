@@ -1,7 +1,4 @@
-title: "OpenClaw OAuthとサブスクリプション認証ガイド"
-description: "OpenClawにおけるOpenAIとAnthropicのOAuthおよびサブスクリプション認証の仕組み、トークンストレージ、リフレッシュフロー、複数アカウントの管理について学びます。"
-keywords: ["oauth", "openclaw認証", "anthropic setup-token", "openai codex oauth", "認証プロファイル", "トークンストレージ", "pkce", "複数アカウント"]
----
+
 
   基本
 

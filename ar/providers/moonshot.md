@@ -1,7 +1,4 @@
-title: "تكوين موفر Moonshot AI و Kimi Coding لـ OpenClaw"
-description: "تعلم كيفية إعداد موفر Moonshot AI و Kimi Coding في OpenClaw. قم بتكوين مفاتيح API والنقاط الطرفية ومراجع النماذج مثل moonshot/kimi-k2.5."
-keywords: ["moonshot ai", "kimi api", "موفر openclaw", "kimi coding", "kimi k2.5", "api متوافق مع openai", "تكوين api", "إعداد النموذج"]
----
+
 
   الموفرون
 

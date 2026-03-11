@@ -1,7 +1,4 @@
-title: "Настройка Tailscale Serve или Funnel для удаленного доступа к OpenClaw Gateway"
-description: "Узнайте, как настроить Tailscale Serve или Funnel для безопасного удаленного доступа к панели управления OpenClaw Gateway и порту WebSocket с использованием HTTPS и аутентификации."
-keywords: ["tailscale", "openclaw gateway", "удаленный доступ", "tailscale serve", "tailscale funnel", "настройка шлюза", "безопасный туннель", "websocket"]
----
+
 
   Удаленный доступ
 

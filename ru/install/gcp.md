@@ -1,7 +1,4 @@
-title: "Развертывание OpenClaw Gateway на GCP Compute Engine с использованием Docker"
-description: "Пошаговое руководство по запуску постоянного OpenClaw Gateway на виртуальной машине GCP. Узнайте, как установить Docker, настроить сохранение состояния, встроить бинарные файлы и получить доступ к UI управления."
-keywords: ["openclaw gcp", "gcp compute engine", "развертывание docker", "постоянный шлюз", "установка openclaw", "настройка gcp vm", "docker compose", "шлюз openclaw"]
----
+
 
   Хостинг и развертывание
 

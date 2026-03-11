@@ -1,7 +1,4 @@
-title: "Comment Créer des Compétences Personnalisées pour les Assistants OpenClaw AI"
-description: "Apprenez à étendre votre assistant OpenClaw AI en créant des compétences personnalisées. Guide étape par étape pour définir des compétences, ajouter des outils et suivre les bonnes pratiques."
-keywords: ["compétences openclaw", "créer une compétence personnalisée", "développement de compétences", "extensibilité de l'assistant IA", "tutoriel skill.md", "clawhub", "outils multi-agents", "espace de travail openclaw"]
----
+
 
   Compétences
 

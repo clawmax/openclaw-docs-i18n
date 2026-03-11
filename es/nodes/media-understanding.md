@@ -1,7 +1,4 @@
-title: "Guía de Configuración de Nodos de Comprensión de Medios para OpenClaw AI"
-description: "Aprende a configurar OpenClaw AI para resumir imágenes, audio y video. Configura APIs de proveedores, respaldos CLI y políticas de adjuntos para un procesamiento de medios óptimo."
-keywords: ["comprensión de medios", "openclaw ai", "transcripción de audio", "resumen de imágenes", "análisis de video", "configuración de ia", "ia multimodal", "procesamiento de medios"]
----
+
 
   Medios y dispositivos
 

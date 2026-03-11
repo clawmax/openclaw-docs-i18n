@@ -1,7 +1,4 @@
-title: "Guide de l'outil Réactions OpenClaw pour les bots multiplateformes"
-description: "Apprenez à utiliser l'outil Réactions pour ajouter ou supprimer des réactions par émoji sur Discord, Slack, Telegram, WhatsApp et d'autres plateformes de messagerie."
-keywords: ["réactions", "réactions par émoji", "réactions de bot", "messagerie multiplateforme", "bot discord", "bot slack", "bot telegram", "bot whatsapp"]
----
+
 
   Outils intégrés
 

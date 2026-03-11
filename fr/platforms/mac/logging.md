@@ -1,7 +1,4 @@
-title: "Journalisation macOS pour le débogage et le diagnostic de l'application OpenClaw"
-description: "Apprenez à activer les journaux de fichiers rotatifs et la journalisation unifiée avec données privées pour déboguer l'application macOS OpenClaw. Configurez la verbosité et visualisez les charges utiles sensibles."
-keywords: ["journalisation macos", "diagnostic openclaw", "fichier journal rotatif", "journalisation unifiée", "débogage application mac", "journalisation données privées", "journal jsonl", "configuration journal"]
----
+
 
   Application compagnon macOS
 

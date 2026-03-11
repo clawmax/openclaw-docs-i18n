@@ -1,7 +1,4 @@
-title: "Guide des plugins de compétences OpenClaw Installation Configuration et SDK"
-description: "Apprenez à installer, configurer et développer des plugins pour OpenClaw. Étendez les fonctionnalités avec des plugins officiels, des routes HTTP et des aides d'exécution."
-keywords: ["plugins openclaw", "plugins de compétences", "installation de plugin", "sdk de plugin", "gateway rpc", "outils d'agent", "manifeste de plugin", "aides d'exécution"]
----
+
 
   Compétences
 

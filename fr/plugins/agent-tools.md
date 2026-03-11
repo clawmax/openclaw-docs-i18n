@@ -1,7 +1,4 @@
-title: "Guide du Plugin Outils Agent OpenClaw pour l'Appel de Fonctions LLM"
-description: "Apprenez à enregistrer des outils d'agent requis et optionnels (fonctions JSON-schema) pour les LLM dans OpenClaw. Configurez les listes d'autorisation, de refus et les politiques d'exécution des outils."
-keywords: ["outils agent", "plugins openclaw", "appel de fonction llm", "liste d'autorisation d'outils", "outils optionnels", "développement de plugin", "json-schema", "configuration d'agent"]
----
+
 
   Extensions
 

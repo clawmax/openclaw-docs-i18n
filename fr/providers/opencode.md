@@ -1,7 +1,4 @@
-title: "Configuration d'OpenCode Zen pour les agents de codage IA OpenClaw"
-description: "Apprenez à configurer OpenCode Zen, une liste de modèles recommandés pour les agents de codage IA. Configurez votre clé API et commencez à utiliser le fournisseur opencode."
-keywords: ["opencode zen", "agents de codage", "fournisseur de modèles", "configuration clé api", "configuration openclaw", "claude opus", "modèles hébergés", "accès bêta"]
----
+
 
   Fournisseurs
 

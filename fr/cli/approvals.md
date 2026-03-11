@@ -1,7 +1,4 @@
-title: "Gérer les approbations d'exécution CLI OpenClaw pour la passerelle locale et les nœuds"
-description: "Apprenez à obtenir, définir et gérer les approbations d'exécution pour les hôtes locaux, les passerelles et les nœuds en utilisant les commandes CLI OpenClaw et les assistants de liste autorisée."
-keywords: ["approbations openclaw", "approbations d'exécution cli", "commandes de liste autorisée", "approbations d'hôte de nœud", "approbations de passerelle", "gestion des approbations d'exécution", "openclaw cli", "approbations en ligne de commande"]
----
+
 
   Commandes CLI
 

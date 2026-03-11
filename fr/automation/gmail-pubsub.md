@@ -1,7 +1,4 @@
-title: "Automatiser Gmail vers OpenClaw via les notifications push PubSub"
-description: "Apprenez à configurer l'automatisation de Gmail en utilisant Google PubSub. Transférez les emails vers OpenClaw via des webhooks pour un traitement par IA et une livraison dans le chat."
-keywords: ["automatisation gmail", "pubsub", "webhook openclaw", "surveillance gmail", "automatisation email", "gogcli", "tailscale funnel", "notifications push"]
----
+
 
   Automatisation
 

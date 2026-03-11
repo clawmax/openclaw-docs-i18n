@@ -1,7 +1,4 @@
-title: "Enrutamiento y Configuración Multi-Agente en OpenClaw Gateway"
-description: "Aprende a configurar múltiples agentes de IA aislados con espacios de trabajo, cuentas de canal y reglas de enrutamiento separados en OpenClaw para gestionar distintas personalidades y sesiones."
-keywords: ["enrutamiento multi-agente", "agentes openclaw", "agentes aislados", "vinculaciones de canal", "espacio de trabajo del agente", "gestión de sesiones", "enrutamiento whatsapp", "agentes de bot de discord"]
----
+
 
   Multi-agente
 

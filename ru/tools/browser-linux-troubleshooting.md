@@ -1,7 +1,4 @@
-title: "Исправление ошибки Chrome CDP порт 18800 в Linux для OpenClaw"
-description: "Решите ошибку 'Failed to start Chrome CDP on port 18800' в OpenClaw. Узнайте, как установить Google Chrome или настроить snap Chromium в Ubuntu и Linux."
-keywords: ["ошибка браузера openclaw", "chrome cdp порт 18800", "устранение неполадок браузера linux", "snap chromium openclaw", "установить google chrome linux", "режим attachonly браузера", "конфигурация openclaw", "chromium snap apparmor"]
----
+
 
   Браузер
 

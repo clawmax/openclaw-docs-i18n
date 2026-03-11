@@ -1,7 +1,4 @@
-title: "Документация OpenClaw CLI для команд docs и search"
-description: "Узнайте, как использовать команды OpenClaw CLI, такие как docs, browser, extension и sandbox, для поиска документации и управления инструментами."
-keywords: ["openclaw cli", "документация cli", "команда docs", "команды cli", "поиск документации", "sandbox allowhostcontrol", "browser extension", "инструменты разработчика"]
----
+
 
   Команды CLI
 

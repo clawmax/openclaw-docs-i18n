@@ -1,7 +1,4 @@
-title: "Guía de Firma de Aplicaciones macOS para Permisos Estables de OpenClaw"
-description: "Aprende a firmar la aplicación macOS de OpenClaw para permisos TCC estables. Configura identidades de firma, maneja builds ad-hoc y gestiona identificadores de paquete."
-keywords: ["firma macos", "codesign", "permisos tcc", "identificador de paquete", "developer id", "firma ad-hoc", "hardened runtime", "aplicación macos"]
----
+
 
   Aplicación complementaria para macOS
 

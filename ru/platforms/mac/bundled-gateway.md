@@ -1,7 +1,4 @@
-title: "Настройка шлюза OpenClaw на macOS и управление службой launchd"
-description: "Узнайте, как установить CLI openclaw и настроить шлюз как службу macOS launchd для приложения-компаньона OpenClaw. Включает проверку версий и устранение неполадок."
-keywords: ["macos openclaw", "настройка шлюза", "служба launchd", "openclaw cli", "приложение-компаньон macos", "локальный шлюз", "node gateway", "управление службами"]
----
+
 
   Приложение-компаньон для macOS
 

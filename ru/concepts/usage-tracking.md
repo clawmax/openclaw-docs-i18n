@@ -1,7 +1,4 @@
-title: "Отслеживание использования OpenClaw для квот и затрат AI-провайдеров"
-description: "Узнайте, как OpenClaw отслеживает использование и затраты AI-провайдеров через команды /status, /usage и CLI. Смотрите реальные квоты от Anthropic, GitHub Copilot и других."
-keywords: ["отслеживание использования", "квота ai-провайдера", "openclaw status", "openclaw usage", "оценка затрат", "токены anthropic", "github copilot oauth", "детализация использования cli"]
----
+
 
   Внутренние концепции
 

@@ -1,7 +1,4 @@
-title: "Guide d'installation et de configuration du plugin OpenClaw pour Synology Chat"
-description: "Apprenez à installer et configurer le plugin OpenClaw pour Synology Chat. Envoyez et recevez des messages via des webhooks, configurez les politiques de messages privés et gérez plusieurs comptes."
-keywords: ["synology chat", "plugin openclaw", "configuration webhook", "canal de messages privés", "intégration synology chat", "webhook entrant", "webhook sortant", "politique de mp"]
----
+
 
   Plateformes de messagerie
 

@@ -1,7 +1,4 @@
-title: "Liste des commandes CLI pour les compétences OpenClaw : Info, Vérification"
-description: "Apprenez à inspecter, lister et vérifier les compétences OpenClaw à l'aide des commandes CLI. Vérifiez l'éligibilité, les prérequis des compétences et gérez les compétences groupées ou de l'espace de travail."
-keywords: ["compétences openclaw", "commandes cli", "liste des compétences", "vérification des compétences", "info compétences", "éligibilité des compétences", "clawhub", "système de compétences"]
----
+
 
   Commandes CLI
 

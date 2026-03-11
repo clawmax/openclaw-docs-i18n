@@ -1,7 +1,4 @@
-title: "Настройка OpenClaw DNS CLI для Tailscale и CoreDNS Discovery"
-description: "Узнайте, как настроить DNS-помощников для широковещательного обнаружения с помощью команд CLI OpenClaw для Tailscale и CoreDNS на macOS."
-keywords: ["openclaw dns", "tailscale dns", "настройка coredns", "широковещательное обнаружение", "macos dns", "конфигурация dns cli", "обнаружение сети"]
----
+
 
   Команды CLI
 

@@ -1,7 +1,4 @@
-title: "Guide de configuration et tutoriel d'installation d'OpenClaw Gateway"
-description: "Apprenez à configurer OpenClaw Gateway avec JSON5. Configurez les canaux, modèles, sessions, sandboxing, tâches cron et le routage multi-agent."
-keywords: ["configuration openclaw", "installation de la passerelle", "configuration json5", "routage multi-agent", "gestion des sessions", "sandboxing", "tâches cron", "politique de dm"]
----
+
 
   Configuration et opérations
 

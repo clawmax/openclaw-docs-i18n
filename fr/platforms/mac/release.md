@@ -1,7 +1,4 @@
-title: "Guide de signature et de distribution des versions de release d'OpenClaw pour macOS"
-description: "Apprenez à construire, signer, notariser et publier les versions de release de l'application macOS OpenClaw avec les mises à jour automatiques Sparkle. Inclut les prérequis et les scripts de packaging."
-keywords: ["release macos", "mises à jour sparkle", "signature developer id", "notarisation d'application", "génération d'appcast", "distribution macos", "packager application mac", "automatisation de release"]
----
+
 
   Application compagnon macOS
 

@@ -1,7 +1,4 @@
-title: "تكوين Perplexity Sonar للبحث على الويب في OpenClaw"
-description: "تعلّم كيفية إعداد واستخدام Perplexity Sonar للبحث على الويب في OpenClaw عبر API المباشر أو OpenRouter، بما في ذلك أمثلة التكوين وخيارات النماذج."
-keywords: ["perplexity sonar", "البحث على الويب في openclaw", "واجهة برمجة تطبيقات perplexity", "openrouter", "أداة البحث على الويب", "sonar-pro", "تكوين API", "مزود البحث"]
----
+
 
   أدوات مدمجة
 

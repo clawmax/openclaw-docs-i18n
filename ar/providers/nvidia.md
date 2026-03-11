@@ -1,7 +1,4 @@
-title: "دليل إعداد وتكوين موفر NVIDIA في OpenClaw"
-description: "تعلم كيفية إعداد وتكوين موفر NVIDIA في OpenClaw. قم بالمصادقة باستخدام مفتاح API، وتشغيل أوامر CLI، واستخدام نماذج مثل Nemotron وNeMo."
-keywords: ["nvidia", "openclaw", "nemotron", "nemo", "مفتاح api", "llama 3.1", "متوافق مع openai", "إعداد cli"]
----
+
 
   المزودون
 

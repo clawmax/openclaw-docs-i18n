@@ -1,7 +1,4 @@
-title: "Автоматизация Gmail в OpenClaw через PubSub Push-уведомления"
-description: "Узнайте, как настроить автоматизацию Gmail с помощью Google PubSub. Пересылайте письма в OpenClaw через вебхуки для обработки ИИ и доставки в чат."
-keywords: ["автоматизация gmail", "pubsub", "вебхук openclaw", "наблюдение gmail", "автоматизация почты", "gogcli", "tailscale funnel", "push-уведомления"]
----
+
 
   Автоматизация
 

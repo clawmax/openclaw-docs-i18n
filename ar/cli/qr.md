@@ -1,7 +1,4 @@
-title: "أمر QR في OpenClaw CLI لإقران وإعداد iOS"
-description: "تعلّم كيفية استخدام أمر openclaw qr لتوليد رموز QR للإقران ورموز الإعداد من تكوين Gateway الخاص بك لإعداد الجهاز."
-keywords: ["openclaw qr", "رمز QR لإقران iOS", "رمز إعداد Gateway", "إقران CLI", "إقران جهاز", "openclaw cli", "توليد رمز QR", "إعداد HomeKit"]
----
+
 
   أوامر CLI
 

@@ -1,7 +1,4 @@
-title: "خطة بوابة OpenResponses لتجارب OpenClaw"
-description: "تعرف على خطة تنفيذ نقطة نهاية API لـ OpenResponses في بوابة OpenClaw، بما في ذلك البنية، والتحقق، ومسار إيقاف استخدام Chat Completions."
-keywords: ["openresponses", "gateway", "نقطة نهاية api", "توافق openai", "بث متدفق", "تجارب", "سير عمل وكيلية", "معيار الاستدلال"]
----
+
 
   تجارب
 

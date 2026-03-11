@@ -1,7 +1,4 @@
-title: "macOS UI自動化のためのOpenClaw Peekaboo Bridge"
-description: "OpenClaw for macOSでPeekaboo Bridgeを有効化・使用し、アプリの権限を再利用しながらCLIツールでUI自動化を駆動する方法を学びます。"
-keywords: ["peekaboo bridge", "macos ui 自動化", "openclaw", "tcc 権限", "cli 自動化", "macos コンパニオンアプリ", "自動化ブローカー", "ローカルソケットサーバー"]
----
+
 
   macOS コンパニオンアプリ
 

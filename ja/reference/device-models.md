@@ -1,7 +1,4 @@
-title: "Appleデバイス識別子のためのOpenClawデバイスモデルデータベース"
-description: "OpenClawがAppleデバイス識別子を人間が読みやすい名前にマッピングする方法について学びます。iOSおよびmacOSモデルデータベースのデータソースと更新手順を確認してください。"
-keywords: ["appleデバイス識別子", "デバイスモデルデータベース", "iosモデル識別子", "macosモデル識別子", "openclawデバイスマッピング", "rpcデバイスモデル", "apiデバイス名", "appleモデル識別子マッピング"]
----
+
 
   RPCとAPI
 

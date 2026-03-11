@@ -1,7 +1,4 @@
-title: "Guide des outils de session OpenClaw : Lister, Historique, Envoyer, Créer"
-description: "Apprenez à utiliser les outils de session OpenClaw pour lister les sessions, récupérer l'historique, envoyer des messages entre sessions et créer des sous-agents pour des tâches isolées."
-keywords: ["outils de session", "sessions openclaw", "mémoire de l'agent", "liste des sessions", "sessions envoyer", "sessions créer", "historique de session", "sous-agents"]
----
+
 
   Sessions et mémoire
 

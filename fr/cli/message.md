@@ -1,7 +1,4 @@
-title: "Guide de la commande message de l'interface CLI OpenClaw pour la messagerie multi-canaux"
-description: "Apprenez à utiliser la commande message de l'interface CLI OpenClaw pour envoyer des messages, des sondages et des réactions sur Discord, Slack, WhatsApp, Telegram, et plus encore."
-keywords: ["openclaw cli", "commande message", "messagerie multi-canaux", "bot discord", "automatisation slack", "sondage telegram", "api whatsapp", "automatisation cli"]
----
+
 
   Commandes CLI
 

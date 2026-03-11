@@ -1,7 +1,4 @@
-title: "Comment utiliser les modèles GLM dans OpenClaw via le fournisseur Z.AI"
-description: "Apprenez à configurer et paramétrer les modèles GLM comme glm-5 dans OpenClaw en utilisant le fournisseur Z.AI. Inclut la configuration CLI et des exemples de configuration."
-keywords: ["modèles glm", "fournisseur openclaw zai", "configuration glm-5", "clé api zai", "configuration openclaw", "famille de modèles glm", "plateforme zai", "fournisseurs openclaw"]
----
+
 
   Fournisseurs
 

@@ -1,7 +1,4 @@
-title: "Как использовать GitHub Copilot в качестве провайдера моделей в OpenClaw"
-description: "Узнайте два способа интеграции GitHub Copilot с OpenClaw: встроенный провайдер и плагин Copilot Proxy. Включает команды настройки и конфигурации."
-keywords: ["github copilot", "openclaw", "ai помощник для программирования", "провайдер моделей", "copilot proxy", "настройка cli", "авторизация", "gpt-4o"]
----
+
 
   Провайдеры
 

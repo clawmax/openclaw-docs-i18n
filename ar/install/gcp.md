@@ -1,7 +1,4 @@
-title: "نشر بوابة OpenClaw على GCP Compute Engine باستخدام Docker"
-description: "دليل خطوة بخطوة لتشغيل بوابة OpenClaw دائمة على جهاز ظاهري في GCP. تعلم كيفية تثبيت Docker، وتهيئة استمرارية الحالة، ودمج الملفات الثنائية، والوصول إلى واجهة التحكم."
-keywords: ["openclaw gcp", "gcp compute engine", "نشر docker", "بوابة دائمة", "تثبيت openclaw", "إعداد جهاز ظاهري في gcp", "docker compose", "بوابة openclaw"]
----
+
 
   الاستضافة والنشر
 

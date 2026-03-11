@@ -1,7 +1,4 @@
-title: "Gestion de la file d'attente pour les exécutions d'agent de réponse automatique dans OpenClaw"
-description: "Apprenez comment OpenClaw sérialise les messages entrants à l'aide d'une file d'attente pour éviter les collisions, gérer la concurrence et configurer les modes et options de file."
-keywords: ["file d'attente de messages", "réponse automatique", "concurrence", "gestion de session", "modes de file", "messages entrants", "exécutions d'agent", "sérialisation"]
----
+
 
   Messages et livraison
 

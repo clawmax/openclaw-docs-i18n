@@ -1,7 +1,4 @@
-title: "Настройка и конфигурация провайдера Cloudflare AI Gateway в OpenClaw"
-description: "Узнайте, как настроить OpenClaw для использования Cloudflare AI Gateway с моделями Anthropic. Настройте API-ключи, аутентификацию и модели по умолчанию для аналитики и кэширования."
-keywords: ["cloudflare ai gateway", "провайдер openclaw", "anthropic api", "claude sonnet", "настройка api gateway", "аутентификация ai gateway", "конфигурация openclaw", "интеграция cloudflare gateway"]
----
+
 
   Провайдеры
 

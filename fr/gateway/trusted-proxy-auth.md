@@ -1,7 +1,4 @@
-title: "Guide de configuration de l'authentification par proxy de confiance pour OpenClaw Gateway"
-description: "Apprenez à configurer de manière sécurisée OpenClaw Gateway avec l'authentification par proxy de confiance pour les proxies inversés avec identité comme Pomerium, Caddy et nginx."
-keywords: ["authentification par proxy de confiance", "openclaw gateway", "auth proxy inverse", "pomerium openclaw", "caddy oauth", "nginx oauth2-proxy", "proxy avec identité", "authentification websocket"]
----
+
 
   Configuration et opérations
 

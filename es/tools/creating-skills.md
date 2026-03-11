@@ -1,7 +1,4 @@
-title: "Cómo Crear Habilidades Personalizadas para Asistentes de IA OpenClaw"
-description: "Aprende a extender tu asistente de IA OpenClaw creando habilidades personalizadas. Guía paso a paso para definir habilidades, añadir herramientas y seguir las mejores prácticas."
-keywords: ["habilidades openclaw", "crear habilidad personalizada", "desarrollo de habilidades", "extensibilidad asistente ia", "tutorial skill.md", "clawhub", "herramientas multi-agente", "espacio de trabajo openclaw"]
----
+
 
   Habilidades
 

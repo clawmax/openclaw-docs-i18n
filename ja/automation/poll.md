@@ -1,7 +1,4 @@
-title: "Telegram、WhatsApp、Discord、MS Teams向け自動化投票"
-description: "CLI、RPC、Agentツールを使用してTelegram、WhatsApp、Discord、MS Teamsで投票を作成する方法を学びます。チャネル固有のオプションと例を含みます。"
-keywords: ["自動化投票", "telegram 投票", "whatsapp 投票", "discord 投票", "msteams 投票", "openclaw cli", "poll api", "マルチチャネル投票"]
----
+
 
   自動化
 

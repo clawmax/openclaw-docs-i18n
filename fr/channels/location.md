@@ -1,7 +1,4 @@
-title: "Analyse de localisation pour les canaux de discussion dans la documentation OpenClaw"
-description: "Découvrez comment OpenClaw normalise les données de localisation de Telegram, WhatsApp et Matrix en champs structurés et en texte lisible pour les flux de travail automatisés."
-keywords: ["analyse de localisation", "canaux openclaw", "localisation telegram", "localisation whatsapp", "localisation matrix", "données de localisation structurées", "automatisation des discussions", "contexte de charge utile"]
----
+
 
   Configuration
 

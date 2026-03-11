@@ -1,7 +1,4 @@
-title: "Configurer la recherche web Perplexity Sonar dans OpenClaw"
-description: "Apprenez à configurer et utiliser Perplexity Sonar pour la recherche web dans OpenClaw via l'API directe ou OpenRouter, incluant des exemples de configuration et les options de modèles."
-keywords: ["perplexity sonar", "recherche web openclaw", "api perplexity", "openrouter", "outil de recherche web", "sonar-pro", "configuration api", "fournisseur de recherche"]
----
+
 
   Outils intégrés
 

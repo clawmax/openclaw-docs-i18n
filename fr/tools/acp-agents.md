@@ -1,7 +1,4 @@
-title: "Guide des agents ACP OpenClaw pour les harnais de codage externes"
-description: "Apprenez à utiliser les agents ACP OpenClaw pour exécuter des harnais de codage externes comme Claude Code et Codex. Configurez les sessions, gérez l'exécution et configurez le backend acpx."
-keywords: ["agents acp", "protocole agent client", "openclaw acp", "backend acpx", "harnais de codage", "claude code", "codex", "coordination d'agents"]
----
+
 
   Coordination d'agents
 

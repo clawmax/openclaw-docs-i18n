@@ -1,7 +1,4 @@
-title: "API HTTP de la passerelle OpenClaw pour l'invocation directe d'outils"
-description: "Apprenez à invoquer directement les outils OpenClaw via l'API HTTP de la passerelle. Couvre l'authentification, le format de requête, le routage par politique et des exemples de commandes curl."
-keywords: ["passerelle openclaw", "api http", "invoquer outils", "point de terminaison api", "jeton porteur", "politique d'outil", "exemple curl", "requête post"]
----
+
 
   Protocoles et APIs
 

@@ -1,7 +1,4 @@
-title: "Configuración de Gateway OpenClaw en macOS y Gestión de Servicios Launchd"
-description: "Aprende a instalar la CLI de openclaw y configurar el Gateway como un servicio launchd de macOS para la aplicación complementaria OpenClaw. Incluye comprobaciones de versión y solución de problemas."
-keywords: ["macos openclaw", "configuración de gateway", "servicio launchd", "cli openclaw", "aplicación complementaria macos", "gateway local", "node gateway", "gestión de servicios"]
----
+
 
   Aplicación complementaria para macOS
 

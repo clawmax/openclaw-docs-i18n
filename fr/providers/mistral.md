@@ -1,7 +1,4 @@
-title: "Configurer le fournisseur Mistral AI pour les modèles et l'audio OpenClaw"
-description: "Apprenez à configurer Mistral AI et Voxtral dans OpenClaw pour la génération de texte, la transcription audio et les embeddings de mémoire. Inclut des exemples CLI et de configuration."
-keywords: ["mistral ai", "openclaw", "voxtral", "transcription audio", "fournisseur llm", "embeddings de mémoire", "configuration api", "clé api mistral"]
----
+
 
   Fournisseurs
 

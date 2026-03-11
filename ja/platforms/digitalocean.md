@@ -1,7 +1,4 @@
-title: "DigitalOceanでのOpenClaw Gateway実行セットアップガイド"
-description: "月額6ドルでDigitalOceanに永続的なOpenClaw Gatewayをデプロイする方法を学びます。コスト比較、トラブルシューティング手順、関連ガイドを含みます。"
-keywords: ["openclaw gateway", "digitalocean セットアップ", "永続的ゲートウェイ", "コスト比較", "トラブルシューティング", "サーバーデプロイ", "プラットフォームガイド", "digitalocean droplet"]
----
+
 
   プラットフォーム概要
 

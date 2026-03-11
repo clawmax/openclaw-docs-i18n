@@ -1,7 +1,4 @@
-title: "Guide de sécurité et de sandboxing de la passerelle OpenClaw"
-description: "Apprenez à sécuriser votre passerelle OpenClaw en utilisant le modèle de confiance d'assistant personnel. Comprenez les audits de sécurité, les hypothèses de déploiement et les limites de confiance."
-keywords: ["sécurité openclaw", "sandboxing de passerelle", "modèle de confiance d'assistant personnel", "audit de sécurité", "limite de confiance", "sécurité du déploiement", "isolation multi-locataire", "confiance du nœud"]
----
+
 
   Sécurité et sandboxing
 

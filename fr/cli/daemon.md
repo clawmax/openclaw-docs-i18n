@@ -1,7 +1,4 @@
-title: "Commandes CLI du démon OpenClaw pour la gestion du service Gateway"
-description: "Apprenez à utiliser les commandes CLI du démon openclaw legacy pour installer, démarrer, arrêter et gérer l'état et le cycle de vie du service Gateway."
-keywords: ["démon openclaw", "service gateway", "commandes cli", "gestion de service", "installer service", "état du service", "alias legacy", "cli openclaw"]
----
+
 
   Commandes CLI
 

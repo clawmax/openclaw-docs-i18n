@@ -1,7 +1,4 @@
-title: "OpenClaw セルフホスト型 AI エージェントゲートウェイ for WhatsApp Telegram Discord"
-description: "OpenClaw は、WhatsApp、Telegram、Discord、iMessage を AI コーディングエージェントに接続するセルフホスト型ゲートウェイです。個人用 AI アシスタントのインストールと設定方法を学びましょう。"
-keywords: ["openclaw", "セルフホスト ai", "ai エージェント ゲートウェイ", "whatsapp ボット", "telegram ボット", "discord ボット", "ai アシスタント", "マルチチャネル ゲートウェイ"]
----
+
 
   ホーム
 
@@ -13,7 +10,7 @@ keywords: ["openclaw", "セルフホスト ai", "ai エージェント ゲート
 
 > *"角質除去！角質除去！"* — 宇宙ザリガニ、おそらく
 
-  **WhatsApp、Telegram、Discord、iMessage などを横断する AI エージェント用の OS 非依存ゲートウェイ。** メッセージを送信すると、ポケットからエージェントの応答が返ってきます。プラグインで Mattermost などが追加可能です。
+**WhatsApp、Telegram、Discord、iMessage などを横断する AI エージェント用の OS 非依存ゲートウェイ。** メッセージを送信すると、ポケットからエージェントの応答が返ってきます。プラグインで Mattermost などが追加可能です。
 
   
   

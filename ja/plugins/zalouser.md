@@ -1,7 +1,4 @@
-title: "OpenClaw Zalo Personal プラグイン セットアップと使用ガイド"
-description: "OpenClaw 用 Zalo Personal プラグインをインストール、設定、使用して、CLI およびエージェントツール経由で個人の Zalo ユーザーアカウントを自動化する方法を学びます。"
-keywords: ["zalo personal プラグイン", "openclaw zalouser", "zalo 自動化", "openclaw プラグイン インストール", "zalo ユーザーアカウント", "チャネル設定", "openclaw cli", "zalo チャットボット"]
----
+
 
   拡張機能
 

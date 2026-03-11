@@ -1,7 +1,4 @@
-title: "Guide de configuration et de sécurité des canaux IRC OpenClaw"
-description: "Apprenez à configurer OpenClaw pour IRC, définir des politiques de sécurité, gérer le contrôle d'accès et résoudre les problèmes courants pour Libera.Chat et autres réseaux."
-keywords: ["openclaw irc", "configuration bot irc", "sécurité canal irc", "contrôle d'accès irc", "gestion des mentions irc", "configuration nickserv", "dépannage irc", "politique de groupe irc"]
----
+
 
   Plateformes de messagerie
 

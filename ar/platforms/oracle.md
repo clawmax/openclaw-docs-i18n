@@ -1,7 +1,4 @@
-title: "تشغيل بوابة OpenClaw على الطبقة المجانية الدائمة ARM من Oracle Cloud"
-description: "تعلم كيفية نشر وتشغيل بوابة OpenClaw دائمة على الطبقة المجانية الدائمة ARM من Oracle Cloud، بما في ذلك خطوات الإعداد والأمان واستكشاف الأخطاء وإصلاحها."
-keywords: ["openclaw oracle", "oracle cloud الطبقة المجانية", "بوابة openclaw", "نشر خادم arm", "tailscale oracle", "تثبيت openclaw", "oci مجاني دائم", "أمان openclaw"]
----
+
 
   نظرة عامة على المنصات
 

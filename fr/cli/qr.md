@@ -1,7 +1,4 @@
-title: "Commande QR d'OpenClaw CLI pour l'appairage et la configuration iOS"
-description: "Apprenez à utiliser la commande openclaw qr pour générer des codes QR d'appairage iOS et des codes de configuration à partir de la configuration de votre passerelle pour la configuration des appareils."
-keywords: ["openclaw qr", "qr d'appairage ios", "code de configuration de passerelle", "appairage cli", "appairage d'appareil", "openclaw cli", "génération de code qr", "configuration homekit"]
----
+
 
   Commandes CLI
 

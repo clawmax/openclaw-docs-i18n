@@ -1,7 +1,4 @@
-title: "Guide de référence sur l'utilisation et les coûts des tokens OpenClaw"
-description: "Apprenez comment OpenClaw suit les tokens, estime les coûts et gère le contexte. Découvrez les commandes pour surveiller l'utilisation et les stratégies pour réduire la consommation de tokens."
-keywords: ["tokens openclaw", "utilisation des tokens", "estimation des coûts", "fenêtre de contexte", "mise en cache des prompts", "cache ttl", "réduire l'utilisation des tokens", "prompt système"]
----
+
 
   Référence technique
 

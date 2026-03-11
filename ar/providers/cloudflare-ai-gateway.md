@@ -1,7 +1,4 @@
-title: "إعداد وتكوين موفر Cloudflare AI Gateway في OpenClaw"
-description: "تعلّم كيفية تكوين OpenClaw لاستخدام Cloudflare AI Gateway لنماذج Anthropic. قم بإعداد مفاتيح API والمصادقة والنماذج الافتراضية للتحليلات والتخزين المؤقت."
-keywords: ["cloudflare ai gateway", "موفر openclaw", "anthropic api", "claude sonnet", "إعداد بوابة api", "مصادقة بوابة الذكاء الاصطناعي", "تكوين openclaw", "تكامل بوابة cloudflare"]
----
+
 
   الموفرون
 

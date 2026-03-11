@@ -11,10 +11,10 @@
 
 ## 为什么使用这个？
 
-|| 方法 | 成本 | 最适合 |
-|| --- | --- | --- |
-|| Anthropic API | 按 token 付费（Opus 约 15美元/百万输入，75美元/百万输出） | 生产应用，高用量 |
-|| Claude Max 订阅 | 200美元/月（固定） | 个人使用，开发，无限用量 |
+| 方法 | 成本 | 最适合 |
+| --- | --- | --- |
+| Anthropic API | 按 token 付费（Opus 约 15美元/百万输入，75美元/百万输出） | 生产应用，高用量 |
+| Claude Max 订阅 | 200美元/月（固定） | 个人使用，开发，无限用量 |
 
 如果您拥有 Claude Max 订阅，并希望将其用于 OpenAI 兼容的工具，此代理可能会降低某些工作流的成本。对于生产用途，API 密钥仍然是政策上更清晰的路径。
 
@@ -88,11 +88,11 @@ curl http://localhost:3456/v1/chat/completions \
 
 ## 可用模型
 
-|| 模型 ID | 映射到 |
-|| --- | --- |
-|| `claude-opus-4` | Claude Opus 4 |
-|| `claude-sonnet-4` | Claude Sonnet 4 |
-|| `claude-haiku-4` | Claude Haiku 4 |
+| 模型 ID | 映射到 |
+| --- | --- |
+| `claude-opus-4` | Claude Opus 4 |
+| `claude-sonnet-4` | Claude Sonnet 4 |
+| `claude-haiku-4` | Claude Haiku 4 |
 
 ## 在 macOS 上自动启动
 

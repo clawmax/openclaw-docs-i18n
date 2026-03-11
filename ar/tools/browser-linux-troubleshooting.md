@@ -1,7 +1,4 @@
-title: "إصلاح خطأ منفذ Chrome CDP 18800 على Linux لـ OpenClaw"
-description: "حل خطأ فشل بدء Chrome CDP على المنفذ 18800 في OpenClaw. تعلم كيفية تثبيت Google Chrome أو تكوين Chromium من Snap على Ubuntu وLinux."
-keywords: ["خطأ متصفح openclaw", "منفذ chrome cdp 18800", "استكشاف أخطاء متصفح Linux وإصلاحها", "snap chromium openclaw", "تثبيت google chrome linux", "وضع إرفاق المتصفح فقط", "تكوين openclaw", "chromium snap apparmor"]
----
+
 
   المتصفح
 

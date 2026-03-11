@@ -1,7 +1,4 @@
-title: "Guide d'animation et de comportement de l'icône de la barre de menus de l'application compagnon macOS"
-description: "Découvrez le fonctionnement de l'icône de la barre de menus OpenClaw macOS, y compris les animations pour les états inactif, en pause, déclenchement vocal et agent en cours d'exécution. Configurez le réveil vocal et les bascules d'activité."
-keywords: ["icône barre de menus macos", "application mac openclaw", "animation déclenchement vocal", "indicateur d'activité de l'agent", "moteur de rendu d'icône critter", "appstate working", "détecteur de réveil vocal", "application compagnon macos"]
----
+
 
   Application compagnon macOS
 

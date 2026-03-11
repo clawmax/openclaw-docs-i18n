@@ -1,7 +1,4 @@
-title: "إعداد بوابة OpenClaw على macOS وإدارة خدمة Launchd"
-description: "تعلّم كيفية تثبيت واجهة سطر أوامر openclaw وتهيئة البوابة كخدمة launchd على macOS لتطبيق OpenClaw المرافق. يتضمن فحص التوافق وحل المشكلات."
-keywords: ["macos openclaw", "إعداد البوابة", "خدمة launchd", "واجهة سطر أوامر openclaw", "تطبيق macOS المرافق", "بوابة محلية", "بوابة node", "إدارة الخدمات"]
----
+
 
   تطبيق macOS المرافق
 

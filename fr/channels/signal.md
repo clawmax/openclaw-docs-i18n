@@ -1,7 +1,4 @@
-title: "Guide de configuration et d'installation du canal Signal pour OpenClaw"
-description: "Apprenez à configurer et installer le canal Signal pour OpenClaw en utilisant signal-cli. Inclut les prérequis, les étapes de configuration rapide et les options de configuration détaillées."
-keywords: ["openclaw signal", "intégration signal-cli", "configuration bot signal", "configuration plateforme de messagerie", "guide canal signal", "passerelle openclaw", "automatisation signal", "appairage politique dm"]
----
+
 
   Plateformes de messagerie
 

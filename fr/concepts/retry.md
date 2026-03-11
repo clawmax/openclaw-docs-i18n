@@ -1,7 +1,4 @@
-title: "Politique de nouvelle tentative pour les messages et la livraison OpenClaw"
-description: "Découvrez comment fonctionne la politique de nouvelle tentative d'OpenClaw pour Discord et Telegram, y compris les paramètres par défaut, le comportement de gestion des erreurs et les étapes de configuration."
-keywords: ["politique de nouvelle tentative", "livraison de messages", "nouvelle tentative discord", "nouvelle tentative telegram", "backoff exponentiel", "gestion des limites de débit", "configuration openclaw"]
----
+
 
   Messages et livraison
 

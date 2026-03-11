@@ -1,7 +1,4 @@
-title: "Déployer OpenClaw Gateway sur un VPS Hetzner avec Docker"
-description: "Guide étape par étape pour exécuter un OpenClaw Gateway persistant sur un VPS Hetzner en utilisant Docker. Apprenez à configurer l'état, intégrer les binaires et accéder via un tunnel SSH."
-keywords: ["vps hetzner", "openclaw gateway", "déploiement docker", "état persistant", "tunnel ssh", "docker compose", "persistance des binaires", "openclaw auto-hébergé"]
----
+
 
   Hébergement et déploiement
 

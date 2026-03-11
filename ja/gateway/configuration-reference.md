@@ -1,7 +1,4 @@
-title: "OpenClaw Gateway 設定リファレンスと設定ガイド"
-description: "OpenClaw Gateway のすべての設定フィールドの完全なリファレンス。チャネル、DMポリシー、モデルオーバーライドの設定、WhatsApp、Telegram、Discord の構成方法を学びます。"
-keywords: ["openclaw 設定", "ゲートウェイ セットアップ", "チャネル 設定", "dm ポリシー", "モデル オーバーライド", "whatsapp ボット", "telegram ボット", "discord ボット"]
----
+
 
   設定と運用
 

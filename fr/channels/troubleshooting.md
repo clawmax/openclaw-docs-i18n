@@ -1,7 +1,4 @@
-title: "Guide de dépannage des canaux OpenClaw pour WhatsApp Discord iMessage"
-description: "Corrigez les canaux connectés avec un comportement incorrect. Solutions étape par étape pour les problèmes WhatsApp, Discord, iMessage, BlueBubbles, Matrix et Signal."
-keywords: ["dépannage openclaw", "configuration de canal", "correction bot whatsapp", "bot discord ne répond pas", "imessage bluebubbles", "chiffrement matrix", "démon signal-cli", "état de la sonde de canal"]
----
+
 
   Configuration
 

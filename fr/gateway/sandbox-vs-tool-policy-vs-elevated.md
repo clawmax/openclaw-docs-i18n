@@ -1,7 +1,4 @@
-title: "OpenClaw Sandbox vs Politique d'outils vs Contrôles de sécurité élevés"
-description: "Apprenez les différences entre le sandbox d'OpenClaw, la politique d'outils et les contrôles élevés. Comprenez où les outils s'exécutent, lesquels sont autorisés et comment utiliser la trappe d'exécution (exec escape hatch)."
-keywords: ["sandbox openclaw", "politique d'outils", "mode élevé", "contrôles de sécurité", "sandbox jail", "montages docker", "liste d'autorisation d'outils", "configuration d'agent"]
----
+
 
   Sécurité et sandboxing
 

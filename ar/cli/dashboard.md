@@ -1,7 +1,4 @@
-title: "استخدام وأوامر لوحة تحكم OpenClaw CLI"
-description: "تعلم كيفية فتح لوحة تحكم واجهة التحكم OpenClaw عبر CLI، وإدارة أمان الرمز المميز، واستخدام علم --no-open. يتضمن ملاحظات حول التعامل مع SecretRef."
-keywords: ["openclaw dashboard", "لوحة تحكم cli", "واجهة التحكم", "رمز مصادقة gateway", "secretref", "أمان cli", "openclaw cli"]
----
+
 
   أوامر CLI
 

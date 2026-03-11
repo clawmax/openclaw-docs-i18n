@@ -1,7 +1,4 @@
-title: "Configurer Firecrawl pour l'extraction de contenu web dans OpenClaw"
-description: "Apprenez à configurer et utiliser Firecrawl comme extracteur web de secours dans OpenClaw pour scraper des sites riches en JavaScript avec contournement de bots et mise en cache."
-keywords: ["firecrawl", "scraping web", "extraction de contenu", "outils openclaw", "contournement de bot", "configuration api", "récupération web", "mode proxy"]
----
+
 
   Outils intégrés
 

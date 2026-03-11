@@ -1,7 +1,4 @@
-title: "Guide des nœuds OpenClaw pour périphériques multimédias et hôtes distants"
-description: "Apprenez à configurer et gérer les nœuds OpenClaw pour les captures d'écran, la caméra, la localisation, les SMS et l'exécution de commandes à distance. Inclut l'appairage, les commandes CLI et le dépannage."
-keywords: ["nœuds openclaw", "appairage de périphérique", "hôte de nœud distant", "instantané de toile", "commandes caméra", "nœuds android", "system.run", "protocole de passerelle"]
----
+
 
   Médias et périphériques
 

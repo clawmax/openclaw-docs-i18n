@@ -1,7 +1,4 @@
-title: "Guide de connexion manuelle pour le navigateur OpenClaw"
-description: "Apprenez le processus de connexion manuelle recommandé pour le navigateur OpenClaw afin d'éviter la détection des bots. Comprenez l'utilisation du profil Chrome et le sandboxing pour des sites comme X/Twitter."
-keywords: ["connexion navigateur openclaw", "connexion manuelle", "profil chrome", "navigateur sandbox", "évitement détection bot", "connexion x twitter", "contrôle navigateur hôte", "automatisation navigateur"]
----
+
 
   Navigateur
 

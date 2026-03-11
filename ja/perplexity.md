@@ -1,7 +1,4 @@
-title: "OpenClawでPerplexity Sonar Web検索を設定する"
-description: "Perplexity SonarをOpenClawの`web_search`ツールで使用する方法を学びます。直接APIまたはOpenRouter経由での接続、設定例、モデルオプションを含みます。"
-keywords: ["perplexity sonar", "openclaw web検索", "perplexity api", "openrouter", "web検索ツール", "sonar-pro", "api設定", "検索プロバイダー"]
----
+
 
   組み込みツール
 

@@ -1,7 +1,4 @@
-title: "Comment configurer Discord pour l'agent IA OpenClaw"
-description: "Apprenez à connecter votre agent IA OpenClaw à Discord. Guide étape par étape pour la création de bot, la configuration du token, l'appairage au serveur et la configuration des canaux de guilde."
-keywords: ["configuration bot discord", "openclaw discord", "agent ia discord", "passerelle discord", "configuration token bot", "canaux de guilde discord", "appairage discord", "canaux de forum discord"]
----
+
 
   Plateformes de messagerie
 

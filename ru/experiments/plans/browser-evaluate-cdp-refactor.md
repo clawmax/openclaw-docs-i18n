@@ -1,7 +1,4 @@
-title: "План рефакторинга Browser Evaluate с использованием CDP для изолированного выполнения JavaScript"
-description: "Узнайте план рефакторинга act:evaluate с использованием CDP, чтобы предотвратить блокировку действий браузера зависшим JavaScript. Гарантирует надежные таймауты и сохраняет обратную совместимость."
-keywords: ["cdp", "browser evaluate", "playwright", "таймаут", "выполнение javascript", "рефакторинг", "chromium devtools protocol", "act evaluate"]
----
+
 
   Эксперименты
 

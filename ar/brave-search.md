@@ -1,7 +1,4 @@
-title: "تكوين Brave Search كمزود بحث ويب في OpenClaw"
-description: "تعلم كيفية إعداد واستخدام واجهة برمجة تطبيقات Brave Search مع أداة web_search في OpenClaw. احصل على تعليمات مفتاح API، وأمثلة للتكوين، وتفاصيل المعلمات."
-keywords: ["brave search", "openclaw", "بحث ويب", "مفتاح api", "مزود بحث", "تكوين", "brave api", "أدوات ويب"]
----
+
 
   أدوات مدمجة
 

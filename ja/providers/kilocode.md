@@ -1,7 +1,4 @@
-title: "OpenClaw Kilocode プロバイダー設定：APIキーとモデル"
-description: "OpenClawでKilocodeプロバイダーを設定し、APIキーを取得し、統合されたKilo Gatewayを使用して複数のAIモデルにアクセスする方法を学びます。"
-keywords: ["kilocode", "kilo gateway", "openclaw プロバイダー", "統合api", "モデルルーティング", "apiキー設定", "claude sonnet", "gpt-5.2"]
----
+
 
   プロバイダー
 

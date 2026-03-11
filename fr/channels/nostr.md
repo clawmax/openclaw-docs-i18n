@@ -1,7 +1,4 @@
-title: "Guide de configuration et d'utilisation du canal Nostr OpenClaw"
-description: "Apprenez à installer, configurer et utiliser le canal Nostr OpenClaw pour les messages directs chiffrés. Inclut les étapes de configuration, le contrôle d'accès et le dépannage."
-keywords: ["nostr", "openclaw", "messagerie décentralisée", "messages directs chiffrés", "nip-04", "bot nostr", "plugin de canal", "messages directs"]
----
+
 
   Plateformes de messagerie
 

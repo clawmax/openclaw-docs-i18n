@@ -1,7 +1,4 @@
-title: "Guide du modèle OpenClaw AI Tools pour la configuration de l'environnement"
-description: "Apprenez à configurer les détails spécifiques de votre environnement comme les caméras, les hôtes SSH et les préférences TTS en utilisant le modèle TOOLS d'OpenClaw. Gardez votre configuration privée."
-keywords: ["modèle openclaw tools", "configuration d'agent IA", "configuration de l'environnement", "configuration de caméra", "alias SSH", "préférences TTS", "surnoms d'appareils", "personnalisation des compétences"]
----
+
 
   Modèles
 

@@ -1,7 +1,4 @@
-title: "Outil de Tâche LLM pour Sortie JSON Structurée dans OpenClaw"
-description: "Apprenez à utiliser le plugin optionnel LLM Task pour exécuter des tâches IA en JSON uniquement avec validation de schéma. Idéal pour les moteurs de workflow comme Lobster."
-keywords: ["tâche llm", "validation de schéma json", "plugin openclaw", "sortie llm structurée", "workflow lobster", "outil de tâche ia", "plugin optionnel", "llm json uniquement"]
----
+
 
   Outils intégrés
 

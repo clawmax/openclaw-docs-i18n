@@ -1,7 +1,4 @@
-title: "Guía de configuración y uso de la integración de OpenClaw con Slack"
-description: "Aprende a configurar la integración de OpenClaw con Slack. Configura tokens, control de acceso, comandos, hilos y acciones para MDs y canales."
-keywords: ["integración con slack", "openclaw slack", "configuración de bot de slack", "configuración de slack", "canales de slack", "comandos de slack", "api de slack", "modo socket"]
----
+
 
   Plataformas de mensajería
 

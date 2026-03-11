@@ -1,7 +1,4 @@
-title: "Bibliothèque de schémas TypeBox pour le protocole WebSocket Gateway"
-description: "Découvrez comment TypeBox définit le protocole WebSocket Gateway pour la validation à l'exécution, l'exportation JSON Schema et la génération de code Swift. Suivez un guide étape par étape pour ajouter de nouvelles méthodes."
-keywords: ["typebox", "protocole websocket", "validation de schéma", "schéma typescript", "génération de code swift", "architecture gateway", "json schema", "validation à l'exécution"]
----
+
 
   Détails internes des concepts
 

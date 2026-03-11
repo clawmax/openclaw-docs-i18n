@@ -1,7 +1,4 @@
-title: "Guide d'installation et d'utilisation du plugin Zalo Personnel pour OpenClaw"
-description: "Apprenez à installer, configurer et utiliser le plugin Zalo Personnel pour OpenClaw afin d'automatiser un compte utilisateur Zalo personnel via l'interface CLI et les outils d'agent."
-keywords: ["plugin zalo personnel", "openclaw zalouser", "automatisation zalo", "installation plugin openclaw", "compte utilisateur zalo", "configuration de canal", "openclaw cli", "chatbot zalo"]
----
+
 
   Extensions
 

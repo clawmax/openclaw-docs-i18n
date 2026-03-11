@@ -1,7 +1,4 @@
-title: "دليل إعداد تطبيق OpenClaw لنظام Android ونظرة عامة على المنصة"
-description: "تعلم كيفية إعداد عقدة الرفيق OpenClaw لنظام Android، وتوصيلها بالبوابة، واستخدام ميزات مثل الدردشة واللوحة والكاميرا والصوت."
-keywords: ["openclaw android", "إعداد عقدة android", "إقران البوابة", "تطبيق رفيق android", "بوابة openclaw", "لوحة android", "التحكم الصوتي في android", "tailscale android"]
----
+
 
   نظرة عامة على المنصات
 

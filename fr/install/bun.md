@@ -1,7 +1,4 @@
-title: "Guide d'installation d'OpenClaw avec le runtime expérimental Bun"
-description: "Apprenez à installer et exécuter OpenClaw en utilisant Bun pour le développement local. Couvre l'installation, les commandes de build, les scripts de cycle de vie et les mises en garde importantes."
-keywords: ["bun", "installation openclaw", "runtime expérimental", "bun install", "scripts de cycle de vie bun", "alternative pnpm", "runtime typescript"]
----
+
 
   Autres méthodes d'installation
 

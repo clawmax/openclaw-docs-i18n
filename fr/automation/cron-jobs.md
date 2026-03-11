@@ -1,7 +1,4 @@
-title: "Guide des tâches cron OpenClaw : Planification et automatisation"
-description: "Apprenez à planifier des tâches automatisées avec les tâches cron OpenClaw. Configurez des rappels ponctuels, des tâches récurrentes et choisissez entre les modes d'exécution principal ou isolé."
-keywords: ["cron openclaw", "planification automatisation", "tâches cron", "planificateur gateway", "tour d'agent isolé", "événements système", "tâches récurrentes", "livraison de job"]
----
+
 
   Automatisation
 

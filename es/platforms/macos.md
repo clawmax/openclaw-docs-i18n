@@ -1,7 +1,4 @@
-title: "Guía de la aplicación OpenClaw para macOS: Aplicación de barra de menú y Gateway"
-description: "Aprende a usar la aplicación de barra de menú de OpenClaw para macOS para gestionar permisos, conectarte al Gateway y exponer capacidades de macOS como Canvas y Grabación de Pantalla a agentes de IA."
-keywords: ["openclaw macos", "aplicación barra de menú macos", "conexión gateway", "permisos tcc macos", "aprobaciones system.run", "modo remoto ssh", "control launchd", "automatización canvas"]
----
+
 
   Descripción general de plataformas
 

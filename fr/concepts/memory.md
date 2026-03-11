@@ -1,7 +1,4 @@
-title: "Gestion de la mémoire OpenClaw : Sessions, outils et recherche vectorielle"
-description: "Découvrez comment fonctionne la mémoire OpenClaw avec les fichiers Markdown, les outils de recherche en mémoire et l'indexation vectorielle. Configurez la purge automatique de la mémoire et le backend expérimental QMD."
-keywords: ["mémoire openclaw", "mémoire de l'agent", "recherche mémoire vectorielle", "outils de mémoire", "compaction de session", "backend qmd", "mémoire markdown", "gestion de la mémoire"]
----
+
 
   Sessions et mémoire
 

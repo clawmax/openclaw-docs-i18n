@@ -1,7 +1,4 @@
-title: "Исследование памяти OpenClaw: Архитектура Offline-First для Recall агентов"
-description: "Узнайте о предлагаемой offline-first системе памяти для агентов OpenClaw, сочетающей Markdown как источник истины со структурированным recall для высококачественного поиска и сводок по сущностям."
-keywords: ["память openclaw", "архитектура памяти агента", "offline-first память", "структурированный recall", "markdown память", "исследование памяти", "retain recall reflect", "sqlite fts"]
----
+
 
   Эксперименты
 

@@ -1,7 +1,4 @@
-title: "دليل استكشاف أخطاء قناة OpenClaw لـ WhatsApp و Discord و iMessage"
-description: "إصلاح القنوات المتصلة ذات السلوك الخاطئ. حلول خطوة بخطوة لمشاكل WhatsApp و Discord و iMessage و BlueBubbles و Matrix و Signal."
-keywords: ["استكشاف أخطاء openclaw", "تكوين القناة", "إصلاح بوت واتساب", "بوت ديسكورد لا يستجيب", "iMessage bluebubbles", "تشفير Matrix", "برنامج signal-cli الخفي", "حالة فحص القناة"]
----
+
 
   التكوين
 

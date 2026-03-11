@@ -1,7 +1,4 @@
-title: "Руководство по команде message в OpenClaw CLI для многоканальной отправки сообщений"
-description: "Научитесь использовать команду message в OpenClaw CLI для отправки сообщений, опросов и реакций через Discord, Slack, WhatsApp, Telegram и другие платформы."
-keywords: ["openclaw cli", "команда message", "многоканальная отправка сообщений", "discord бот", "автоматизация slack", "опрос в telegram", "whatsapp api", "автоматизация cli"]
----
+
 
   Команды CLI
 

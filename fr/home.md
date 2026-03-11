@@ -1,7 +1,4 @@
-title: "OpenClaw - Passerelle d'agent IA auto-hébergée pour WhatsApp Telegram Discord"
-description: "OpenClaw est une passerelle auto-hébergée connectant WhatsApp, Telegram, Discord et iMessage à des agents d'IA de codage. Apprenez à installer et configurer votre assistant IA personnel."
-keywords: ["openclaw", "ia auto-hébergée", "passerelle d'agent ia", "bot whatsapp", "bot telegram", "bot discord", "assistant ia", "passerelle multi-canaux"]
----
+
 
   Accueil
 
@@ -13,7 +10,7 @@ keywords: ["openclaw", "ia auto-hébergée", "passerelle d'agent ia", "bot whats
 
 > *"EXFOLIEZ ! EXFOLIEZ !"* — Un homard spatial, probablement
 
-  **Une passerelle multi-OS pour les agents IA sur WhatsApp, Telegram, Discord, iMessage, et plus.** Envoyez un message, recevez une réponse d'agent depuis votre poche. Les plugins ajoutent Mattermost et plus.
+**Une passerelle multi-OS pour les agents IA sur WhatsApp, Telegram, Discord, iMessage, et plus.** Envoyez un message, recevez une réponse d'agent depuis votre poche. Les plugins ajoutent Mattermost et plus.
 
   
   

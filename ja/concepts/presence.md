@@ -1,7 +1,4 @@
-title: "マルチエージェントシステム監視のためのOpenClaw Presenceコンセプト"
-description: "OpenClaw presenceについて学びましょう。これはGatewayと接続されたクライアントの軽量なビューです。そのフィールド、プロデューサー、マージルール、そしてどのようにInstancesタブを動かしているかを理解します。"
-keywords: ["openclaw presence", "マルチエージェント監視", "ゲートウェイクライアント", "instanceid", "system-presence", "websocket接続", "presence ttl", "macosインスタンストラブ"]
----
+
 
   マルチエージェント
 

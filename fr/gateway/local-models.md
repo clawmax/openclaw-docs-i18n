@@ -1,7 +1,4 @@
-title: "Configuration des modèles locaux pour OpenClaw Gateway avec LM Studio"
-description: "Apprenez à configurer et paramétrer des modèles d'IA locaux comme MiniMax M2.5 avec LM Studio pour OpenClaw Gateway, y compris les configurations hybrides et de secours."
-keywords: ["modèles locaux openclaw", "configuration lm studio", "minimax m2.5", "proxy local compatible openai", "configuration de la passerelle", "déploiement d'ia local", "secours de modèle hybride", "vllm litellm"]
----
+
 
   Protocoles et APIs
 

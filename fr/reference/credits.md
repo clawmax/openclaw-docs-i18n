@@ -1,7 +1,4 @@
-title: "Crédits du projet OpenClaw et contributeurs principaux"
-description: "Découvrez les créateurs et les contributeurs principaux d'OpenClaw, notamment Peter Steinberger et Mario Zechner, et consultez les crédits complets du projet."
-keywords: ["openclaw", "crédits du projet", "contributeurs", "peter steinberger", "mario zechner", "équipe principale", "licence mit", "homard spatial"]
----
+
 
   Projet
 

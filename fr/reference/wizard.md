@@ -1,7 +1,4 @@
-title: "Documentation technique et référence de l'assistant d'intégration OpenClaw"
-description: "Référence technique complète pour l'assistant CLI openclaw onboard. Apprenez le flux étape par étape pour la configuration locale, l'authentification, l'espace de travail, la passerelle et la configuration du démon."
-keywords: ["openclaw", "assistant d'intégration", "référence cli", "guide d'installation", "authentification", "configuration de la passerelle", "installation du démon", "configuration de l'espace de travail"]
----
+
 
   Référence technique
 

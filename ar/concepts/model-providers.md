@@ -1,7 +1,4 @@
-title: "تهيئة موفري النماذج في OpenClaw وإعداد مفاتيح API"
-description: "تعلم كيفية تكوين موفري LLM مثل OpenAI وAnthropic وGoogle في OpenClaw. قم بإعداد مفاتيح API، وتمكين تدوير المفاتيح، واستخدام المزودين المدمجين أو المخصصين."
-keywords: ["موفرو نماذج openclaw", "تهيئة llm", "تدوير مفتاح api", "إعداد openai anthropic", "موفرو نماذج مخصصون", "توثيق openclaw", "كتالوج موفري النماذج", "إعداد claude opus"]
----
+
 
   التكوين
 

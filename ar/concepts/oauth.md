@@ -1,7 +1,4 @@
-title: "دليل OAuth والمصادقة بالاشتراك في OpenClaw"
-description: "تعرف على كيفية عمل OAuth والمصادقة بالاشتراك في OpenClaw لـ OpenAI و Anthropic، بما في ذلك تخزين الرمز المميز، تدفقات التحديث، وإدارة حسابات متعددة."
-keywords: ["oauth", "مصادقة openclaw", "anthropic setup-token", "openai codex oauth", "ملفات تعريف المصادقة", "تخزين الرمز المميز", "pkce", "حسابات متعددة"]
----
+
 
   الأساسيات
 

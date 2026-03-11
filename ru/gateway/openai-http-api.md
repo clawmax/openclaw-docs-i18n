@@ -1,7 +1,4 @@
-title: "HTTP API OpenAI для Chat Completions в OpenClaw Gateway"
-description: "Узнайте, как включить и использовать совместимую с OpenAI конечную точку HTTP API для Chat Completions в OpenClaw Gateway, включая аутентификацию, безопасность и примеры."
-keywords: ["api openai", "chat completions", "openclaw gateway", "http api", "ai агент", "совместимость с openai", "интеграция api", "bearer аутентификация"]
----
+
 
   Протоколы и API
 

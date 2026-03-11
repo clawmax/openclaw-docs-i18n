@@ -1,7 +1,4 @@
-title: "Установка OpenClaw Gateway в rootless-контейнере Podman"
-description: "Узнайте, как установить и запустить шлюз OpenClaw AI в rootless-контейнере Podman. Включает скрипт настройки, службу systemd Quadlet и устранение неполадок."
-keywords: ["podman", "openclaw", "rootless контейнер", "ai шлюз", "systemd quadlet", "настройка контейнера", "установка openclaw", "руководство по podman"]
----
+
 
   Другие способы установки
 

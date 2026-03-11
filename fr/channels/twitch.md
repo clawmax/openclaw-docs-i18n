@@ -1,7 +1,4 @@
-title: "Guide d'installation et de configuration de l'intégration du chat Twitch avec OpenClaw"
-description: "Apprenez à configurer OpenClaw pour la prise en charge du chat Twitch. Connectez votre compte bot, générez des identifiants, gérez le contrôle d'accès et résolvez les problèmes courants."
-keywords: ["bot twitch", "openclaw twitch", "intégration chat twitch", "connexion irc", "jeton twitch", "configuration bot", "contrôle d'accès", "multi-compte"]
----
+
 
   Plateformes de messagerie
 

@@ -1,7 +1,4 @@
-title: "Plan de Agentes Vinculados a Hilos ACP para Experimentos OpenClaw"
-description: "Aprende cómo OpenClaw soporta agentes de codificación ACP en canales con capacidad de hilos como Discord con ciclo de vida de nivel de producción, recuperación y un plan de arquitectura híbrida."
-keywords: ["acp", "agentes vinculados a hilos", "openclaw", "integración con discord", "tiempo de ejecución de agentes", "gestión de sesiones", "arquitectura de enrutamiento", "plano de control"]
----
+
 
   Experimentos
 

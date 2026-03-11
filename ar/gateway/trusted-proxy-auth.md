@@ -1,7 +1,4 @@
-title: "دليل تكوين مصادقة الوكيل الموثوق في OpenClaw Gateway"
-description: "تعلّم كيفية تكوين OpenClaw Gateway بشكل آمن مع مصادقة الوكيل الموثوق للوكلاء العكسية الواعية بالهوية مثل Pomerium وCaddy وnginx."
-keywords: ["مصادقة الوكيل الموثوق", "openclaw gateway", "مصادقة الوكيل العكسي", "pomerium openclaw", "caddy oauth", "nginx oauth2-proxy", "وكيل واعٍ بالهوية", "مصادقة websocket"]
----
+
 
   التكوين والعمليات
 

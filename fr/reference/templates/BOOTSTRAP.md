@@ -1,7 +1,4 @@
-title: "Guide du modèle Bootstrap OpenClaw pour la configuration de l'identité IA"
-description: "Apprenez à utiliser le modèle BOOTSTRAP pour définir l'identité, la personnalité et la connexion utilisateur de votre assistant IA dans OpenClaw. Démarrez un espace de travail vierge."
-keywords: ["openclaw bootstrap", "configuration identité ia", "modèle assistant ia", "initialisation espace de travail", "configuration personnalité ia", "fichiers mémoire", "intégration utilisateur", "configuration chatbot ia"]
----
+
 
   Modèles
 

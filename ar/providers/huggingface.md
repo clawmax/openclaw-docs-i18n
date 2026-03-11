@@ -1,7 +1,4 @@
-title: "دليل إعداد وتكوين موفر Hugging Face في OpenClaw"
-description: "تعلم كيفية إعداد وتكوين موفر Hugging Face للاستدلال في OpenClaw. قم بتوصيل مفتاح API الخاص بك، واختر نماذج مثل DeepSeek وLlama، وخصص سياسات التوجيه."
-keywords: ["hugging face inference", "موفر openclaw", "deepseek", "llama", "واجهة برمجة تطبيقات متوافقة مع openai", "تكوين النموذج", "واجهة برمجة تطبيقات الموجه", "إكمالات الدردشة"]
----
+
 
   الموفرون
 

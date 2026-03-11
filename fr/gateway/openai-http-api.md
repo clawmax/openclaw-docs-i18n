@@ -1,7 +1,4 @@
-title: "API HTTP OpenAI pour les Chat Completions de la passerelle OpenClaw"
-description: "Apprenez à activer et utiliser le point de terminaison HTTP compatible OpenAI pour les Chat Completions dans la passerelle OpenClaw, y compris l'authentification, la sécurité et des exemples."
-keywords: ["api openai", "chat completions", "passerelle openclaw", "api http", "agent ia", "compatibilité openai", "intégration api", "authentification bearer"]
----
+
 
   Protocoles et APIs
 

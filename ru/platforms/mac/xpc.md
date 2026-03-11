@@ -1,7 +1,4 @@
-title: "Архитектура IPC XPC и приложения-компаньона OpenClaw для macOS"
-description: "Узнайте, как приложение-компаньон OpenClaw для macOS использует XPC и Unix-сокеты для безопасного IPC, разрешений TCC и автоматизации интерфейса через PeekabooBridge."
-keywords: ["macos xpc", "openclaw mac", "ipc unix socket", "разрешения tcc", "peekaboobridge", "приложение-компаньон macos", "сервис узла node", "автоматизация ui"]
----
+
 
   Приложение-компаньон для macOS
 

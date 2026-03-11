@@ -1,7 +1,4 @@
-title: "Architecture IPC XPC et application compagnon macOS d'OpenClaw"
-description: "Découvrez comment l'application compagnon macOS d'OpenClaw utilise XPC et les sockets Unix pour une IPC sécurisée, les permissions TCC et l'automatisation de l'interface utilisateur via PeekabooBridge."
-keywords: ["macos xpc", "openclaw mac", "ipc socket unix", "permissions tcc", "peekaboobridge", "application compagnon macos", "service hôte node", "automatisation ui"]
----
+
 
   Application compagnon macOS
 

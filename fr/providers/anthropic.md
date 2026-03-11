@@ -1,7 +1,4 @@
-title: "Configuration du fournisseur Anthropic pour OpenClaw : Clé API et jeton Claude"
-description: "Apprenez à authentifier OpenClaw avec Anthropic en utilisant une clé API ou un jeton setup-token. Configurez la mise en cache des prompts, les fenêtres de contexte de 1M et résolvez les problèmes courants."
-keywords: ["anthropic", "api claude", "configuration openclaw", "mise en cache des prompts", "setup-token", "fenêtre de contexte 1m", "claude 4.6", "bedrock claude"]
----
+
 
   Fournisseurs
 

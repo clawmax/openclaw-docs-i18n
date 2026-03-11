@@ -1,7 +1,4 @@
-title: "Guide de configuration du Heartbeat OpenClaw pour les tours d'agent automatisés"
-description: "Apprenez à configurer et utiliser le Heartbeat OpenClaw pour des vérifications périodiques de l'agent. Définissez les intervalles, personnalisez les invites, gérez les cibles de livraison et résolvez les problèmes des tâches automatisées."
-keywords: ["openclaw heartbeat", "automatisation d'agent", "tours d'agent périodiques", "configuration du heartbeat", "vérification automatisée", "session d'agent", "invite de heartbeat", "heures actives"]
----
+
 
   Configuration et opérations
 

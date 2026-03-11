@@ -1,7 +1,4 @@
-title: "Extension OpenProse pour les flux de travail IA dans OpenClaw"
-description: "Apprenez à utiliser OpenProse, un format markdown-first pour orchestrer des sessions IA multi-agents. Installez le plugin, exécutez les commandes slash et gérez l'état."
-keywords: ["openprose", "flux de travail ia", "multi-agent", "plugin openclaw", "prose.md", "format markdown", "commande slash", "gestion d'état"]
----
+
 
   Extensions
 

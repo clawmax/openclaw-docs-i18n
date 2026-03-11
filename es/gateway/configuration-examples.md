@@ -1,7 +1,4 @@
-title: "Ejemplos de Configuración y Guía de Configuración de OpenClaw Gateway"
-description: "Aprende a configurar la puerta de enlace de IA OpenClaw con ejemplos prácticos JSON, desde inicio rápido hasta configuraciones avanzadas para canales, herramientas y agentes."
-keywords: ["configuración de openclaw", "configuración de puerta de enlace", "configuración de agente de ia", "ejemplos json", "bot de whatsapp", "bot de discord", "bot multicanal", "espacio de trabajo del agente"]
----
+
 
   Configuración y operaciones
 

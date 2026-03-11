@@ -1,7 +1,4 @@
-title: "Configuration et modes des indicateurs de saisie OpenClaw"
-description: "Apprenez à configurer les indicateurs de saisie dans OpenClaw, y compris les modes instantané, réflexion et message. Contrôlez le démarrage de la saisie et sa cadence de rafraîchissement."
-keywords: ["indicateurs de saisie", "configuration openclaw", "paramètres par défaut des agents", "mode de saisie", "intervalle de saisie", "comportement du chat", "boucle du modèle", "delta de raisonnement"]
----
+
 
   Détails internes du concept
 

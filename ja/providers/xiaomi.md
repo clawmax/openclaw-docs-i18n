@@ -1,7 +1,4 @@
-title: "OpenClaw AI 向け Xiaomi MiMo プロバイダーのセットアップと設定"
-description: "OpenClaw AI で Xiaomi MiMo プロバイダーをセットアップおよび設定する方法を学びます。APIキー認証による Anthropic 互換 API で mimo-v2-flash モデルを使用します。"
-keywords: ["xiaomi mimo", "openclaw プロバイダー", "mimo-v2-flash", "anthropic api", "api キー認証", "モデル設定", "openclaw セットアップ", "xiaomi api"]
----
+
 
   プロバイダー
 

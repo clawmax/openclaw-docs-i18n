@@ -1,7 +1,4 @@
-title: "Gérer les tâches Cron pour le planificateur OpenClaw Gateway"
-description: "Apprenez à ajouter, modifier et gérer les tâches cron pour l'interface CLI OpenClaw. Configurez la livraison, la rétention et le contexte léger pour les tâches automatisées."
-keywords: ["openclaw cron", "tâches cron", "planificateur gateway", "automatisation cli", "planification de tâches", "automatisation de tâches", "gestion cron", "tâches isolées"]
----
+
 
   Commandes CLI
 

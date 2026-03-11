@@ -1,7 +1,4 @@
-title: "Comando Agent Send para Coordinación de Agentes OpenClaw"
-description: "Aprende a usar el comando openclaw agent send para ejecutar un solo turno de agente, gestionar sesiones y entregar respuestas a varios canales."
-keywords: ["agente openclaw", "coordinación de agentes", "comando cli", "agent send", "gestión de sesiones", "entrega de mensajes", "tiempo de ejecución embebido"]
----
+
 
   Coordinación de agentes
 

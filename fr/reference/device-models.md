@@ -1,7 +1,4 @@
-title: "Base de données des modèles d'appareils OpenClaw pour les identifiants Apple"
-description: "Découvrez comment OpenClaw associe les identifiants d'appareils Apple à des noms lisibles. Trouvez la source des données et les étapes pour mettre à jour la base de données des modèles iOS et macOS."
-keywords: ["identifiants d'appareils apple", "base de données des modèles d'appareils", "identifiants de modèles ios", "identifiants de modèles macos", "mappage des appareils openclaw", "modèles d'appareils rpc", "noms d'appareils api", "mappage des identifiants de modèles apple"]
----
+
 
   RPC et API
 

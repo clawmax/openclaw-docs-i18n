@@ -1,7 +1,4 @@
-title: "Support des plateformes OpenClaw pour macOS iOS Android Windows Linux"
-description: "Découvrez les plateformes prises en charge par OpenClaw, notamment macOS, Windows, Linux, iOS et Android. Trouvez des guides d'installation pour l'hébergement VPS et le service Gateway."
-keywords: ["plateformes openclaw", "installation de la passerelle", "hébergement vps", "application compagnon macos", "windows wsl2", "service systemd linux", "nœuds mobiles", "aperçu des plateformes"]
----
+
 
   Aperçu des plateformes
 

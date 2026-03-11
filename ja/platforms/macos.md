@@ -1,7 +1,4 @@
-title: "OpenClaw macOSアプリガイド：メニューバーコンパニオンとゲートウェイ"
-description: "OpenClaw macOSメニューバーアプリを使用して、権限を管理し、ゲートウェイに接続し、Canvasや画面録画などのmacOS機能をAIエージェントに公開する方法を学びます。"
-keywords: ["openclaw macos", "macos メニューバーアプリ", "ゲートウェイ接続", "macos 権限 tcc", "system.run 承認", "リモートモード ssh", "launchd 制御", "キャンバス自動化"]
----
+
 
   プラットフォーム概要
 

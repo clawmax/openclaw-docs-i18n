@@ -1,7 +1,4 @@
-title: "OpenClaw Gatewayの設定と使用のためのOpenResponses HTTP API"
-description: "OpenClaw GatewayでOpenResponses互換のPOST /v1/responsesエンドポイントを有効にして使用する方法を学びます。認証、セキュリティ、エージェント、ツール、ファイル処理の設定について説明します。"
-keywords: ["openresponses api", "openclaw gateway", "http api", "エージェント統合", "api認証", "クライアントツール", "ファイルアップロード", "ストリーミング sse"]
----
+
 
   プロトコルとAPI
 

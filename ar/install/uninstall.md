@@ -1,7 +1,4 @@
-title: "كيفية إلغاء تثبيت OpenClaw AI Gateway و CLI"
-description: "تعلم كيفية إلغاء تثبيت OpenClaw AI بالكامل. اتبع أدلة خطوة بخطوة للطريقة السهلة باستخدام CLI أو الإزالة اليدوية للخدمة على macOS و Linux و Windows."
-keywords: ["إلغاء تثبيت openclaw", "إزالة openclaw", "إزالة خدمة gateway", "إلغاء تثبيت openclaw cli", "حذف openclaw", "تنظيف openclaw", "دليل الإلغاء", "إزالة الخدمة"]
----
+
 
   الصيانة
 

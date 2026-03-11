@@ -1,7 +1,4 @@
-title: "OpenClaw Gatewayのディスカバリーとトランスポート方式の解説"
-description: "Bonjour、Tailnet、SSHを使用して、OpenClawがゲートウェイとコントロールアプリ間のネットワークディスカバリー、クライアントペアリング、トランスポート選択をどのように処理するか学びましょう。"
-keywords: ["openclaw", "ゲートウェイ", "ディスカバリー", "bonjour", "tailscale", "websocket", "ペアリング", "sshトランスポート"]
----
+
 
   ネットワーキングとディスカバリー
 

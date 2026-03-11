@@ -1,7 +1,4 @@
-title: "План внедрения OpenResponses Gateway для экспериментов OpenClaw"
-description: "Узнайте о плане реализации конечной точки API OpenResponses в OpenClaw Gateway, включая архитектуру, валидацию и путь к устареванию для Chat Completions."
-keywords: ["openresponses", "gateway", "api endpoint", "совместимость с openai", "стриминг", "эксперименты", "агентные рабочие процессы", "стандарт инференса"]
----
+
 
   Эксперименты
 

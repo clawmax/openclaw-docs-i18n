@@ -1,7 +1,4 @@
-title: "إعداد موفر Qwen في OpenClaw: المصادقة ومعرفات النماذج"
-description: "تعلم كيفية تمكين موفر Qwen في OpenClaw والمصادقة عليه واستخدامه للوصول المجاني إلى نماذج Qwen Coder و Vision."
-keywords: ["qwen", "openclaw", "موفر النماذج", "المصادقة", "oauth", "qwen coder", "qwen vision", "تكامل واجهة برمجة التطبيقات"]
----
+
 
   الموفرون
 

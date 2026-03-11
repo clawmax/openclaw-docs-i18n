@@ -1,7 +1,4 @@
-title: "Guide d'installation d'OpenClaw : Configuration système et méthodes"
-description: "Apprenez à installer OpenClaw avec le script recommandé, les étapes manuelles ou à partir des sources. Inclut les prérequis système, le dépannage et la vérification."
-keywords: ["installation openclaw", "guide d'installation", "script d'installation", "configuration système requise", "compilation depuis les sources", "cli openclaw", "dépannage", "node 22"]
----
+
 
   Aperçu de l'installation
 

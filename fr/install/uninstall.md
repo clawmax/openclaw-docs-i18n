@@ -1,7 +1,4 @@
-title: "Comment désinstaller OpenClaw AI Gateway et CLI"
-description: "Apprenez à désinstaller complètement OpenClaw AI. Suivez les guides étape par étape pour la méthode CLI facile ou la suppression manuelle des services sur macOS, Linux et Windows."
-keywords: ["désinstaller openclaw", "supprimer openclaw", "suppression du service gateway", "désinstaller openclaw cli", "effacer openclaw", "nettoyage openclaw", "guide de désinstallation", "suppression de service"]
----
+
 
   Maintenance
 

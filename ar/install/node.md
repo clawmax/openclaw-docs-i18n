@@ -1,7 +1,4 @@
-title: "تثبيت Node.js لمتطلبات وقت تشغيل OpenClaw AI"
-description: "تعلم كيفية تثبيت وتكوين Node.js 22+ لـ OpenClaw AI. تحقق من إصدارك، استخدم مدير الإصدارات، واستكشف أخطاء التثبيت الشائعة وإصلاحها."
-keywords: ["تثبيت node.js", "وقت تشغيل openclaw node", "مدير إصدارات node", "مسار npm العام", "fnm", "nvm", "استكشاف أخطاء openclaw", "node 22"]
----
+
 
   وقت تشغيل Node
 

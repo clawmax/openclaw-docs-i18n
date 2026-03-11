@@ -1,7 +1,4 @@
-title: "Автоматизация опросов для Telegram, WhatsApp, Discord и MS Teams"
-description: "Узнайте, как создавать опросы через CLI, RPC и инструменты Агента в Telegram, WhatsApp, Discord и MS Teams. Включает специфичные для каналов опции и примеры."
-keywords: ["автоматизация опросов", "опрос telegram", "опрос whatsapp", "опрос discord", "опрос msteams", "openclaw cli", "api опросов", "мультиканальные опросы"]
----
+
 
   Автоматизация
 

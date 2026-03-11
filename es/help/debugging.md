@@ -1,7 +1,4 @@
-title: "Ayudas de Depuración de OpenClaw para Salida en Streaming y Entorno"
-description: "Aprende a depurar OpenClaw con anulaciones en tiempo de ejecución, perfiles de desarrollo, registro de flujo sin procesar y modo de observación del gateway para iteración rápida."
-keywords: ["depuración de openclaw", "depuración de salida en streaming", "anulaciones en tiempo de ejecución", "perfil de desarrollo", "modo de observación del gateway", "registro de flujo sin procesar", "registro pi-mono", "configuración del entorno"]
----
+
 
   Entorno y depuración
 

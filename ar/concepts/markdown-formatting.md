@@ -1,7 +1,4 @@
-title: "مفاهيم تنسيق Markdown في OpenClaw وعرض القنوات"
-description: "تعرف على كيفية معالجة OpenClaw لـ Markdown إلى تمثيل وسيط مشترك (IR) لتنسيق متسق وآمن عبر Slack وTelegram وSignal. فهم التقسيم إلى أجزاء (chunking) ومعالجة الجداول وسياسات الروابط."
-keywords: ["تنسيق markdown", "openclaw", "تمثيل وسيط", "slack mrkdwn", "telegram html", "أنماط نص signal", "التقسيم إلى أجزاء", "تحويل الجداول"]
----
+
 
   تفاصيل المفاهيم الداخلية
 

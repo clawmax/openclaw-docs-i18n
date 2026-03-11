@@ -1,7 +1,4 @@
-title: "Vue d'ensemble de l'intégration OpenClaw : Assistant CLI et configuration de l'application macOS"
-description: "Apprenez à intégrer OpenClaw en utilisant l'assistant CLI ou l'application macOS. Choisissez votre chemin de configuration et configurez des fournisseurs d'IA personnalisés pour votre Gateway."
-keywords: ["intégration openclaw", "assistant cli", "configuration application macos", "fournisseur personnalisé", "configuration gateway", "compatible openai", "compatible anthropic", "chemins d'intégration"]
----
+
 
   Premières étapes
 

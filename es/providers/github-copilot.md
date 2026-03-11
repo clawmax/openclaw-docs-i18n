@@ -1,7 +1,4 @@
-title: "Cómo usar GitHub Copilot como proveedor de modelos en OpenClaw"
-description: "Aprende dos formas de integrar GitHub Copilot con OpenClaw: el proveedor integrado y el plugin Copilot Proxy. Incluye comandos de configuración."
-keywords: ["github copilot", "openclaw", "asistente de codificación ia", "proveedor de modelos", "copilot proxy", "configuración cli", "inicio de sesión auth", "gpt-4o"]
----
+
 
   Proveedores
 

@@ -1,7 +1,4 @@
-title: "Guide d'installation et d'utilisation de l'extension Chrome OpenClaw"
-description: "Apprenez à installer et utiliser l'extension Chrome OpenClaw pour permettre aux agents IA de contrôler vos onglets de navigateur existants via un seul bouton de barre d'outils."
-keywords: ["extension chrome openclaw", "automatisation du navigateur", "api chrome debugger", "relais cdp", "contrôle du navigateur par agent", "installer une extension non empaquetée", "jeton de passerelle", "outil de navigateur"]
----
+
 
   Navigateur
 

@@ -1,7 +1,4 @@
-title: "Guide de configuration et référence des outils de l'agent OpenClaw"
-description: "Apprenez à configurer, autoriser, refuser et gérer les outils de premier ordre d'OpenClaw pour le navigateur, le canvas, les nœuds, cron et les plugins avec des exemples détaillés."
-keywords: ["outils openclaw", "outils de l'agent", "configuration des outils", "profils d'outils", "groupes d'outils", "outil navigateur", "outil exec", "plugins d'outils"]
----
+
 
   Vue d'ensemble
 

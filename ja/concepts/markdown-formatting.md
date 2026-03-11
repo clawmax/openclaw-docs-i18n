@@ -1,7 +1,4 @@
-title: "OpenClaw Markdownフォーマットの概念とチャネルレンダリング"
-description: "OpenClawがMarkdownを共有中間表現（IR）に変換し、Slack、Telegram、Signalで一貫性と安全性を保ったフォーマットを行う方法を学びます。チャンキング、テーブル処理、リンクポリシーについて理解します。"
-keywords: ["markdownフォーマット", "openclaw", "中間表現", "slack mrkdwn", "telegram html", "signalテキストスタイル", "チャンキング", "テーブル変換"]
----
+
 
   概念の内部
 

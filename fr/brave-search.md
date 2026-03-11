@@ -1,7 +1,4 @@
-title: "Configurer Brave Search comme fournisseur de recherche web dans OpenClaw"
-description: "Apprenez à configurer et utiliser l'API Brave Search avec l'outil web_search d'OpenClaw. Instructions pour la clé API, exemples de configuration et détails des paramètres."
-keywords: ["brave search", "openclaw", "recherche web", "clé api", "fournisseur de recherche", "configuration", "api brave", "outils web"]
----
+
 
   Outils intégrés
 

@@ -1,7 +1,4 @@
-title: "Routage et Configuration Multi-Agents dans OpenClaw Gateway"
-description: "Apprenez à configurer plusieurs agents IA isolés avec des espaces de travail, des comptes de canaux et des règles de routage distincts dans OpenClaw pour gérer des personas et des sessions distinctes."
-keywords: ["routage multi-agent", "agents openclaw", "agents isolés", "liaisons de canaux", "espace de travail agent", "gestion de session", "routage whatsapp", "agents bot discord"]
----
+
 
   Multi-agent
 

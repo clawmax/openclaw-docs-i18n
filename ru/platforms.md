@@ -1,7 +1,4 @@
-title: "Поддержка платформ OpenClaw для macOS, iOS, Android, Windows, Linux"
-description: "Узнайте, какие платформы поддерживает OpenClaw, включая macOS, Windows, Linux, iOS и Android. Найдите руководства по установке для VPS-хостинга и службы Gateway."
-keywords: ["платформы openclaw", "установка gateway", "vps хостинг", "приложение-компаньон macos", "windows wsl2", "служба systemd linux", "мобильные узлы", "обзор платформ"]
----
+
 
   Обзор платформ
 

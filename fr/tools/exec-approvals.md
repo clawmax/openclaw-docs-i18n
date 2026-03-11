@@ -1,7 +1,4 @@
-title: "Guide des Approbations Exec pour la Sécurité des Agents IA OpenClaw"
-description: "Apprenez à configurer et utiliser les Approbations Exec pour contrôler en toute sécurité les commandes que vos agents IA peuvent exécuter sur les machines hôtes. Définissez des politiques, gérez les listes d'autorisation et traitez les invites utilisateur."
-keywords: ["approbations exec", "sécurité des agents", "liste d'autorisation de commandes", "exécution hôte", "garde-fou sandbox", "outils openclaw", "system.run", "flux de travail d'approbation"]
----
+
 
   Outils intégrés
 

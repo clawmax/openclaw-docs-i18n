@@ -1,7 +1,4 @@
-title: "Настройка и конфигурация провайдера OpenClaw Vercel AI Gateway"
-description: "Узнайте, как настроить OpenClaw с Vercel AI Gateway. Настройте ваш API-ключ, определите модели по умолчанию, такие как Claude Opus, и используйте сокращённые имена моделей для унифицированного доступа к ИИ."
-keywords: ["vercel ai gateway", "настройка openclaw", "claude opus", "api ключ ai gateway", "сокращённые имена моделей", "anthropic messages api", "провайдеры openclaw", "интеграция моделей ии"]
----
+
 
   Провайдеры
 

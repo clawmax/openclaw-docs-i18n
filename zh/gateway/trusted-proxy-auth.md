@@ -71,13 +71,13 @@
 
 ### 配置字段参考
 
-|| 字段 | 必填 | 说明 |
-|| --- | --- | --- |
-|| `gateway.trustedProxies` | 是 | 可信代理 IP 地址数组。来自其他 IP 的请求会被拒绝。 |
-|| `gateway.auth.mode` | 是 | 必须为 `"trusted-proxy"` |
-|| `gateway.auth.trustedProxy.userHeader` | 是 | 包含已认证用户身份的请求头名称 |
-|| `gateway.auth.trustedProxy.requiredHeaders` | 否 | 请求必须携带的额外请求头，才能被信任 |
-|| `gateway.auth.trustedProxy.allowUsers` | 否 | 用户身份白名单。留空表示允许所有已认证用户。 |
+| 字段 | 必填 | 说明 |
+| --- | --- | --- |
+| `gateway.trustedProxies` | 是 | 可信代理 IP 地址数组。来自其他 IP 的请求会被拒绝。 |
+| `gateway.auth.mode` | 是 | 必须为 `"trusted-proxy"` |
+| `gateway.auth.trustedProxy.userHeader` | 是 | 包含已认证用户身份的请求头名称 |
+| `gateway.auth.trustedProxy.requiredHeaders` | 否 | 请求必须携带的额外请求头，才能被信任 |
+| `gateway.auth.trustedProxy.allowUsers` | 否 | 用户身份白名单。留空表示允许所有已认证用户。 |
 
 ## TLS 终止与 HSTS
 

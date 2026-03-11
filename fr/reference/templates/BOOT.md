@@ -1,7 +1,4 @@
-title: "Guide du modèle BOOT d'OpenClaw pour les instructions de démarrage"
-description: "Apprenez à utiliser le modèle BOOT pour configurer le comportement au démarrage d'OpenClaw, y compris l'activation des crochets internes et l'utilisation de l'outil de message."
-keywords: ["modèle de démarrage openclaw", "configuration de démarrage", "crochets internes", "outil de message", "no_reply", "modèles d'agent", "documentation openclaw", "automatisation des tâches"]
----
+
 
   Modèles
 

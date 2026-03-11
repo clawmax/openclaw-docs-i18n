@@ -1,7 +1,4 @@
-title: "Guía y Referencia de Configuración de Herramientas del Agente OpenClaw"
-description: "Aprende a configurar, permitir, denegar y gestionar las herramientas de primera clase del agente OpenClaw para navegador, canvas, nodos, cron y plugins con ejemplos detallados."
-keywords: ["herramientas openclaw", "herramientas de agente", "configuración de herramientas", "perfiles de herramientas", "grupos de herramientas", "herramienta de navegador", "herramienta exec", "plugins de herramientas"]
----
+
 
   Descripción general
 

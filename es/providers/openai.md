@@ -1,7 +1,4 @@
-title: "Configuración del Proveedor OpenAI para Clave API de OpenClaw y Codex"
-description: "Aprende a configurar claves API de OpenAI o OAuth de Codex en OpenClaw. Configura modelos GPT, gestiona el transporte y habilita la compactación del lado del servidor."
-keywords: ["openai", "openclaw", "clave api", "codex", "gpt-5.4", "oauth", "websocket", "api de respuestas"]
----
+
 
   Proveedores
 

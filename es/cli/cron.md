@@ -1,7 +1,4 @@
-title: "Gestionar trabajos Cron para el programador de OpenClaw Gateway"
-description: "Aprende a añadir, editar y gestionar trabajos cron para la CLI de OpenClaw. Configura entrega, retención y contexto ligero para tareas automatizadas."
-keywords: ["openclaw cron", "trabajos cron", "programador de gateway", "automatización cli", "programación de trabajos", "automatización de tareas", "gestión de cron", "trabajos aislados"]
----
+
 
   Comandos CLI
 

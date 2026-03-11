@@ -1,7 +1,4 @@
-title: "Configurer Deepgram pour la transcription audio dans OpenClaw"
-description: "Apprenez à configurer et utiliser le fournisseur Deepgram pour la transcription des messages audio et vocaux entrants dans OpenClaw, y compris la configuration de la clé API et les options."
-keywords: ["deepgram", "reconnaissance vocale", "transcription audio", "openclaw", "notes vocales", "nova-3", "configuration fournisseur", "traitement audio"]
----
+
 
   Fournisseurs
 

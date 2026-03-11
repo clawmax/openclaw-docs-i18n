@@ -1,7 +1,4 @@
-title: "دليل استضافة VPS ونشر OpenClaw"
-description: "تعلم كيفية نشر OpenClaw على مزودي VPS مثل Railway وOracle Cloud وFly.io. أدلة الإعداد، نصائح الأمان، وضبط الأداء للوكلاء السحابية."
-keywords: ["استضافة vps", "نشر openclaw", "بوابة سحابية", "railway", "oracle cloud", "ضبط systemd", "العقد", "تحسين arm"]
----
+
 
   الاستضافة والنشر
 

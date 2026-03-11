@@ -1,7 +1,4 @@
-title: "Modèles et affirmations de vérification formelle de sécurité OpenClaw"
-description: "Explorez les modèles de sécurité formels et les affirmations vérifiables d'OpenClaw pour l'autorisation, l'isolation des sessions et le contrôle des outils. Apprenez à reproduire les résultats et à comprendre les garanties de sécurité."
-keywords: ["vérification formelle", "modèles de sécurité", "tla+", "sécurité openclaw", "vérification de modèle", "isolation de session", "autorisation", "exposition de la passerelle"]
----
+
 
   Sécurité
 

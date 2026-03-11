@@ -1,7 +1,4 @@
-title: "Basculement de modèle et rotation des profils d'authentification dans OpenClaw"
-description: "Apprenez comment OpenClaw gère les pannes avec la rotation des profils d'authentification et la bascule de modèle. Configurez les périodes de refroidissement, les désactivations de facturation et l'affinité de session pour des opérations d'IA fiables."
-keywords: ["basculement de modèle", "profil d'authentification", "openclaw", "refroidissement", "désactivation de facturation", "rotation oauth", "gestion des limites de débit", "affinité de session"]
----
+
 
   Configuration
 

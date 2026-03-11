@@ -1,7 +1,4 @@
-title: "Guide et référence du modèle UTILISATEUR OpenClaw AI"
-description: "Apprenez à utiliser le modèle UTILISATEUR pour comprendre et documenter les détails clés concernant la personne que vous aidez avec OpenClaw AI."
-keywords: ["openclaw ai", "modèle utilisateur", "documentation de persona", "contexte utilisateur", "configuration assistant IA", "profil utilisateur", "modèle help desk", "notes utilisateur"]
----
+
 
   Modèles
 

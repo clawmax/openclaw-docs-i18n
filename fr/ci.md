@@ -1,7 +1,4 @@
-title: "Documentation du pipeline CI OpenClaw et aperçu des jobs"
-description: "Découvrez le pipeline CI OpenClaw, son smart scoping, les objectifs des jobs et les commandes locales équivalentes pour les vérifications, tests et releases."
-keywords: ["pipeline ci", "intégration continue", "smart scoping", "jobs ci", "commandes de développement local", "pnpm check", "runner blacksmith", "workflow de contribution"]
----
+
 
   Contribuer
 

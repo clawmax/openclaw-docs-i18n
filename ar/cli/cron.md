@@ -1,7 +1,4 @@
-title: "إدارة مهام Cron لجدولة OpenClaw Gateway"
-description: "تعلم كيفية إضافة وتحرير وإدارة مهام cron لـ OpenClaw CLI. قم بتكوين التسليم والاحتفاظ والسياق خفيف الوزن للمهام الآلية."
-keywords: ["openclaw cron", "مهام cron", "جدولة gateway", "أتمتة cli", "جدولة المهام", "أتمتة المهام", "إدارة cron", "مهام معزولة"]
----
+
 
   أوامر CLI
 

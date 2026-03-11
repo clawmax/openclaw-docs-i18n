@@ -1,7 +1,4 @@
-title: "Outil Apply Patch pour les modifications multi-fichiers dans OpenClaw AI"
-description: "Apprenez à utiliser l'outil apply_patch pour effectuer des modifications de code structurées et multi-fichiers en toute sécurité. Idéal pour les modifications complexes utilisant un format de patch."
-keywords: ["apply_patch", "outil de patch", "modifications multi-fichiers", "patch structuré", "outils openclaw", "opérations sur fichiers", "édition de code", "gestion d'espace de travail"]
----
+
 
   Outils intégrés
 

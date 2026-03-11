@@ -1,7 +1,4 @@
-title: "macOS OpenClaw Gateway セットアップと launchd サービス管理"
-description: "openclaw CLI のインストール方法と、OpenClaw コンパニオンアプリ用に Gateway を macOS launchd サービスとして設定する方法を学びます。バージョンチェックとトラブルシューティングを含みます。"
-keywords: ["macos openclaw", "gateway セットアップ", "launchd サービス", "openclaw cli", "macos コンパニオンアプリ", "ローカル gateway", "node gateway", "サービス管理"]
----
+
 
   macOS コンパニオンアプリ
 

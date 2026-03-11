@@ -1,7 +1,4 @@
-title: "Руководство по интеграции BlueBubbles iMessage для OpenClaw AI"
-description: "Узнайте, как настроить и сконфигурировать канал BlueBubbles для интеграции iMessage с OpenClaw AI, включая расширенные функции, такие как реакции, редактирование и управление группами."
-keywords: ["bluebubbles", "интеграция imessage", "openclaw", "мессенджер macos", "настройка bluebubbles", "автоматизация imessage", "вебхук bluebubbles", "бот imessage"]
----
+
 
   Платформы обмена сообщениями
 

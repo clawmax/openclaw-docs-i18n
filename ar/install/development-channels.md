@@ -1,7 +1,4 @@
-title: "دليل قنوات تطوير OpenClaw: Stable، Beta، Dev، وطريقة التثبيت"
-description: "تعلّم كيفية التبديل بين قنوات التحديث Stable و Beta و Dev في OpenClaw باستخدام npm dist-tags أو git. إدارة مصادر الإضافات وفهم أفضل ممارسات وضع العلامات."
-keywords: ["openclaw", "قنوات التطوير", "قنوات التحديث", "npm dist-tag", "تثبيت النسخة التجريبية", "git checkout", "القناة المستقرة", "قناة التطوير"]
----
+
 
   متقدم
 

@@ -1,7 +1,4 @@
-title: "Modèle de Menace de Sécurité OpenClaw AI Utilisant le Cadre MITRE ATLAS"
-description: "Analysez les menaces adverses pour les plateformes d'agents IA avec notre modèle de menace MITRE ATLAS. Découvrez l'injection de prompt, les attaques de chaîne d'approvisionnement des compétences et les mesures d'atténuation."
-keywords: ["mitre atlas", "sécurité ia", "modèle de menace", "injection de prompt", "sécurité llm", "menaces adverses", "compromission de la chaîne d'approvisionnement", "sécurité openclaw"]
----
+
 
   Sécurité
 

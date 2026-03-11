@@ -1,7 +1,4 @@
-title: "Pont CLI OpenClaw ACP pour l'intégration du protocole Agent Client"
-description: "Apprenez à utiliser le pont CLI OpenClaw ACP pour connecter des IDE via le protocole Agent Client à une passerelle. Configurez des sessions, déboguez avec le client et configurez l'éditeur Zed."
-keywords: ["openclaw acp", "protocole agent client", "pont cli", "websocket de passerelle", "configuration éditeur zed", "gestion de session", "débogage client acp", "intégration ide"]
----
+
 
   Commandes CLI
 

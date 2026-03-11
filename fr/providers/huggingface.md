@@ -1,7 +1,4 @@
-title: "Guide de configuration et d'installation du fournisseur Hugging Face pour OpenClaw"
-description: "Apprenez à configurer et paramétrer le fournisseur d'inférence Hugging Face dans OpenClaw. Connectez votre clé API, choisissez des modèles comme DeepSeek et Llama, et personnalisez les politiques de routage."
-keywords: ["inférence hugging face", "fournisseur openclaw", "deepseek", "llama", "api compatible openai", "configuration de modèle", "api routeur", "chat completions"]
----
+
 
   Fournisseurs
 

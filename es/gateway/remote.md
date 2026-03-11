@@ -1,7 +1,4 @@
-title: "Configuración de Acceso Remoto para OpenClaw Gateway mediante SSH y VPN"
-description: "Aprende a configurar el acceso remoto al OpenClaw Gateway usando túneles SSH, Tailscale y VPNs para una conectividad de agente segura y siempre activa."
-keywords: ["acceso remoto openclaw", "túnel ssh gateway", "tailscale vpn", "websocket remoto", "agente siempre activo", "ssh remoto macos", "seguridad gateway", "configuración remota cli"]
----
+
 
   Acceso remoto
 

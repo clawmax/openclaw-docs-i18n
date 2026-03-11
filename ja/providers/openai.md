@@ -1,7 +1,4 @@
-title: "OpenClaw APIキーとCodexのためのOpenAIプロバイダー設定"
-description: "OpenClawでOpenAI APIキーまたはCodex OAuthを設定する方法を学びます。GPTモデルの設定、トランスポートの管理、サーバーサイド圧縮の有効化を行います。"
-keywords: ["openai", "openclaw", "apiキー", "codex", "gpt-5.4", "oauth", "websocket", "responses api"]
----
+
 
   プロバイダー
 

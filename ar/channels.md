@@ -1,7 +1,4 @@
-title: "نظرة عامة على قنوات الدردشة في OpenClaw ودليل الإعداد"
-description: "تعلم كيفية ربط OpenClaw بتطبيقات الدردشة مثل iMessage وWhatsApp وDiscord وTelegram. قارن الميزات واحصل على تعليمات الإعداد لجميع القنوات المدعومة."
-keywords: ["قنوات openclaw", "تكامل تطبيقات الدردشة", "بوت iMessage", "بوت WhatsApp", "بوت Discord", "بوت Telegram", "إعداد Bluebubbles", "بوت دردشة متعدد القنوات"]
----
+
 
   نظرة عامة
 

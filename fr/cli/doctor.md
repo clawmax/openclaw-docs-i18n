@@ -1,7 +1,4 @@
-title: "Commande CLI OpenClaw Doctor pour les vérifications de santé et les corrections rapides"
-description: "Apprenez à utiliser la commande openclaw doctor pour exécuter des vérifications de santé, réparer des problèmes et dépanner votre passerelle et vos canaux. Inclut des exemples et des conseils pour macOS."
-keywords: ["openclaw doctor", "vérification de santé cli", "dépannage passerelle", "réparation cli", "dépannage openclaw", "macos launchctl", "commandes cli", "diagnostics système"]
----
+
 
   Commandes CLI
 

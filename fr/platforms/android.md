@@ -1,7 +1,4 @@
-title: "Guide de configuration de l'application Android OpenClaw et présentation de la plateforme"
-description: "Apprenez à configurer le nœud compagnon OpenClaw Android, à le connecter à une passerelle, et à utiliser des fonctionnalités comme le chat, le canevas, l'appareil photo et la voix."
-keywords: ["openclaw android", "configuration nœud android", "appairage passerelle", "application compagnon android", "passerelle openclaw", "canevas android", "commande vocale android", "tailscale android"]
----
+
 
   Aperçu des plateformes
 

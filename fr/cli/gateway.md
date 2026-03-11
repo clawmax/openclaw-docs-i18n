@@ -1,7 +1,4 @@
-title: "Guide et référence des commandes CLI de la passerelle OpenClaw"
-description: "Apprenez à exécuter, interroger, gérer et découvrir le serveur WebSocket de la passerelle OpenClaw à l'aide des commandes CLI. Inclut les options, la gestion des services et l'utilisation RPC."
-keywords: ["passerelle openclaw", "serveur websocket", "commandes cli", "gestion de passerelle", "découverte de passerelle", "rpc de passerelle", "service de passerelle", "découverte bonjour"]
----
+
 
   Commandes CLI
 

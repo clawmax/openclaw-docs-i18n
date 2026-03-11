@@ -1,7 +1,4 @@
-title: "OpenClaw AI テストガイド: コマンド、ベンチマーク、Docker"
-description: "OpenClaw AI のテスト実行方法を学びます。ユニットテスト、統合テスト、ライブテストのほか、カバレッジ、ベンチマーク、Docker ベースの E2E テストのコマンドを紹介します。"
-keywords: ["openclaw テスト", "vitest コマンド", "docker e2e テスト", "テストカバレッジ", "cli ベンチマーク", "ゲートウェイ統合", "pnpm test", "モデルレイテンシベンチ"]
----
+
 
   リリースノート
 

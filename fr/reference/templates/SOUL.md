@@ -1,7 +1,4 @@
-title: "Modèle SOUL pour les Assistants IA - Vérités Fondamentales et Limites"
-description: "Découvrez les principes du modèle SOUL pour construire un assistant IA utile, avec des opinions et digne de confiance. Comprenez les vérités fondamentales, les limites et l'état d'esprit opérationnel."
-keywords: ["modèle soul", "principes assistant ia", "vérités fondamentales", "limites ia", "personnalité ia", "lignes directrices assistant", "confiance ia", "comportement ia"]
----
+
 
   Modèles
 

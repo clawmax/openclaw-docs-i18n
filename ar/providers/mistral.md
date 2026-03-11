@@ -1,7 +1,4 @@
-title: "تكوين مزود Mistral AI لنماذج OpenClaw والصوت"
-description: "تعلم كيفية إعداد Mistral AI و Voxtral في OpenClaw لتوليد النصوص، وتحويل الصوت إلى نص، وتضمينات الذاكرة. يتضمن أمثلة لسطر الأوامر والتكوين."
-keywords: ["mistral ai", "openclaw", "voxtral", "تحويل الصوت إلى نص", "مزود llm", "تضمينات الذاكرة", "تكوين api", "مفتاح api لـ mistral"]
----
+
 
   المزودون
 

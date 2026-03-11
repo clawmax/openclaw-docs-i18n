@@ -1,7 +1,4 @@
-title: "Liste des plugins communautaires OpenClaw et guide de soumission"
-description: "Découvrez des plugins communautaires de haute qualité pour OpenClaw et apprenez à soumettre les vôtres. Trouvez les commandes d'installation et les liens vers les dépôts."
-keywords: ["plugins openclaw", "plugins communautaires", "soumission de plugin", "npm openclaw", "dépôt github", "installation de plugin", "extensions", "intégration wechat"]
----
+
 
   Extensions
 

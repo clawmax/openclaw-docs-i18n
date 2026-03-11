@@ -1,7 +1,4 @@
-title: "Guide de test OpenClaw AI : Commandes, benchmarks et Docker"
-description: "Apprenez à exécuter les tests OpenClaw AI, y compris les tests unitaires, d'intégration et en direct. Obtenez les commandes pour la couverture, les benchmarks et les tests E2E basés sur Docker."
-keywords: ["tests openclaw", "commandes vitest", "tests e2e docker", "couverture de test", "benchmarks cli", "intégration gateway", "pnpm test", "bench latence modèle"]
----
+
 
   Notes de version
 

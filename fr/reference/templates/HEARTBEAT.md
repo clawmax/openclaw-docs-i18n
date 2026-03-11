@@ -1,7 +1,4 @@
-title: "Guide du modèle HEARTBEAT pour les agents IA OpenClaw"
-description: "Apprenez à utiliser le modèle HEARTBEAT pour configurer des tâches périodiques et des appels API pour votre agent IA OpenClaw. Ignorez ou activez les vérifications automatisées."
-keywords: ["modèle heartbeat", "openclaw ai", "configuration d'agent", "tâches périodiques", "appels api", "automatisation", "tâches d'agent", "modèles"]
----
+
 
   Modèles
 

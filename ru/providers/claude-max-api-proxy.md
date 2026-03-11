@@ -1,7 +1,4 @@
-title: "Руководство по настройке Claude Max API Proxy для совместимости с OpenAI"
-description: "Узнайте, как использовать Claude Max API Proxy для предоставления вашей подписки Claude в виде API-эндпоинта, совместимого с OpenAI. Включает настройку автозапуска на macOS."
-keywords: ["claude max api proxy", "api совместимый с openai", "подписка на claude", "anthropic claude", "настройка api proxy", "claude max proxy", "инструмент сообщества", "формат api openai"]
----
+
 
   Провайдеры
 

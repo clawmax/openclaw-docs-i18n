@@ -9,20 +9,20 @@ CI 在每次推送到 `main` 分支以及每个拉取请求时运行。它采用
 
 ## 任务概览
 
-|| 任务 | 目的 | 何时运行 |
-|| --- | --- | --- |
-|| `docs-scope` | 检测仅文档更改 | 始终 |
-|| `changed-scope` | 检测哪些区域发生更改（node/macos/android/windows） | 非文档 PR |
-|| `check` | TypeScript 类型检查、代码检查、格式化 | 推送到 `main`，或包含 Node 相关更改的 PR |
-|| `check-docs` | Markdown 检查 + 损坏链接检查 | 文档发生更改 |
-|| `code-analysis` | 代码行数阈值检查（1000 行） | 仅限 PR |
-|| `secrets` | 检测泄露的密钥 | 始终 |
-|| `build-artifacts` | 构建一次 dist，与其他任务共享 | 非文档，Node 更改 |
-|| `release-check` | 验证 npm 包内容 | 构建之后 |
-|| `checks` | Node/Bun 测试 + 协议检查 | 非文档，Node 更改 |
-|| `checks-windows` | Windows 特定测试 | 非文档，与 Windows 相关的更改 |
-|| `macos` | Swift 代码检查/构建/测试 + TS 测试 | 包含 macOS 更改的 PR |
-|| `android` | Gradle 构建 + 测试 | 非文档，Android 更改 |
+| 任务 | 目的 | 何时运行 |
+| --- | --- | --- |
+| `docs-scope` | 检测仅文档更改 | 始终 |
+| `changed-scope` | 检测哪些区域发生更改（node/macos/android/windows） | 非文档 PR |
+| `check` | TypeScript 类型检查、代码检查、格式化 | 推送到 `main`，或包含 Node 相关更改的 PR |
+| `check-docs` | Markdown 检查 + 损坏链接检查 | 文档发生更改 |
+| `code-analysis` | 代码行数阈值检查（1000 行） | 仅限 PR |
+| `secrets` | 检测泄露的密钥 | 始终 |
+| `build-artifacts` | 构建一次 dist，与其他任务共享 | 非文档，Node 更改 |
+| `release-check` | 验证 npm 包内容 | 构建之后 |
+| `checks` | Node/Bun 测试 + 协议检查 | 非文档，Node 更改 |
+| `checks-windows` | Windows 特定测试 | 非文档，与 Windows 相关的更改 |
+| `macos` | Swift 代码检查/构建/测试 + TS 测试 | 包含 macOS 更改的 PR |
+| `android` | Gradle 构建 + 测试 | 非文档，Android 更改 |
 
 ## 快速失败顺序
 
@@ -36,11 +36,11 @@ CI 在每次推送到 `main` 分支以及每个拉取请求时运行。它采用
 
 ## 运行器
 
-|| 运行器 | 任务 |
-|| --- | --- |
-|| `blacksmith-16vcpu-ubuntu-2404` | 大多数 Linux 任务，包括作用域检测 |
-|| `blacksmith-32vcpu-windows-2025` | `checks-windows` |
-|| `macos-latest` | `macos`, `ios` |
+| 运行器 | 任务 |
+| --- | --- |
+| `blacksmith-16vcpu-ubuntu-2404` | 大多数 Linux 任务，包括作用域检测 |
+| `blacksmith-32vcpu-windows-2025` | `checks-windows` |
+| `macos-latest` | `macos`, `ios` |
 
 ## 本地等效命令
 

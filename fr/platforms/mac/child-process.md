@@ -1,7 +1,4 @@
-title: "Cycle de vie de la passerelle macOS et gestion des processus enfants"
-description: "Découvrez comment l'application macOS gère la passerelle via launchd pour le démarrage automatique et la fiabilité, et comprenez les modes attach-only ou distant."
-keywords: ["passerelle macos", "launchd", "processus enfant", "openclaw mac", "cycle de vie passerelle", "mode attach-only", "mode distant", "launchagent"]
----
+
 
   Application compagnon macOS
 

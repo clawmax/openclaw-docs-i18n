@@ -1,7 +1,4 @@
-title: "Sémantique des justificatifs d'authentification et règles d'éligibilité OpenClaw"
-description: "Apprenez les règles canoniques d'éligibilité et de résolution pour les justificatifs de jeton dans OpenClaw, y compris les codes de raison stables et la logique de validation pour les profils d'authentification."
-keywords: ["sémantique des justificatifs d'authentification", "règles d'éligibilité des jetons", "resolveauthprofileorder", "tokenref", "validation expires", "authentification openclaw", "résolution des justificatifs", "sonde de profil d'authentification"]
----
+
 
   Configuration et opérations
 

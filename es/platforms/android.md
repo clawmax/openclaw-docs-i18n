@@ -1,7 +1,4 @@
-title: "Guía de configuración y descripción general de la aplicación OpenClaw para Android"
-description: "Aprende a configurar el nodo compañero de OpenClaw para Android, conectarlo a una Puerta de enlace y usar funciones como chat, lienzo, cámara y voz."
-keywords: ["openclaw android", "configuración de nodo android", "emparejamiento de puerta de enlace", "aplicación compañera android", "puerta de enlace openclaw", "lienzo android", "control por voz android", "tailscale android"]
----
+
 
   Descripción general de plataformas
 

@@ -1,7 +1,4 @@
-title: "API HTTP OpenResponses para Configuración y Uso de OpenClaw Gateway"
-description: "Aprende cómo habilitar y usar el endpoint POST /v1/responses compatible con OpenResponses en OpenClaw Gateway. Configura autenticación, seguridad, agentes, herramientas y manejo de archivos."
-keywords: ["api openresponses", "openclaw gateway", "api http", "integración de agentes", "autenticación api", "herramientas cliente", "carga de archivos", "streaming sse"]
----
+
 
   Protocolos y APIs
 

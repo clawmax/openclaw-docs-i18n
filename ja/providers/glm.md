@@ -1,7 +1,4 @@
-title: "Z.AIプロバイダー経由でOpenClawでGLMモデルを使用する方法"
-description: "Z.AIプロバイダーを使用してOpenClawでglm-5などのGLMモデルをセットアップおよび設定する方法を学びます。CLIセットアップと設定例を含みます。"
-keywords: ["glmモデル", "openclaw zaiプロバイダー", "glm-5セットアップ", "zai apiキー", "openclaw設定", "glmモデルファミリー", "zaiプラットフォーム", "openclawプロバイダー"]
----
+
 
   プロバイダー
 

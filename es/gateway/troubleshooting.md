@@ -1,7 +1,4 @@
-title: "Guía de Solución de Problemas y Soluciones para OpenClaw Gateway"
-description: "Resuelve problemas comunes del gateway de OpenClaw: servicio no en ejecución, sin respuestas, errores 429, conectividad del panel de control y problemas de flujo de mensajes con comandos paso a paso."
-keywords: ["solución de problemas openclaw", "gateway no en ejecución", "error 429 de anthropic", "conectividad del panel de control", "problemas de flujo de mensajes", "emparejamiento de canales", "latido cron", "falla de herramienta del navegador"]
----
+
 
   Configuración y operaciones
 

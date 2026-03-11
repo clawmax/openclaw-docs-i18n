@@ -1,7 +1,4 @@
-title: "Guía de Cron Jobs de OpenClaw: Programación y Automatización"
-description: "Aprende a programar tareas automatizadas con cron jobs de OpenClaw. Configura recordatorios únicos, tareas recurrentes y elige entre modos de ejecución principal o aislada."
-keywords: ["cron de openclaw", "programación de automatización", "trabajos cron", "programador de gateway", "turno de agente aislado", "eventos del sistema", "tareas recurrentes", "entrega de trabajos"]
----
+
 
   Automatización
 

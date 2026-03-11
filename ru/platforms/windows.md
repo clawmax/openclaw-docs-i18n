@@ -1,7 +1,4 @@
-title: "Руководство по установке и настройке OpenClaw на Windows через WSL2"
-description: "Узнайте, как установить и запустить OpenClaw на Windows с помощью WSL2. Пошаговое руководство по настройке, службе шлюза, автозапуску и доступу по локальной сети."
-keywords: ["openclaw windows", "настройка wsl2", "установка openclaw", "шлюз windows", "проброс портов wsl2", "openclaw wsl2", "автоматизация windows", "systemd wsl2"]
----
+
 
   Обзор платформ
 

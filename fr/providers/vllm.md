@@ -1,7 +1,4 @@
-title: "Guide de configuration et d'installation du fournisseur OpenClaw vLLM"
-description: "Apprenez à connecter OpenClaw à vLLM pour servir des modèles open-source via une API compatible OpenAI. Inclut le démarrage rapide, la découverte automatique et la configuration explicite."
-keywords: ["vllm", "api compatible openai", "servir des modèles", "fournisseurs openclaw", "llm local", "découverte de modèles", "completions openai", "configuration vllm"]
----
+
 
   Fournisseurs
 

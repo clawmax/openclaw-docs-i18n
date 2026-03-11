@@ -1,7 +1,4 @@
-title: "OpenClaw 開発チャネル Stable Beta Dev インストールガイド"
-description: "npm dist-tag または git を使用して、OpenClaw の stable、beta、dev アップデートチャネルを切り替える方法を学びます。プラグインソースの管理と、タグ付けのベストプラクティスについて理解します。"
-keywords: ["openclaw", "開発チャネル", "アップデートチャネル", "npm dist-tag", "ベータ版インストール", "git checkout", "安定版チャネル", "開発版チャネル"]
----
+
 
   上級者向け
 

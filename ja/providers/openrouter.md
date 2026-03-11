@@ -1,7 +1,4 @@
-title: "OpenClaw AI 向け OpenRouter プロバイダーのセットアップと設定"
-description: "OpenClaw AI で OpenRouter プロバイダーを設定および構成する方法を学びます。単一の API キーと OpenAI 互換エンドポイントで複数の AI モデルにアクセスするための統合 API を使用します。"
-keywords: ["openrouter", "openclaw ai", "api プロバイダー", "統合 api", "モデルルーティング", "openai 互換", "claude sonnet", "ai 設定"]
----
+
 
   プロバイダー
 

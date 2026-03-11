@@ -1,7 +1,4 @@
-title: "Guía y Ejemplos del Comando Agente de la CLI de OpenClaw"
-description: "Aprende a ejecutar un turno de agente mediante la CLI de OpenClaw. Usa ejemplos para enviar mensajes, dirigirte a agentes específicos y gestionar opciones de entrega."
-keywords: ["openclaw cli", "comando agente", "cli agente", "ejecutar agente", "ejemplos de agente", "enviar agente", "agente gateway", "herramientas cli"]
----
+
 
   Comandos CLI
 

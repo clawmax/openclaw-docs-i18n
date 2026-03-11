@@ -1,7 +1,4 @@
-title: "Intégration de la superposition vocale pour les contributeurs de l'application compagnon macOS"
-description: "Apprenez à gérer la superposition vocale lorsque la commande vocale et la pression-pour-parler se chevauchent, y compris la gestion des sessions, le débogage et les étapes de mise en œuvre."
-keywords: ["superposition vocale macos", "commande vocale", "pression-pour-parler", "session vocale", "voicewake", "intégration superposition", "application compagnon macos", "coordinateur de session vocale"]
----
+
 
   Application compagnon macOS
 

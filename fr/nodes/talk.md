@@ -1,7 +1,4 @@
-title: "Mode Conversation Continue par Voix pour OpenClaw AI"
-description: "Apprenez à utiliser le mode Conversation pour des échanges vocaux continus avec l'IA. Configurez les directives vocales, gérez le comportement et paramétrez ElevenLabs TTS pour une diffusion en flux à faible latence."
-keywords: ["mode conversation", "conversation vocale", "elevenlabs tts", "voix continue", "directives vocales", "openclaw ai", "configuration vocale", "lecture en flux"]
----
+
 
   Médias et périphériques
 

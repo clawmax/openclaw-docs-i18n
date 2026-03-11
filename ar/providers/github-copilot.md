@@ -1,7 +1,4 @@
-title: "كيفية استخدام GitHub Copilot كمزود نموذج في OpenClaw"
-description: "تعلم طريقتين لدمج GitHub Copilot مع OpenClaw: المزود المدمج وملحق Copilot Proxy. يتضمن أوامر الإعداد والتكوين."
-keywords: ["github copilot", "openclaw", "مساعد برمجة ذكي", "مزود نموذج", "وكيل copilot", "إعداد سطر الأوامر", "تسجيل الدخول", "gpt-4o"]
----
+
 
   المزودون
 

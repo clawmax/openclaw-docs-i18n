@@ -1,7 +1,4 @@
-title: "Настройка провайдера Moonshot AI и Kimi Coding для OpenClaw"
-description: "Узнайте, как настроить провайдер Moonshot AI и Kimi Coding в OpenClaw. Настройте API-ключи, конечные точки и ссылки на модели, такие как moonshot/kimi-k2.5."
-keywords: ["moonshot ai", "kimi api", "провайдер openclaw", "kimi coding", "kimi k2.5", "openai-совместимый api", "настройка api", "настройка модели"]
----
+
 
   Провайдеры
 

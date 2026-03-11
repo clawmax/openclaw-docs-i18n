@@ -1,7 +1,4 @@
-title: "إعداد موفر Kilocode في OpenClaw: مفتاح API والنماذج"
-description: "تعلّم كيفية إعداد موفر Kilocode في OpenClaw، والحصول على مفتاح API الخاص بك، واستخدام بوابة Kilo الموحدة للوصول إلى نماذج الذكاء الاصطناعي المتعددة."
-keywords: ["kilocode", "kilo gateway", "مزودو openclaw", "واجهة برمجة تطبيقات موحدة", "توجيه النماذج", "إعداد مفتاح API", "claude sonnet", "gpt-5.2"]
----
+
 
   المزودون
 

@@ -1,7 +1,4 @@
-title: "Интеграция голосового оверлея для разработчиков macOS Companion App"
-description: "Узнайте, как управлять голосовым оверлеем при пересечении wake-word и push-to-talk, включая обработку сессий, отладку и шаги реализации."
-keywords: ["macos голосовой оверлей", "wake-word", "push-to-talk", "голосовая сессия", "voicewake", "интеграция оверлея", "macos companion app", "координатор голосовых сессий"]
----
+
 
   macOS companion app
 

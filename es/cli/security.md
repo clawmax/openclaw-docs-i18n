@@ -1,7 +1,4 @@
-title: "Guía de Comandos de Auditoría de Seguridad y Correcciones de OpenClaw CLI"
-description: "Aprende a usar la herramienta de auditoría de seguridad de OpenClaw CLI para identificar vulnerabilidades y aplicar correcciones automáticas para una configuración segura."
-keywords: ["seguridad openclaw", "auditoría de seguridad cli", "herramienta de auditoría de seguridad", "correcciones de seguridad", "endurecimiento de configuración", "vulnerabilidades de seguridad", "configuración de sandbox", "seguridad de gateway"]
----
+
 
   Comandos CLI
 

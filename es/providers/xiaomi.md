@@ -1,7 +1,4 @@
-title: "Configuración y configuración del proveedor Xiaomi MiMo para OpenClaw AI"
-description: "Aprende a configurar el proveedor Xiaomi MiMo en OpenClaw AI. Usa el modelo mimo-v2-flash con APIs compatibles con Anthropic mediante autenticación por clave API."
-keywords: ["xiaomi mimo", "proveedor openclaw", "mimo-v2-flash", "api anthropic", "autenticación por clave api", "configuración de modelo", "configuración de openclaw", "api xiaomi"]
----
+
 
   Proveedores
 

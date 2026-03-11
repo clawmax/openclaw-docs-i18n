@@ -1,7 +1,4 @@
-title: "محولات RPC وAPI في OpenClaw لدمج واجهات سطر الأوامر الخارجية"
-description: "تعرف على كيفية دمج OpenClaw لواجهات سطر الأوامر الخارجية باستخدام محولات JSON-RPC، بما في ذلك نمط خادم HTTP وعملية الطفل stdio لقنوات مثل Signal وiMessage."
-keywords: ["json-rpc", "محول rpc", "signal-cli", "دمج iMessage", "بوابة api", "واجهة سطر أوامر خارجية", "openclaw rpc", "عملية stdio"]
----
+
 
   RPC وAPI
 

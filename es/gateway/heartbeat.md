@@ -1,7 +1,4 @@
-title: "Guía de configuración de OpenClaw Heartbeat para turnos automatizados del agente"
-description: "Aprende a configurar y usar OpenClaw Heartbeat para registros periódicos del agente. Configura intervalos, personaliza prompts, gestiona destinos de entrega y soluciona problemas de tareas automatizadas."
-keywords: ["openclaw heartbeat", "automatización de agente", "turnos periódicos del agente", "configuración de heartbeat", "registro automatizado", "sesión del agente", "prompt de heartbeat", "horas activas"]
----
+
 
   Configuración y operaciones
 

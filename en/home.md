@@ -10,7 +10,7 @@
 
 > *"EXFOLIATE! EXFOLIATE!"* — A space lobster, probably
 
-  **Any OS gateway for AI agents across WhatsApp, Telegram, Discord, iMessage, and more.** Send a message, get an agent response from your pocket. Plugins add Mattermost and more.
+**Any OS gateway for AI agents across WhatsApp, Telegram, Discord, iMessage, and more.** Send a message, get an agent response from your pocket. Plugins add Mattermost and more.
 
   
   

@@ -1,7 +1,4 @@
-title: "Адаптеры RPC и API OpenClaw для интеграции внешних CLI"
-description: "Узнайте, как OpenClaw интегрирует внешние CLI с помощью JSON-RPC адаптеров, включая шаблоны HTTP-демона и дочернего процесса stdio для каналов, таких как Signal и iMessage."
-keywords: ["json-rpc", "rpc адаптер", "signal-cli", "интеграция imessage", "api шлюз", "внешний cli", "openclaw rpc", "stdio процесс"]
----
+
 
   RPC и API
 

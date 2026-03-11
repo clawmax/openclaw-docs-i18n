@@ -1,7 +1,4 @@
-title: "Guía de Nodos OpenClaw para Dispositivos Multimedia y Hosts Remotos"
-description: "Aprende a configurar y gestionar nodos OpenClaw para capturas de pantalla, cámara, ubicación, SMS y ejecución remota de comandos. Incluye emparejamiento, comandos CLI y solución de problemas."
-keywords: ["nodos openclaw", "emparejamiento de dispositivos", "host de nodo remoto", "instantánea de lienzo", "comandos de cámara", "nodos android", "system.run", "protocolo de puerta de enlace"]
----
+
 
   Medios y dispositivos
 

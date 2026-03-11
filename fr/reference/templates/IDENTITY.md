@@ -1,7 +1,4 @@
-title: "Guide et configuration du modèle d'identité OpenClaw AI"
-description: "Apprenez à configurer l'identité de votre assistant IA. Définissez le nom, le type de créature, l'ambiance, l'emoji et l'avatar en utilisant le modèle IDENTITY.md."
-keywords: ["openclaw ai", "modèle d'identité", "configuration assistant ia", "identity.md", "persona ia", "configuration avatar", "personnalisation ia", "configuration espace de travail"]
----
+
 
   Modèles
 

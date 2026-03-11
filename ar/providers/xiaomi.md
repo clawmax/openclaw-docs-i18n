@@ -1,7 +1,4 @@
-title: "إعداد وتكوين مزود Xiaomi MiMo لـ OpenClaw AI"
-description: "تعلم كيفية إعداد وتكوين مزود Xiaomi MiMo في OpenClaw AI. استخدم نموذج mimo-v2-flash مع واجهات برمجة تطبيقات متوافقة مع Anthropic عبر مصادقة مفتاح API."
-keywords: ["xiaomi mimo", "مزود openclaw", "mimo-v2-flash", "واجهة برمجة تطبيقات anthropic", "مصادقة مفتاح api", "تكوين النموذج", "إعداد openclaw", "واجهة برمجة تطبيقات xiaomi"]
----
+
 
   المزودون
 

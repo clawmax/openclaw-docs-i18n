@@ -1,7 +1,4 @@
-title: "OpenClaw Gateway ロギング設定と運用ガイド"
-description: "OpenClaw gateway でのファイルおよびコンソールロギングの設定、ログレベルの設定、WebSocket ログの管理、機密データのための編集（リダクション）の使用方法について学びます。"
-keywords: ["openclaw ロギング", "ゲートウェイログ", "ログ設定", "websocket ログ", "コンソールキャプチャ", "ログ編集", "json ログ", "ログレベル"]
----
+
 
   設定と運用
 

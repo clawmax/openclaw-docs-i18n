@@ -1,7 +1,4 @@
-title: "دعم منصة OpenClaw لأنظمة macOS و iOS و Android و Windows و Linux"
-description: "تعرف على المنصات التي يدعمها OpenClaw، بما في ذلك macOS و Windows و Linux و iOS و Android. ابحث عن أدلة التثبيت لاستضافة VPS وخدمة Gateway."
-keywords: ["منصات openclaw", "تثبيت gateway", "استضافة vps", "تطبيق رفيق macos", "windows wsl2", "خدمة systemd لنظام linux", "العقد المحمولة", "نظرة عامة على المنصة"]
----
+
 
   نظرة عامة على المنصات
 

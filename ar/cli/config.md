@@ -1,7 +1,4 @@
-title: "دليل أوامر config في OpenClaw CLI وأمثلة عليها"
-description: "تعلّم كيفية استخدام أمر config في OpenClaw CLI للحصول على قيم الإعدادات وتعيينها وإلغاء تعيينها والتحقق من صحتها باستخدام مسارات بنقطة أو أقواس."
-keywords: ["openclaw config", "إعدادات سطر الأوامر", "config get set", "التحقق من الإعدادات", "مسارات الإعدادات", "json5 config", "openclaw cli", "ملف الإعدادات"]
----
+
 
   أوامر CLI
 

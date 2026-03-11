@@ -1,7 +1,4 @@
-title: "دليل إعداد ويب هوك لـ OpenClaw CLI والتكامل مع Gmail"
-description: "تعلم كيفية إعداد وتشغيل ويب هوك باستخدام OpenClaw CLI، بما في ذلك تكامل Gmail Pub/Sub للأتمتة. ابدأ باستخدام مساعدات ويب هوك."
-keywords: ["openclaw cli", "إعداد ويب هوك", "gmail pub/sub", "أتمتة سطر الأوامر", "تكامل ويب هوك", "أتمتة gmail", "ويب هوك سطر الأوامر", "ويب هوك openclaw"]
----
+
 
   أوامر CLI
 

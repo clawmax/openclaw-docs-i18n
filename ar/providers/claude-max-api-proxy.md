@@ -1,7 +1,4 @@
-title: "دليل إعداد وكيل API لـ Claude Max للتكامل مع OpenAI"
-description: "تعلم كيفية استخدام وكيل API لـ Claude Max لعرض اشتراكك في Claude كنقطة نهاية API متوافقة مع OpenAI. يتضمن الإعداد للتشغيل التلقائي على macOS."
-keywords: ["وكيل api لـ claude max", "api متوافق مع openai", "اشتراك claude", "anthropic claude", "إعداد وكيل api", "وكيل claude max", "أداة مجتمعية", "تنسيق openai api"]
----
+
 
   مزودو الخدمة
 

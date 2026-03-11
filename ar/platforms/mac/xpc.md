@@ -1,7 +1,4 @@
-title: "بنية OpenClaw لنظام macOS: XPC و IPC وتطبيق المرافق"
-description: "تعرف على كيفية استخدام تطبيق OpenClaw المرافق لنظام macOS لـ XPC ومقابس Unix للاتصال بين العمليات (IPC) الآمن، أذونات TCC، وأتمتة واجهة المستخدم عبر PeekabooBridge."
-keywords: ["macos xpc", "openclaw mac", "ipc unix socket", "tcc permissions", "peekaboobridge", "macos companion app", "node host service", "ui automation"]
----
+
 
   تطبيق macOS المرافق
 
