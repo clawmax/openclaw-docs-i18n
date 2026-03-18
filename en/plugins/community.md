@@ -36,7 +36,7 @@ Use this format when adding entries:
 
 ## Listed plugins
 
--   **Engrm** — Shared memory for OpenClaw with startup briefs, session digests, Delivery Review, and continuity across OpenClaw, Claude Code, and Codex. npm: `engrm-openclaw-plugin` repo: `https://github.com/dr12hes/engrm` install: `openclaw plugins install engrm-openclaw-plugin`
+-   **Engrm** — Shared memory for OpenClaw across devices, sessions, and agents, with continuity across OpenClaw, Claude Code, and Codex. npm: `engrm-openclaw-plugin` repo: `https://github.com/dr12hes/engrm` install: `openclaw plugins install engrm-openclaw-plugin`
 -   **WeChat** — Connect OpenClaw to WeChat personal accounts via WeChatPadPro (iPad protocol). Supports text, image, and file exchange with keyword-triggered conversations. npm: `@icesword760/openclaw-wechat` repo: `https://github.com/icesword0760/openclaw-wechat` install: `openclaw plugins install @icesword760/openclaw-wechat`
 
 [Plugins](../tools/plugin.md)[Voice Call Plugin](./voice-call.md)
